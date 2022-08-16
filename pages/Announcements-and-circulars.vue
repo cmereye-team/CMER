@@ -81,6 +81,8 @@
      <!-- <tr v-for="item in newlist" :data-date='item.date|dateFormat("yyyy")'> <td>{{item.date|dateFormat("yyyy-MM-dd")}}</td> 
     <td> <nuxt-link class="table-cell"  :to="item.acf.post_pdf_link"> <p>{{item.title.rendered | ellipsis}}</p></nuxt-link> </td> </tr>   -->
 
+<tr> <td>2022-08-10</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0810.pdf" target="_blank" rel="nofollow"> <p>董事會會議通告</p></a></td> </tr> 
+<tr> <td>2022-08-02</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0802.pdf" target="_blank" rel="nofollow"> <p>截至二零二二年七月三十一日止股份發行人的證券變動月報表</p></a></td> </tr> 
 <tr> <td>2022-07-04</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0705.pdf" target="_blank" rel="nofollow"> <p>截至二零二二年六月三十日止股份發行人的證券變動月報表</p></a></td> </tr> 
 <tr> <td>2022-06-08</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW-2022-06-08.pdf" target="_blank" rel="nofollow"> <p>翌日披露報表</p></a></td> </tr>
 

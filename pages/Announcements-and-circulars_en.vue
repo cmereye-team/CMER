@@ -89,6 +89,10 @@
 
     <td> <nuxt-link class="table-cell"  :to="item.link"> <p>{{item.title.rendered | ellipsis}}</p></nuxt-link> </td> </tr>  -->
 
+   <tr> <td>2022-08-10</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0810.pdf" target="_blank" rel="nofollow"> <p>NOTICE OF BOARD MEETING</p></a></td> </tr>      
+
+   <tr> <td>2022-08-02</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0802.pdf" target="_blank" rel="nofollow"> <p>Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 July 2022</p></a></td> </tr>      
+
   <tr> <td>2022-07-04</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0705.pdf" target="_blank" rel="nofollow"> <p>Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 June 2022</p></a></td> </tr>    
 
   <tr> <td>2022-06-08</td> <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW-2022-06-08.pdf" target="_blank" rel="nofollow"> <p>Next Day Disclosure Returns</p></a></td> </tr>

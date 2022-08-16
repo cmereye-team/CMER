@@ -79,6 +79,8 @@
 <table class="w-full mt-10">
   <tbody>
 
+<tr> <td>2022-08-10</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0810.pdf" target="_blank" rel="nofollow"> <p>董事会会议通告</p></a></td> </tr> 
+<tr> <td>2022-08-02</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0802.pdf" target="_blank" rel="nofollow"> <p>截至二零二二年七月三十一日止股份发行人的证券变动月报表</p></a></td> </tr> 
 <tr> <td>2022-07-04</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0705.pdf" target="_blank" rel="nofollow"> <p>截至二零二二年六月三十日止股份发行人的证券变动月报表</p></a></td> </tr> 
 <tr> <td>2022-06-08</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW-2022-06-08.pdf" target="_blank" rel="nofollow"> <p>翌日披露报表</p></a></td> </tr>
 
