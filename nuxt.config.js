@@ -51,7 +51,7 @@ export default {
     proxy: true,// 表示开启代理
     prefix: '',// 表示给请求url加个前缀 /api
     credentials: true,// 表示跨域请求时是否需要使用凭证
-    // 配置请求的基准URL地址
+    // 配置请求的基准URL地址 
     baseURL : 'https://admin.cmereye.com'
   },
   publicRuntimeConfig: {
