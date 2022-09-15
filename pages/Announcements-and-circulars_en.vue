@@ -141,7 +141,7 @@
 		  
 	 <tr>
         <td>2022-03-30</td>
-        <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/03/EW03309.pdf" target="_blank" rel="nofollow">
+        <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/03/EW03309.pdf" target="_blank" rel="nofollow">
           <p>ANNUAL RESULTS FOR THE YEAR ENDED 31 DECEMBER 2021 AND CHANGE IN USE OF PROCEEDS FROM THE GLOBAL OFFERING</p></a></td>
         </tr>     	  
 
@@ -642,7 +642,7 @@ import Footer from '../components/Footer_en.vue';
 import axios from 'axios';
 export default {
 async asyncData({ app, req, query, params,store}){
-		  const  newlistData = await axios.get(`https://www.cmereye.com/wp-json/wp/v2/posts?categories=3`);
+		  const  newlistData = await axios.get(`https://admin.cmereye.com/wp-json/wp/v2/posts?categories=3`);
       console.log(222);  //获取到的数据
 		  return {
 		   newlist: newlistData.data,

@@ -82,7 +82,7 @@ import axios from 'axios';
         
 export default {
     async asyncData({params,store}){
-      const  newlistData = await axios.get('https://www.cmereye.com/wp-json/wp/v2/posts/'+ params.id);
+      const  newlistData = await axios.get('https://admin.cmereye.com/wp-json/wp/v2/posts/'+ params.id);
          //console.log( newlistData.data);
         // console.log( domain);
 		  return {

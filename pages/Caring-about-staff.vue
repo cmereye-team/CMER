@@ -103,7 +103,7 @@ import Footer from '../components/Footer.vue';
 import axios from 'axios';
 export default {
   async asyncData({ app, req, query, params,store}){
-		  const  aboutData = await axios.get(`https://www.cmereye.com/wp-json/wp/v2/pages/35`);
+		  const  aboutData = await axios.get(`https://admin.cmereye.com/wp-json/wp/v2/pages/35`);
       console.log( aboutData.data);  
 		  return {
 		    AboutData: aboutData.data,

@@ -1,6 +1,6 @@
 import qs from "qs"; //使用qs将请求从参数转化位字符串
 // console.log('axios.js');
-var apiurl = 'https://www.cmereye.com/wp-json/wp/v2';
+var apiurl = 'https://admin.cmereye.com/wp-json/wp/v2';
 // console.log(apiurl);
 
 export default function ({ $axios, redirect }) {

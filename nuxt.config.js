@@ -52,7 +52,7 @@ export default {
     prefix: '',// 表示给请求url加个前缀 /api
     credentials: true,// 表示跨域请求时是否需要使用凭证
     // 配置请求的基准URL地址
-    baseURL : 'https://www.cmereye.com'
+    baseURL : 'https://admin.cmereye.com'
   },
   publicRuntimeConfig: {
     axios: {
@@ -67,7 +67,7 @@ export default {
   },
   proxy: {
     '/api': {
-      target: 'https://www.cmereye.com/wp-json/wp/v2', // 目标接口域名
+      target: 'https://admin.cmereye.com/wp-json/wp/v2', // 目标接口域名
       secure: false,// 如果是https接口，需要配置这个参数
       changeOrigin: true, // 表示是否跨域
       pathRewrite: {

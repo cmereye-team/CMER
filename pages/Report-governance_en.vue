@@ -70,7 +70,7 @@
 
             <b-row>
               <b-col md="6"><div class="part_governance flex justify-between  ">
-              <a target="_blank" href="https://www.cmereye.com/wp-content/uploads/2022/06/20220601cn.pdf">
+              <a target="_blank" href="https://admin.cmereye.com/wp-content/uploads/2022/06/20220601cn.pdf">
               <div class="book">
                 
                 <div class="back"></div>
@@ -85,11 +85,11 @@
              </a>
               <div class="desc flex justify-between flex-col">
                 <h2>2021</h2>
-                <a class="more text-right"  target="_blank" href="https://www.cmereye.com/wp-content/uploads/2022/06/20220601cn.pdf">VIEW NOW</a> 
+                <a class="more text-right"  target="_blank" href="https://admin.cmereye.com/wp-content/uploads/2022/06/20220601cn.pdf">VIEW NOW</a> 
               </div>
            </div></b-col>
               <b-col md="6"><div class="part_governance flex justify-between  ">
-             <a target="_blank" href="https://www.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309%20ESG20.pdf">
+             <a target="_blank" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309%20ESG20.pdf">
               <div class="book">
                 
                 <div class="back"></div>
@@ -104,14 +104,14 @@
              </a>
               <div class="desc flex justify-between flex-col">
                 <h2>2020</h2>
-                <a class="more text-right"  target="_blank" href="https://www.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309%20ESG20.pdf">VIEW NOW</a> 
+                <a class="more text-right"  target="_blank" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309%20ESG20.pdf">VIEW NOW</a> 
               </div>
            </div></b-col>
            </b-row>
 
            <b-row class="mt-40">
               <b-col md="6"><div class="part_governance flex justify-between  ">
-              <a target="_blank" href="https://www.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020062300660_c.pdf">
+              <a target="_blank" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020062300660_c.pdf">
               <div class="book">
                 
                 <div class="back"></div>
@@ -126,7 +126,7 @@
              </a>
               <div class="desc flex justify-between flex-col">
                 <h2>2019</h2>
-                <a class="more text-right"  target="_blank" href="https://www.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020062300660_c.pdf">VIEW NOW</a> 
+                <a class="more text-right"  target="_blank" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020062300660_c.pdf">VIEW NOW</a> 
               </div>
            </div></b-col>
               <b-col md="6"><div class="part_governance flex justify-between  ">
@@ -145,7 +145,7 @@
              </a>
               <div class="desc flex justify-between flex-col">
                 <h2>2018</h2>
-                <a class="more text-right"  target="_blank" href="https://www.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/ltn20190723549_c.pdf">VIEW NOW</a> 
+                <a class="more text-right"  target="_blank" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/ltn20190723549_c.pdf">VIEW NOW</a> 
               </div>
            </div></b-col>
            </b-row>
@@ -202,7 +202,7 @@ import Footer from '../components/Footer_en.vue';
 import axios from 'axios';
 export default {
  /*  async asyncData({ app, req, query, params,store}){
-		  const  aboutData = await axios.get(`https://www.cmereye.com/wp-json/wp/v2/pages/2`);
+		  const  aboutData = await axios.get(`https://admin.cmereye.com/wp-json/wp/v2/pages/2`);
       console.log( aboutData.data);  
 		  return {
 		    AboutData: aboutData.data,

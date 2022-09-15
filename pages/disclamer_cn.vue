@@ -128,7 +128,7 @@ import Footer from '../components/Footer_cn.vue';
 import axios from 'axios';
 export default {
    async asyncData({ app, req, query, params,store}){
-		  const  disclamerData = await axios.get(`https://www.cmereye.com/wp-json/wp/v2/pages/394`);
+		  const  disclamerData = await axios.get(`https://admin.cmereye.com/wp-json/wp/v2/pages/394`);
 		  return {
 		    disclamerData: disclamerData.data,
 		  };

@@ -87,50 +87,50 @@
   <tbody> 
     
 
-  <tr> <td>2022-03-29</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20220329_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2022-03-29</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20220329_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>希瑪2021年收益創新高逾11億港元   同比增長59%</p></a></td> </tr>
 
-  <tr> <td>2022-02-22</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20220222_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2022-02-22</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20220222_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>希瑪醫療與深圳亞輝龍聯手加大抗疫力度 捐贈基層市民新冠病毒快速檢測包倍增至60萬套</p></a></td> </tr>
     
-  <tr> <td>2022-02-16</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20220216_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2022-02-16</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20220216_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>港深攜手同心抗疫 希瑪醫療夥同深圳亞輝龍向香港基層市民 捐贈30萬套新冠病毒快速測試包</p></a></td> </tr>
   
-  <tr> <td>2021-12-13</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20211213_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2021-12-13</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20211213_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>香港理工大學與希瑪眼科合作於粵港澳大灣區培育香港年輕視光專才</p></a></td> </tr>
 
-  <tr> <td>2021-09-03</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20210903_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2021-09-03</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20210903_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>希瑪眼科聯盟愛康健齒科，共同打造灣區醫療大健康合作新標杆</p></a></td> </tr>
     
-  <tr> <td>2021-08-26</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20210826_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2021-08-26</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20210826_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>希瑪眼科成立合資公司 啟動OK鏡研發及內地註冊</p></a></td> </tr>
   
-  <tr> <td>2021-08-23</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20210823_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2021-08-23</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20210823_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>「希瑪香港中西腫瘤中心」正式成立並將於2021年9月開始提供服務</p></a></td> </tr>
 
-  <tr> <td>2021-08-18</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20210818_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2021-08-18</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20210818_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>希瑪眼科落實進入佛山、東莞、福州和揭陽 在短期內爲居民提供優質的眼科醫療服務 目標在6至9個月內陸續開業</p></a></td> </tr>
     
-  <tr> <td>2021-03-31</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20210331_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2021-03-31</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20210331_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>希瑪眼科2020年業績較去年增長21.4%， 公司發展迅速。香港業務擴展至其他專科， 內地今年將於大灣區新開兩間眼科醫院。</p></a></td> </tr>
     
-  <tr> <td>2020-08-28</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20200828_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2020-08-28</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20200828_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>希瑪眼科2020第二季總收入V型反彈，七、八月保持良好恢復勢頭。</p></a></td> </tr>
     
-  <tr> <td>2020-03-31</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20200331_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2020-03-31</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20200331_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>希瑪眼科2019年按計劃穩步發展，總平均收益較去年增長。增長34.2% (香港: 30.7%；內地: 37.8%) 因有多間醫院仍在投資期，故利潤較去年微降8.1%</p></a></td> </tr>
     
-  <tr> <td>2020-01-21</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20200121_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2020-01-21</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20200121_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>希瑪眼科，北京、上海、廣州、深圳以至大灣區布局 在今年內基本完成</p></a></td> </tr>
     
     
-  <tr> <td>2020-01-08</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20200108_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2020-01-08</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20200108_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>希瑪眼科和主席林順潮 上海、深圳連奪多個奬項</p></a></td> </tr>
     
-  <tr> <td>2019-08-27</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20190827_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2019-08-27</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20190827_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>希瑪眼科半年營收及純利持續高速增長 未來將加快深圳及大灣區發展</p></a></td> </tr>
     
-  <tr> <td>2018-06-26</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20180626_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2018-06-26</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20180626_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>希瑪眼科獲公益金頒發「公益榮譽獎」</p></a></td> </tr>
               
           
@@ -163,8 +163,8 @@ import axios from 'axios';
          
 export default {
   async asyncData({ app, req, query, params,store}){
-		  const  newlistData = await axios.get('https://www.cmereye.com/wp-json/wp/v2/posts?categories=4&page=1');
-       const  whitesData = await axios.get('https://www.cmereye.com/wp-json/wp/v2/posts?categories=4&page=2');
+		  const  newlistData = await axios.get('https://admin.cmereye.com/wp-json/wp/v2/posts?categories=4&page=1');
+       const  whitesData = await axios.get('https://admin.cmereye.com/wp-json/wp/v2/posts?categories=4&page=2');
       console.log(newlistData);
 		  return {
 		   newlist: newlistData.data,

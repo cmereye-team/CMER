@@ -84,15 +84,15 @@
 <tr> <td>2022-07-04</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0705.pdf" target="_blank" rel="nofollow"> <p>截至二零二二年六月三十日止股份发行人的证券变动月报表</p></a></td> </tr> 
 <tr> <td>2022-06-08</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW-2022-06-08.pdf" target="_blank" rel="nofollow"> <p>翌日披露报表</p></a></td> </tr>
 
-<tr> <td>2022-06-01</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/06/20220601cn.pdf" target="_blank" rel="nofollow"> <p>环境、社会及管治报告2021</p></a></td> </tr>
+<tr> <td>2022-06-01</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/06/20220601cn.pdf" target="_blank" rel="nofollow"> <p>环境、社会及管治报告2021</p></a></td> </tr>
 
- <tr> <td>2022-05-24</td> <td><a class="table-cell" href="https://www.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0524.pdf" target="_blank" rel="nofollow"> <p>于2022年5月24日举行的股东週年大会的投票表决结果</p></a></td> </tr>
-<tr> <td>2022-04-20</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/04/042002.pdf" target="_blank" rel="nofollow"> <p>致非登记持有人之通知信函及申请表格 - 2021年度报告及股东週年大会通函之发布通知</p></a></td> </tr>
-<tr> <td>2022-04-20</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/04/042001.pdf" target="_blank" rel="nofollow"> <p>致登记股东之通知信函及更改指示回条 - 2021年度报告、股东週年大会通函及代表委任表格的刊发通知</p></a></td> </tr>
+ <tr> <td>2022-05-24</td> <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0524.pdf" target="_blank" rel="nofollow"> <p>于2022年5月24日举行的股东週年大会的投票表决结果</p></a></td> </tr>
+<tr> <td>2022-04-20</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/04/042002.pdf" target="_blank" rel="nofollow"> <p>致非登记持有人之通知信函及申请表格 - 2021年度报告及股东週年大会通函之发布通知</p></a></td> </tr>
+<tr> <td>2022-04-20</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/04/042001.pdf" target="_blank" rel="nofollow"> <p>致登记股东之通知信函及更改指示回条 - 2021年度报告、股东週年大会通函及代表委任表格的刊发通知</p></a></td> </tr>
 <tr> <td>2022-04-20</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0420gu.pdf" target="_blank" rel="nofollow"> <p>购回授权及壹般授权、建议重选退任董事及股东周年大会通告</p></a></td> </tr>
 <tr> <td>2022-04-20</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0420nian.pdf" target="_blank" rel="nofollow"> <p>股东周年大会的代表委任表格</p></a></td> </tr>
 <tr> <td>2022-04-20</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0420zhou.pdf" target="_blank" rel="nofollow"> <p>股东周年大会通告</p></a></td> </tr>
- <tr> <td>2022-03-30</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/03/CW03309.pdf" target="_blank" rel="nofollow"> <p>截至2021年12月31日止年度的全年业绩及改变全球发售所得款项用途</p></a></td> </tr>
+ <tr> <td>2022-03-30</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/03/CW03309.pdf" target="_blank" rel="nofollow"> <p>截至2021年12月31日止年度的全年业绩及改变全球发售所得款项用途</p></a></td> </tr>
     <tr> <td>2022-03-14</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0315.pdf" target="_blank" rel="nofollow"> <p>正面盈利预告</p></a></td> </tr>
     <tr> <td>2022-02-17</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0217.pdf" target="_blank" rel="nofollow"> <p>深圳爱康健投资完成</p></a></td> </tr>
     
@@ -100,7 +100,7 @@
      
      <tr> <td>2021-11-02</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2021-1102.pdf" target="_blank" rel="nofollow">
           委任副主席及授出购股权</a></td> </tr>
-        <tr> <td>2021-11-02</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/04/20211102C.pdf" target="_blank" rel="nofollow">
+        <tr> <td>2021-11-02</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/04/20211102C.pdf" target="_blank" rel="nofollow">
           董事会的名单及其职分及职能</a></td> </tr>   
           
            <tr> <td>2021-09-27</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/dj-20210927.pdf" target="_blank" rel="nofollow">
@@ -166,7 +166,7 @@ import Footer from '../components/Footer_cn.vue';
 import axios from 'axios';
 export default {
 async asyncData({ app, req, query, params,store}){
-		  const  newlistData = await axios.get(`https://www.cmereye.com/wp-json/wp/v2/posts?categories=3`);
+		  const  newlistData = await axios.get(`https://admin.cmereye.com/wp-json/wp/v2/posts?categories=3`);
 		  return {
 		   newlist: newlistData.data,
 		  };

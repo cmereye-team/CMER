@@ -94,53 +94,53 @@
   <tbody> 
     
 
-  <tr> <td>2022-03-29</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20220329_Eng_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2022-03-29</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20220329_Eng_Final.pdf" target="_blank" rel="nofollow"> 
     <p>C-MER achieves record-high revenue in FY21 of HK$1.1 billion, a YoY increase of 59%  Mainland China and Hong Kong businesses maintain high growth C-MER enters multiple specialized medical services whilst continuing to expand its core ophthalmic business</p></a></td> </tr>
 
-  <tr> <td>2022-02-22</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20220222_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2022-02-22</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20220222_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>Amount of Rapid Antigen Kits Donated to the Underprivileged Families has Doubled to 600,000 (Chinese only)</p></a></td> </tr>
     
-  <tr> <td>2022-02-16</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20220216_Eng_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2022-02-16</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20220216_Eng_Final.pdf" target="_blank" rel="nofollow"> 
     <p>Hong Kong and Shenzhen Join Forces to Fight Against Covid C-MER Medical Partners with Shenzhen YHLO to Donate 300,000 COVID-19 Rapid Antigen Kits to the Underprivileged in Hong Kong</p></a></td> </tr>
   
-  <tr> <td>2021-12-13</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20211213_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2021-12-13</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20211213_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>PolyU Collaborates with C-MER Eye Care to Nurture Hong Kong’s Young Optometrists in the Greater Bay Area (Chinese only)</p></a></td> </tr>
 
-  <tr> <td>2021-09-03</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20210903_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2021-09-03</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20210903_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>C-MER Eye Care Forms Alliance with Shenzhen CKJ to Jointly Set a New Benchmark of Cooperation in Holistic Healthcare in the Greater Bay Area (Chinese only)</p></a></td> </tr>
     
-  <tr> <td>2021-08-26</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20210826_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2021-08-26</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20210826_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>C-MER Eye Care Sets Up a Joint Venture to Launch R&D and Apply to NMPA for OK Lens Registration in China (Chinese only)</p></a></td> </tr>
   
-  <tr> <td>2021-08-23</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20210823_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2021-08-23</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20210823_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>C-MER Oncology is Officially Established and Commences Operations in September 2021 (Chinese only)</p></a></td> </tr>
 
-  <tr> <td>2021-08-18</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20210818_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2021-08-18</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20210818_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>C-MER Eye Care Pledges to Expand its Business Network to Foshan, Dongguan, Fuzhou and Jieyang to Deliver Quality Eye Care Services to the People in the 
       Short Run (Chinese only)</p></a></td> </tr>
     
-  <tr> <td>2021-03-31</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20210331_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2021-03-31</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20210331_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>C-MER Eye Care Delivers 21.4% Growth of Financial Results in 2020 The Company Grows Rapidly with Hong Kong Business Expanding to Other Specialties and the Opening 
       of Two Eye Hospitals in the Greater Bay Area Within this Year (Chinese only)</p></a></td> </tr>
     
-  <tr> <td>2020-08-28</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20200828_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2020-08-28</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20200828_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>C-MER Eye Care Records V-Shaped Recovery of Total Revenue in the Second Quarter of 2020  Recovery momentum remains resilient in July and August (Chinese only)</p></a></td> </tr>
     
-  <tr> <td>2020-03-31</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20200331_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2020-03-31</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20200331_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>C-MER Eye Care Progresses Well as Planned in 2019 Total Average Revenue Increases by 34.2% as Compared with Last Year (Hong Kong: 30.7%, Mainland: 37.8%) 
       Profit Declines Slightly by 8.1% due to Several Hospitals are still at the Stage of Investment (Chinese only)</p></a></td> </tr>
     
-  <tr> <td>2020-01-21</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20200121_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2020-01-21</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20200121_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>C-MER Eye Care will Complete Expanding its Business Operations in  Beijing, Shanghai, Guangzhou, Shenzhen and the Greater Bay Area Within this Year (Chinese only)</p></a></td> </tr>
     
     
-  <tr> <td>2020-01-08</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20200108_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2020-01-08</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20200108_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>C-MER Eye Care and Chairman Dr. Lam Shun Chiu Dennis Receive Multiple Awards in Shanghai and Shenzhen (Chinese only)</p></a></td> </tr>
     
-  <tr> <td>2019-08-27</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20190827_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2019-08-27</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20190827_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>C-MER Eye Care Achieves Sustained Rapid Growth in Revenue and Net Profit in First Half of the Year  and will Accelerate Development in Shenzhen and the Greater Bay Area (Chinese only)</p></a></td> </tr>
     
-  <tr> <td>2018-06-26</td> <td><a class="table-cell" href="https://www.cmereye.com/wp-content/uploads/2022/07/20180626_Eng_Final.pdf" target="_blank" rel="nofollow"> 
+  <tr> <td>2018-06-26</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20180626_Eng_Final.pdf" target="_blank" rel="nofollow"> 
     <p>Honored to Receive the Presidents Award from the Community Chest of Hong Kong</p></a></td> </tr>
               
           
@@ -206,8 +206,8 @@ import axios from 'axios';
          
 export default {
   async asyncData({ app, req, query, params,store}){
-		  const  newlistData = await axios.get('https://www.cmereye.com/wp-json/wp/v2/posts?categories=7&page=1');
-      const  whitesData = await axios.get('https://www.cmereye.com/wp-json/wp/v2/posts?categories=7&page=2');
+		  const  newlistData = await axios.get('https://admin.cmereye.com/wp-json/wp/v2/posts?categories=7&page=1');
+      const  whitesData = await axios.get('https://admin.cmereye.com/wp-json/wp/v2/posts?categories=7&page=2');
 		  return {
 		   newlist: newlistData.data,
         whites: whitesData.data,
