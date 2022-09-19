@@ -88,52 +88,54 @@
     <!-- <tr v-for="item in newlist" :data-date='item.date|dateFormat("yyyy")'> <td>{{item.date|dateFormat("yyyy-MM-dd")}}</td> 
 
     <td> <nuxt-link class="table-cell"  :to="item.link"> <p>{{item.title.rendered | ellipsis}}</p></nuxt-link> </td> </tr>  -->
+    <tr><td>2022-09-02</td> <td><a href="https://admin.cmereye.com/wp-content/uploads/2022/09/e_FF301_MONTHLY_RETURN_EQUITY_V1_0_1_3309_310820221.pdf" target="_blank" rel="nofollow" class="table-cell"><p>Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 August 2022</p></a></td></tr>
+        <tr><td>2022-08-30</td> <td><a href="https://admin.cmereye.com/wp-content/uploads/2022/08/2022083000421_eng1.pdf" target="_blank" rel="nofollow" class="table-cell"><p>INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2022</p></a></td></tr>
 
-   <tr> <td>2022-08-10</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0810.pdf" target="_blank" rel="nofollow"> <p>NOTICE OF BOARD MEETING</p></a></td> </tr>      
+   <tr> <td>2022-08-10</td> <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0810.pdf" target="_blank" rel="nofollow"> <p>NOTICE OF BOARD MEETING</p></a></td> </tr>      
 
-   <tr> <td>2022-08-02</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0802.pdf" target="_blank" rel="nofollow"> <p>Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 July 2022</p></a></td> </tr>      
+   <tr> <td>2022-08-02</td> <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0802.pdf" target="_blank" rel="nofollow"> <p>Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 July 2022</p></a></td> </tr>      
 
-  <tr> <td>2022-07-04</td> <td><a class="table-cell" href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0705.pdf" target="_blank" rel="nofollow"> <p>Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 June 2022</p></a></td> </tr>    
+  <tr> <td>2022-07-04</td> <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0705.pdf" target="_blank" rel="nofollow"> <p>Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 June 2022</p></a></td> </tr>    
 
-  <tr> <td>2022-06-08</td> <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW-2022-06-08.pdf" target="_blank" rel="nofollow"> <p>Next Day Disclosure Returns</p></a></td> </tr>
+  <tr> <td>2022-06-08</td> <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW-2022-06-08.pdf" target="_blank" rel="nofollow"> <p>Next Day Disclosure Returns</p></a></td> </tr>
 
-<tr> <td>2022-06-01</td> <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EN-2022-0530qiye.pdf" target="_blank" rel="nofollow"> <p>ENVIRONMENTAL,SOCIAL AND GOVERNANCE REPORT 2021</p></a></td> </tr>
+<tr> <td>2022-06-01</td> <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EN-2022-0530qiye.pdf" target="_blank" rel="nofollow"> <p>ENVIRONMENTAL,SOCIAL AND GOVERNANCE REPORT 2021</p></a></td> </tr>
   
 
     <tr>
         <td>2022-05-24</td>
-        <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0524.pdf" target="_blank" rel="nofollow">
+        <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0524.pdf" target="_blank" rel="nofollow">
           <p>POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 24 MAY 2022</p></a></td>
         </tr>  	  
 	
 	<tr>
         <td>2022-04-20</td>
-        <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EWCW2022-0420fei1.pdf" target="_blank" rel="nofollow">
+        <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EWCW2022-0420fei1.pdf" target="_blank" rel="nofollow">
           <p>Notification Letter to Non-Registered Holder and Request Form - Notice of Publication of 2021 Annual Report, AGM Circular and Proxy Form (“Current Corporate Communications”) </p></a></td>
         </tr>  
 		
 	<tr>
         <td>2022-04-20</td>
-        <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EWCW2022-0420fei.pdf" target="_blank" rel="nofollow">
+        <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EWCW2022-0420fei.pdf" target="_blank" rel="nofollow">
           <p>Notification Letter to Shareholder and Change Request Form - Notice of Publication of 2021 Annual Report, AGM Circular and Proxy Form (the “Current Corporate Communications”)  </p></a></td>
         </tr>  
 		
 		  
 	 <tr>
         <td>2022-04-20</td>
-        <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0420gu.pdf" target="_blank" rel="nofollow">
+        <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0420gu.pdf" target="_blank" rel="nofollow">
           <p>REPURCHASE MANDATE AND GENERAL MANDATE, PROPOSED RE-ELECTION OF RETIRING DIRECTORS AND NOTICE OF ANNUAL GENERAL MEETING</p></a></td>
         </tr>  
 
 	 <tr>
         <td>2022-04-20</td>
-        <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0420nian.pdf" target="_blank" rel="nofollow">
+        <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0420nian.pdf" target="_blank" rel="nofollow">
           <p>Form of Proxy for use at the Annual General Meeting</p></a></td>
         </tr>     	
 		
 	 <tr>
         <td>2022-04-20</td>
-        <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0420zhou.pdf" target="_blank" rel="nofollow">
+        <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0420zhou.pdf" target="_blank" rel="nofollow">
           <p>NOTICE OF THE ANNUAL GENERAL MEETING</p></a></td>
         </tr>     	
 		
@@ -147,79 +149,79 @@
 
        <tr>
         <td>2022-03-14</td>
-        <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0315.pdf" target="_blank" rel="nofollow">
+        <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0315.pdf" target="_blank" rel="nofollow">
           <p>POSITVE PROFIT ALERT</p></a></td>
         </tr>     
 		  
 		<tr>
         <td>2022-02-17</td>
-        <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0217.pdf" target="_blank" rel="nofollow">
+        <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0217.pdf" target="_blank" rel="nofollow">
           <p>COMPLETION OF THE SHENZHEN CKJ INVESTMENT</p></a></td>
         </tr>     
 		  
 		<tr>
         <td>2022-01-27</td>
-        <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0127.pdf" target="_blank" rel="nofollow">
+        <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0127.pdf" target="_blank" rel="nofollow">
           <p>VOLUNTARY ANNOUNCEMENT INCREASE IN SHAREHOLDING BY DR. DENNIS LAM</p></a></td>
         </tr>    
 		  
 		<tr>
         <td>2022-01-21</td>
-        <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0124.pdf" target="_blank" rel="nofollow">
+        <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0124.pdf" target="_blank" rel="nofollow">
           <p>CLOSING OF PLACING OF EXISTING SHARES AND SUBSCRIPTION OF NEW SHARES UNDER GENERAL MANDATE</p></a></td>
         </tr>  
 		
 		<tr>
         <td>2022-01-13</td>
-        <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0113.pdf" target="_blank" rel="nofollow">
+        <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0113.pdf" target="_blank" rel="nofollow">
           <p>PLACING OF EXISTING SHARES AND SUBSCRIPTION OF NEW SHARES UNDER GENERAL MANDATE</p></a></td>
         </tr>
 	  
 		<tr>
           <td>2022-01-11</td>
-          <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0111.pdf" target="_blank" rel="nofollow">
+          <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0111.pdf" target="_blank" rel="nofollow">
             <p>CLARIFICATION ANNOUNCEMENT</p>
 			</a></td>
         </tr>    
 		  
 		<tr>
           <td>2022-01-05</td>
-          <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0105.pdf" target="_blank" rel="nofollow">
+          <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0105.pdf" target="_blank" rel="nofollow">
             <p>DISCLOSEABLE TRANSACTION ACQUISITION OF THE ENTIRE ISSUED SHARE CAPITAL IN CHAMPION EYE INVOLVING ISSUE OF CONSIDERATION SHARES UNDER THE GENERAL MANDATE</p>
 			</a></td>
         </tr>  
 		  
 		<tr>
           <td>2021-12-17</td>
-          <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2021-1217.pdf" target="_blank" rel="nofollow">
+          <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2021-1217.pdf" target="_blank" rel="nofollow">
             <p>TERMINATION OF MEMORANDUM OF UNDERSTANDING IN RESPECT OF A POSSIBLE ACQUISITION</p>
 			</a></td>
         </tr>  
 		  
 		<tr>
           <td>2021-12-14</td>
-          <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2021-1214.pdf" target="_blank" rel="nofollow">
+          <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2021-1214.pdf" target="_blank" rel="nofollow">
             <p>VOLUNTARY ANNOUNCEMENT - SIGNING OF STRATEGIC COOPERATION MEMORANDUM WITH THE HONG KONG POLYTECHNIC UNIVERSITY</p>
 			</a></td>
         </tr>  
 		  
 		<tr>
           <td>2021-11-30</td>
-          <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2021-1130.pdf" target="_blank" rel="nofollow">
+          <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2021-1130.pdf" target="_blank" rel="nofollow">
             <p>NON-LEGALLY BINDING MEMORANDUM OF UNDERSTANDING IN RESPECT OF THE POSSIBLE ACQUISITION </p>
 			</a></td>
         </tr>  
 		
 		<tr>
           <td>2021-11-25</td>
-          <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2021-1125.pdf" target="_blank" rel="nofollow">
+          <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2021-1125.pdf" target="_blank" rel="nofollow">
             <p>ACQUISITION OF FURTHER EQUITY INTEREST IN SHENZHEN CKJ FROM SHENZHEN CHUANGXIN AND DISCLOSEABLE TRANSACTION CERTAIN AMENDMENTS TO THE TERMS OF THE INVESTMENT IN SHENZHEN CKJ </p>
 			</a></td>
         </tr>  
 		
 		<tr>
           <td>2021-11-11</td>
-          <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW-20211111.pdf" target="_blank" rel="nofollow">
+          <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW-20211111.pdf" target="_blank" rel="nofollow">
             <p>(1) DISCLOSEABLE TRANSACTION IN RELATION TO THE ACQUISITION OF 60% EQUTY INTEREST OF THE TARGET AND PROVISION OF SHAREHOLDERS’ LOANS TO THE TARGET</p>
 			<p>(2) ADDITIONAL INFORMATION IN RELATION TO THE ANNUAL REPORT OF THE COMPANY FOR THE YEAR ENDED 31 DECEMBER 2020 </p> 
 			</a></td>
@@ -227,193 +229,193 @@
 
         <tr>
           <td>2021-11-02</td>
-          <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2021-1102.pdf" target="_blank" rel="nofollow">
+          <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2021-1102.pdf" target="_blank" rel="nofollow">
             APPOINTMENT OF VICE CHAIRMAN AND GRANT OF SHARE OPTIONS </a></td>
         </tr>  
 
         <tr>
           <td>2021-09-27</td>
-          <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/dj-20210927.pdf" target="_blank" rel="nofollow">
+          <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/dj-20210927.pdf" target="_blank" rel="nofollow">
             Notification Letter to Non-Registered Holder and Request Form - Notice of Publication of 2021 Interim Report </a></td>
         </tr>  
         <tr>
           <td>2021-09-27</td>
-          <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/fdj-20210927.pdf" target="_blank" rel="nofollow">
+          <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/fdj-20210927.pdf" target="_blank" rel="nofollow">
             Notification Letter to Registered Holder and Request Form - Notice of Publication of 2021 Interim Report </a></td>
         </tr> 
        
 
         <tr>
           <td>2021-09-03</td>
-          <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW20210903-1.pdf" target="_blank" rel="nofollow">INSIDE INFORMATION DISCLOSEABLE TRANSACTION INVESTMENT IN SHENZHEN CKJ AND CHANGE IN USE OF PROCEEDS OF THE 2020 SUBSCRIPTION</a></td>
+          <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW20210903-1.pdf" target="_blank" rel="nofollow">INSIDE INFORMATION DISCLOSEABLE TRANSACTION INVESTMENT IN SHENZHEN CKJ AND CHANGE IN USE OF PROCEEDS OF THE 2020 SUBSCRIPTION</a></td>
         </tr>		
 
         <tr>
           <td>2021-09-03</td>
-          <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW20210903.pdf" target="_blank" rel="nofollow">INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2021</a></td>
+          <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW20210903.pdf" target="_blank" rel="nofollow">INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2021</a></td>
         </tr>			        
 				
         <tr>
           <td>2021-08-27</td>
-          <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW20210827.pdf" target="_blank" rel="nofollow">VOLUNTARY ANNOUNCEMENT – FORMATION OF A JOINT VENTURE AND APPLYING TO NMPA FOR OK LENS REGISTRATION IN CHINA</a></td>
+          <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW20210827.pdf" target="_blank" rel="nofollow">VOLUNTARY ANNOUNCEMENT – FORMATION OF A JOINT VENTURE AND APPLYING TO NMPA FOR OK LENS REGISTRATION IN CHINA</a></td>
         </tr>						
 				
 				
         <tr>
           <td>2021-08-19</td>
-          <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2021-08-19-EWAnn.pdf" target="_blank" rel="nofollow">BUSINESS UPDATE</a></td>
+          <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2021-08-19-EWAnn.pdf" target="_blank" rel="nofollow">BUSINESS UPDATE</a></td>
         </tr>		
 				
         <tr>
           <td>2021-08-11</td>
-          <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW20210811_notice of board meeting_04082021.pdf" target="_blank" rel="nofollow">NOTICE OF BOARD MEETING</a></td>
+          <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW20210811_notice of board meeting_04082021.pdf" target="_blank" rel="nofollow">NOTICE OF BOARD MEETING</a></td>
         </tr>
 				
         <tr>
           <td>2021-08-06</td>
-          <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW20210806.pdf" target="_blank" rel="nofollow">Positive profit alert</a></td>
+          <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW20210806.pdf" target="_blank" rel="nofollow">Positive profit alert</a></td>
         </tr>
 				
 				<tr>
 				  <td>2021-07-12</td>
-				  <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW033090714ann.pdf" target="_blank" rel="nofollow">GRANT OF SHARE OPTIONS UNDER THE SHARE OPTION SCHEME</a></td>
+				  <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW033090714ann.pdf" target="_blank" rel="nofollow">GRANT OF SHARE OPTIONS UNDER THE SHARE OPTION SCHEME</a></td>
 				</tr>
 				<tr>
 
 				  <td>2021-06-28</td>
 
-				  <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309 ESG20.pdf" target="_blank" rel="nofollow">ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT 2020</a></td>
+				  <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309 ESG20.pdf" target="_blank" rel="nofollow">ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT 2020</a></td>
 
 				</tr>
 				<tr>
 
 				  <td>2021-05-27</td>
 
-				  <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/E20210527.pdf" target="_blank" rel="nofollow">POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 26 MAY 2021</a></td>
+				  <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/E20210527.pdf" target="_blank" rel="nofollow">POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 26 MAY 2021</a></td>
 
 				</tr>
 				<tr> 
               <td>2021-04-21</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW202104225.pdf" target="_blank" rel="nofollow">REPURCHASE MANDATE AND GENERAL MANDATE, PROPOSED RE-ELECTION OF RETIRING DIRECTORS AND NOTICE OF ANNUAL GENERAL MEETING</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW202104225.pdf" target="_blank" rel="nofollow">REPURCHASE MANDATE AND GENERAL MANDATE, PROPOSED RE-ELECTION OF RETIRING DIRECTORS AND NOTICE OF ANNUAL GENERAL MEETING</a></td>
             </tr>
 				<tr> 
               <td>2021-04-21</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW202104224.pdf" target="_blank" rel="nofollow">Form of Proxy for use at the Annual General Meeting</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW202104224.pdf" target="_blank" rel="nofollow">Form of Proxy for use at the Annual General Meeting</a></td>
             </tr>
 				<tr> 
               <td>2021-04-21</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW202104223.pdf" target="_blank" rel="nofollow">NOTICE OF ANNUAL GENERAL MEETING</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW202104223.pdf" target="_blank" rel="nofollow">NOTICE OF ANNUAL GENERAL MEETING</a></td>
             </tr>
 				
 				<tr> 
               <td>2021-04-21</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW202104222.pdf" target="_blank" rel="nofollow">Notification Letter to Shareholder and Change Request Form - Notice of Publication of 2020 Annual Report, AGM Circular and Proxy Form</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW202104222.pdf" target="_blank" rel="nofollow">Notification Letter to Shareholder and Change Request Form - Notice of Publication of 2020 Annual Report, AGM Circular and Proxy Form</a></td>
             </tr>
 				<tr> 
               <td>2021-04-21</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW202104221.pdf" target="_blank" rel="nofollow">Notification Letter to Non-Registered Holder and Request Form - Notice of Publication of 2020 Annual Report and AGM Circular</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW202104221.pdf" target="_blank" rel="nofollow">Notification Letter to Non-Registered Holder and Request Form - Notice of Publication of 2020 Annual Report and AGM Circular</a></td>
             </tr>
             
             
             
 				<tr> 
               <td>2021-04-01</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW033090401.pdf" target="_blank" rel="nofollow">ANNUAL RESULTS FOR THE YEAR ENDED 31 DECEMBER 2020 AND CHANGE IN USE OF PROCEEDS</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW033090401.pdf" target="_blank" rel="nofollow">ANNUAL RESULTS FOR THE YEAR ENDED 31 DECEMBER 2020 AND CHANGE IN USE OF PROCEEDS</a></td>
             </tr>
 				 <tr> 
               <td>2021-03-16</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW0330903162.pdf" target="_blank" rel="nofollow">NOTICE OF BOARD MEETING</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW0330903162.pdf" target="_blank" rel="nofollow">NOTICE OF BOARD MEETING</a></td>
             </tr>
 		   <tr> 
               <td>2021-03-16</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW033090316.pdf" target="_blank" rel="nofollow">PROFIT WARNING</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW033090316.pdf" target="_blank" rel="nofollow">PROFIT WARNING</a></td>
             </tr>
 				<tr> 
               <td>2021-02-26</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW033090226.pdf" target="_blank" rel="nofollow">CLARIFICATION ANNOUNCEMENT SHARE TRANSACTION ACQUISITION OF 60% EQUITY INTEREST IN THE TARGET COMPANY INVOLVING THE ISSUE OF CONSIDERATION SHARES UNDER GENERAL MANDATE</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW033090226.pdf" target="_blank" rel="nofollow">CLARIFICATION ANNOUNCEMENT SHARE TRANSACTION ACQUISITION OF 60% EQUITY INTEREST IN THE TARGET COMPANY INVOLVING THE ISSUE OF CONSIDERATION SHARES UNDER GENERAL MANDATE</a></td>
             </tr>
 				<tr> 
               <td>2021-02-11</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309ann0211.pdf" target="_blank" rel="nofollow">SHARE TRANSACTION ACQUISITION OF 60% EQUITY INTEREST IN THE TARGET COMPANY INVOLVING THE ISSUE OF CONSIDERATION SHARES UNDER GENERAL MANDATE</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309ann0211.pdf" target="_blank" rel="nofollow">SHARE TRANSACTION ACQUISITION OF 60% EQUITY INTEREST IN THE TARGET COMPANY INVOLVING THE ISSUE OF CONSIDERATION SHARES UNDER GENERAL MANDATE</a></td>
             </tr><tr> 
               <td>2020-02-10</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309ann0210.pdf" target="_blank" rel="nofollow">CONNECTED TRANSACTION ACQUISITION OF 90% EQUITY INTEREST IN HEALTH HOPE</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309ann0210.pdf" target="_blank" rel="nofollow">CONNECTED TRANSACTION ACQUISITION OF 90% EQUITY INTEREST IN HEALTH HOPE</a></td>
             </tr>
 				<tr> 
               <td>2020-12-10</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW20201210.pdf" target="_blank" rel="nofollow">CLARIFICATION ANNOUNCEMENT</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW20201210.pdf" target="_blank" rel="nofollow">CLARIFICATION ANNOUNCEMENT</a></td>
             </tr>
 				<tr> 
               <td>2020-11-09</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/E1109.pdf" target="_blank" rel="nofollow">LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/E1109.pdf" target="_blank" rel="nofollow">LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS</a></td>
             </tr>
 				<tr> 
               <td>2020-11-06</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/E1107.pdf" target="_blank" rel="nofollow">APPOINTMENT OF INDEPENDENT NON-EXECUTIVE DIRECTORS</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/E1107.pdf" target="_blank" rel="nofollow">APPOINTMENT OF INDEPENDENT NON-EXECUTIVE DIRECTORS</a></td>
             </tr>
 				<tr> 
               <td>2020-10-10</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309 Non-Registered Shareholders.pdf" target="_blank" rel="nofollow">Notification Letter to Non-Registered Holder and Request Form - Notice of Publication of 2020 Interim Report</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309 Non-Registered Shareholders.pdf" target="_blank" rel="nofollow">Notification Letter to Non-Registered Holder and Request Form - Notice of Publication of 2020 Interim Report</a></td>
             </tr>
             <tr> 
               <td>2020-10-10</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309 Registered Shareholders.pdf" target="_blank" rel="nofollow">Notification Letter to Registered Holder and Request Form - Notice of Publication of 2020 Interim Report</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309 Registered Shareholders.pdf" target="_blank" rel="nofollow">Notification Letter to Registered Holder and Request Form - Notice of Publication of 2020 Interim Report</a></td>
             </tr>
 				<tr> 
               <td>2020-09-15</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW033092.pdf" target="_blank" rel="nofollow">GRANT OF SHARE OPTIONS UNDER THE SHARE OPTION SCHEME</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW033092.pdf" target="_blank" rel="nofollow">GRANT OF SHARE OPTIONS UNDER THE SHARE OPTION SCHEME</a></td>
             </tr>
 				<tr> 
               <td>2020-09-02</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309.pdf" target="_blank" rel="nofollow">ANNOUNCEMENT PURSUANT TO RULES 13.51B(2) AND 13.51(2) OF THE LISTING RULES</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309.pdf" target="_blank" rel="nofollow">ANNOUNCEMENT PURSUANT TO RULES 13.51B(2) AND 13.51(2) OF THE LISTING RULES</a></td>
             </tr>
 				<tr> 
               <td>2020-08-31</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309ann11.pdf" target="_blank" rel="nofollow">INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2020</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309ann11.pdf" target="_blank" rel="nofollow">INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2020</a></td>
             </tr>	    
 		<tr> 
               <td>2020-08-31</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW033099ann.pdf" target="_blank" rel="nofollow">DISCLOSEABLE TRANSACTION ACQUISITION OF A MEDICAL PRACTICE INVOLVING THE ISSUE OF CONSIDERATION SHARES UNDER GENERAL MANDATE</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW033099ann.pdf" target="_blank" rel="nofollow">DISCLOSEABLE TRANSACTION ACQUISITION OF A MEDICAL PRACTICE INVOLVING THE ISSUE OF CONSIDERATION SHARES UNDER GENERAL MANDATE</a></td>
             </tr>
 				<tr>
               <td>2020-08-10</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/Board Meeting_EW03309ann.pdf" target="_blank" rel="nofollow">NOTICE OF BOARD MEETING    </a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/Board Meeting_EW03309ann.pdf" target="_blank" rel="nofollow">NOTICE OF BOARD MEETING    </a></td>
             </tr>
 				<tr>
               <td>2020-08-07</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309 ann.pdf" target="_blank" rel="nofollow">PROFIT WARNING   </a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309 ann.pdf" target="_blank" rel="nofollow">PROFIT WARNING   </a></td>
             </tr>
 				<tr>
               <td>2020-06-30</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020063002118.pdf" target="_blank" rel="nofollow">CLOSING OF PLACING OF EXISTING SHARES AND SUBSCRIPTION OF NEW SHARES UNDER GENERAL MANDATE    </a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020063002118.pdf" target="_blank" rel="nofollow">CLOSING OF PLACING OF EXISTING SHARES AND SUBSCRIPTION OF NEW SHARES UNDER GENERAL MANDATE    </a></td>
             </tr>
 			<tr>
               <td>2020-06-30</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020063002142.pdf" target="_blank" rel="nofollow">Next Day Disclosure Return    </a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020063002142.pdf" target="_blank" rel="nofollow">Next Day Disclosure Return    </a></td>
             </tr>
 			<tr>
               <td>2020-06-23</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020062300659.pdf" target="_blank" rel="nofollow">ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT 2019   </a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020062300659.pdf" target="_blank" rel="nofollow">ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT 2019   </a></td>
             </tr>
 		   <tr>
               <td>2020-06-19</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020061900173.pdf" target="_blank" rel="nofollow">PLACING OF EXISTING SHARES AND SUBSCRIPTION OF NEW SHARES UNDER GENERAL MANDATE   </a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020061900173.pdf" target="_blank" rel="nofollow">PLACING OF EXISTING SHARES AND SUBSCRIPTION OF NEW SHARES UNDER GENERAL MANDATE   </a></td>
             </tr>
 		  <tr>
               <td>2020-05-22</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020052200640.pdf" target="_blank" rel="nofollow">CONNECTED TRANSACTION RENEWAL OF LEASE BY SHENZHEN C-MER HOSPITAL</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020052200640.pdf" target="_blank" rel="nofollow">CONNECTED TRANSACTION RENEWAL OF LEASE BY SHENZHEN C-MER HOSPITAL</a></td>
             </tr>
 		   <tr>
               <td>2020-05-19</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020051900879.pdf" target="_blank" rel="nofollow">POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 19 MAY 2020 </a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020051900879.pdf" target="_blank" rel="nofollow">POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 19 MAY 2020 </a></td>
             </tr>
 		 <tr>
               <td>2020-05-19</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020050402111.pdf" target="_blank" rel="nofollow">Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 April 2020  </a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020050402111.pdf" target="_blank" rel="nofollow">Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 April 2020  </a></td>
             </tr>
 		   <tr>
               <td>2020-05-19</td>
-              <td><a class="table-cell" href="http://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020042900239.pdf" target="_blank" rel="nofollow">Next Day Disclosure Return</a></td>
+              <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020042900239.pdf" target="_blank" rel="nofollow">Next Day Disclosure Return</a></td>
             </tr>
 		 
  
