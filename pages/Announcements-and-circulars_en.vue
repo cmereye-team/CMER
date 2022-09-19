@@ -421,173 +421,173 @@
  
 			 <tr>
               <td>2020-04-15</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2020041500844.pdf" target="_blank" rel="nofollow">Notification Letter to Shareholder and Change Request Form - Notice of Publication of 2019 Annual Report, AGM Circular and Proxy Form  </a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2020041500844.pdf" target="_blank" rel="nofollow">Notification Letter to Shareholder and Change Request Form - Notice of Publication of 2019 Annual Report, AGM Circular and Proxy Form  </a></td>
             </tr>
 			 <tr>
               <td>2020-04-15</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2020041500832.pdf" target="_blank" rel="nofollow">Notification Letter to Non-Registered Holder and Request Form - Notice of Publication of 2019 Annual Report and AGM Circular   </a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2020041500832.pdf" target="_blank" rel="nofollow">Notification Letter to Non-Registered Holder and Request Form - Notice of Publication of 2019 Annual Report and AGM Circular   </a></td>
             </tr>
 			 <tr>
               <td>2020-04-15</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2020041500813.pdf" target="_blank" rel="nofollow">NOTICE OF ANNUAL GENERAL MEETING  </a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2020041500813.pdf" target="_blank" rel="nofollow">NOTICE OF ANNUAL GENERAL MEETING  </a></td>
             </tr>
 			 <tr>
               <td>2020-04-15</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2020041500801.pdf" target="_blank" rel="nofollow"> Form of Proxy for use at the Annual General Meeting   </a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2020041500801.pdf" target="_blank" rel="nofollow"> Form of Proxy for use at the Annual General Meeting   </a></td>
             </tr>
 			 <tr>
               <td>2020-04-15</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2020041500787.pdf" target="_blank" rel="nofollow">Repurchase Mandate and General Mandate, Proposed Re-election of Retiring Directors and Notice of Annual General Meeting   </a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2020041500787.pdf" target="_blank" rel="nofollow">Repurchase Mandate and General Mandate, Proposed Re-election of Retiring Directors and Notice of Annual General Meeting   </a></td>
             </tr>
 			
 		 <tr>
               <td>2020-02-03</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/EW03309ann.pdf" target="_blank" rel="nofollow">FURTHER INFORMATION ON AVALON GLOBAL AND THE CLOSING OF SUBSCRIPTION OF SHARES IN AVALON GLOBAL INVOLVING THE ISSUE OF CONSIDERATION SHARES UNDER THE GENERAL MANDATE 
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/EW03309ann.pdf" target="_blank" rel="nofollow">FURTHER INFORMATION ON AVALON GLOBAL AND THE CLOSING OF SUBSCRIPTION OF SHARES IN AVALON GLOBAL INVOLVING THE ISSUE OF CONSIDERATION SHARES UNDER THE GENERAL MANDATE 
 </a></td>
             </tr>
 		  <tr>
               <td>2019-12-27</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2019122700685.pdf" target="_blank" rel="nofollow">DISCLOSEABLE TRANSACTION ACQUISITION OF LAND USE RIGHTS IN SHENZHEN </a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2019122700685.pdf" target="_blank" rel="nofollow">DISCLOSEABLE TRANSACTION ACQUISITION OF LAND USE RIGHTS IN SHENZHEN </a></td>
             </tr>
 		  <tr>
               <td>2019-12-23</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2019122300481_E.pdf" target="_blank" rel="nofollow">ANNUAL CAPS OF THE CONTINUING CONNECTED TRANSACTIONS IN RELATION TO EXISTING LEASE AGREEMENT</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2019122300481_E.pdf" target="_blank" rel="nofollow">ANNUAL CAPS OF THE CONTINUING CONNECTED TRANSACTIONS IN RELATION TO EXISTING LEASE AGREEMENT</a></td>
             </tr>
 		  <tr>
               <td>2019-12-20</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2019122000931.pdf" target="_blank" rel="nofollow">INSIDE INFORMATION POSSIBLE DISCLOSEABLE TRANSACTION INVOLVING THE PROPOSED ACQUISITION OF LAND</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2019122000931.pdf" target="_blank" rel="nofollow">INSIDE INFORMATION POSSIBLE DISCLOSEABLE TRANSACTION INVOLVING THE PROPOSED ACQUISITION OF LAND</a></td>
             </tr>
             <tr>
               <td>2019-11-28</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2019112800806.pdf" target="_blank" rel="nofollow">LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2019112800806.pdf" target="_blank" rel="nofollow">LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS</a></td>
             </tr>
             <tr>
               <td>2019-11-28</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2019112800795.pdf" target="_blank" rel="nofollow">RESIGNATION OF INDEPENDENT NON-EXECUTIVE DIRECTOR AND CHANGE OF COMPOSITION OF NOMINATION COMMITTEE AND REMUNERATION COMMITTEE </a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2019112800795.pdf" target="_blank" rel="nofollow">RESIGNATION OF INDEPENDENT NON-EXECUTIVE DIRECTOR AND CHANGE OF COMPOSITION OF NOMINATION COMMITTEE AND REMUNERATION COMMITTEE </a></td>
             </tr>
             <tr>
               <td>2019-10-30</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2019103000913.pdf" target="_blank" rel="nofollow">ADDITIONAL INFORMATION RELATING TO DEED OF NON-COMPETITION</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2019103000913.pdf" target="_blank" rel="nofollow">ADDITIONAL INFORMATION RELATING TO DEED OF NON-COMPETITION</a></td>
             </tr>
             <tr>
               <td>2019-09-30</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2019093000489.pdf" target="_blank" rel="nofollow">DISCLOSEABLE TRANSACTION COMPLETION OF ACQUISITION OF THE ENTIRE EQUITY INTEREST IN SHANGHAI LUCIDA MEDICAL</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/2019093000489.pdf" target="_blank" rel="nofollow">DISCLOSEABLE TRANSACTION COMPLETION OF ACQUISITION OF THE ENTIRE EQUITY INTEREST IN SHANGHAI LUCIDA MEDICAL</a></td>
             </tr>
             <tr>
               <td>2019-07-23</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/ltn20190723548.pdf" target="_blank" rel="nofollow">ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT 2018</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/ltn20190723548.pdf" target="_blank" rel="nofollow">ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT 2018</a></td>
             </tr>
             <tr>
               <td>2019-07-02</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/ltn201907022794.pdf" target="_blank" rel="nofollow">POSITIVE PROFIT ALERT FOR THE SIX MONTHS ENDED 30 JUNE 2019 </a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/ltn201907022794.pdf" target="_blank" rel="nofollow">POSITIVE PROFIT ALERT FOR THE SIX MONTHS ENDED 30 JUNE 2019 </a></td>
             </tr>
             <tr>
               <td>2019-06-25</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/ltn20190625989.pdf" target="_blank" rel="nofollow">POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 25 JUNE 2019</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/ltn20190625989.pdf" target="_blank" rel="nofollow">POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 25 JUNE 2019</a></td>
             </tr>
             <tr>
               <td>2019-04-30</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/LTN201904301053.pdf" target="_blank" rel="nofollow">CLARIFICATION ANNOUNCEMENT</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/LTN201904301053.pdf" target="_blank" rel="nofollow">CLARIFICATION ANNOUNCEMENT</a></td>
             </tr>
             <tr>
               <td>2019-04-25</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/LTN201904251492.pdf" target="_blank" rel="nofollow">Notification Letter to Shareholder and Change Request Form - Notice of Publication of 2018 Annual Report, AGM Circular and Proxy Form</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/LTN201904251492.pdf" target="_blank" rel="nofollow">Notification Letter to Shareholder and Change Request Form - Notice of Publication of 2018 Annual Report, AGM Circular and Proxy Form</a></td>
             </tr>
             <tr>
               <td>2019-04-25</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/LTN201904251480.pdf" target="_blank" rel="nofollow">Notification Letter to Non-Registered Holder and Request Form - Notice of Publication of 2018 Annual Report and AGM Circular</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/LTN201904251480.pdf" target="_blank" rel="nofollow">Notification Letter to Non-Registered Holder and Request Form - Notice of Publication of 2018 Annual Report and AGM Circular</a></td>
             </tr>
             <tr>
               <td>2019-04-25</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/LTN201904251458.pdf" target="_blank" rel="nofollow">NOTICE OF ANNUAL GENERAL MEETING</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/LTN201904251458.pdf" target="_blank" rel="nofollow">NOTICE OF ANNUAL GENERAL MEETING</a></td>
             </tr>
             <tr>
               <td>2019-04-25</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/LTN201904251442.pdf" target="_blank" rel="nofollow">Form of Proxy for use at the Annual General Meeting</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/LTN201904251442.pdf" target="_blank" rel="nofollow">Form of Proxy for use at the Annual General Meeting</a></td>
             </tr>
             <tr>
               <td>2019-04-25</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/LTN201904251417.pdf" target="_blank" rel="nofollow">REPURCHASE MANDATE AND GENERAL MANDATE, PROPOSED RE-ELECTION OF RETIRING DIRECTORS AND NOTICE OF ANNUAL GENERAL</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/LTN201904251417.pdf" target="_blank" rel="nofollow">REPURCHASE MANDATE AND GENERAL MANDATE, PROPOSED RE-ELECTION OF RETIRING DIRECTORS AND NOTICE OF ANNUAL GENERAL</a></td>
             </tr>
             <tr>
               <td>2019-03-29</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/LTN20190328789.pdf" target="_blank" rel="nofollow">COMPLETION OF DISCLOSEABLE TRANSACTION</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/LTN20190328789.pdf" target="_blank" rel="nofollow">COMPLETION OF DISCLOSEABLE TRANSACTION</a></td>
             </tr>
             <tr>
               <td>2019-03-26</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/LTN20190326261.pdf" target="_blank" rel="nofollow">ANNUAL RESULTS FOR THE YEAR ENDED 31 DECEMBER 2018</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/LTN20190326261.pdf" target="_blank" rel="nofollow">ANNUAL RESULTS FOR THE YEAR ENDED 31 DECEMBER 2018</a></td>
             </tr>
             <tr>
               <td>2019-03-26</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/LTN20190326267.pdf" target="_blank" rel="nofollow">DISCLOSEABLE TRANSACTION ACQUISITION OF THE ENTIRE EQUITY INTEREST IN SHANGHAI LUCIDA MEDICAL</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/LTN20190326267.pdf" target="_blank" rel="nofollow">DISCLOSEABLE TRANSACTION ACQUISITION OF THE ENTIRE EQUITY INTEREST IN SHANGHAI LUCIDA MEDICAL</a></td>
             </tr>
             <tr>
               <td>2018-09-19</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/Notification Letter to Registered Holder and Request Form - Notice of Publication of 2018 Interim Report.pdf" target="_blank" rel="nofollow">Notification Letter to Registered Holder and Request Form - Notice of Publication of 2018 Interim Report</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/Notification Letter to Registered Holder and Request Form - Notice of Publication of 2018 Interim Report.pdf" target="_blank" rel="nofollow">Notification Letter to Registered Holder and Request Form - Notice of Publication of 2018 Interim Report</a></td>
             </tr>
             <tr>
               <td>2018-09-19</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/Notification Letter to Non-Registered Holder and Request Form - Notice of Publication of 2018 Interim Report.pdf" target="_blank" rel="nofollow">Notification Letter to Non-Registered Holder and Request Form - Notice of Publication of 2018 Interim Report</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/Notification Letter to Non-Registered Holder and Request Form - Notice of Publication of 2018 Interim Report.pdf" target="_blank" rel="nofollow">Notification Letter to Non-Registered Holder and Request Form - Notice of Publication of 2018 Interim Report</a></td>
             </tr>
             <tr>
               <td>2018-08-28</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/EW03309ann1.pdf" target="_blank" rel="nofollow">ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2018</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/EW03309ann1.pdf" target="_blank" rel="nofollow">ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2018</a></td>
             </tr>
             <tr>
               <td>2018-08-28</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/EW03309ann.pdf" target="_blank" rel="nofollow">DISCLOSEABLE TRANSACTION ACQUISITION OF 80% EQUITY INTEREST IN THE KUNMING EYE HOSPITAL CONTINUING CONNECTED TRANSACTION LEASE AGREEMENT ENTERED INTO FOLLOWING COMPLETION OF THE ACQUISITION</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/EW03309ann.pdf" target="_blank" rel="nofollow">DISCLOSEABLE TRANSACTION ACQUISITION OF 80% EQUITY INTEREST IN THE KUNMING EYE HOSPITAL CONTINUING CONNECTED TRANSACTION LEASE AGREEMENT ENTERED INTO FOLLOWING COMPLETION OF THE ACQUISITION</a></td>
             </tr>
             <tr>
               <td>2018-08-17</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/PROFIT WARNING.pdf" target="_blank" rel="nofollow">PROFIT WARNING</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/PROFIT WARNING.pdf" target="_blank" rel="nofollow">PROFIT WARNING</a></td>
             </tr>
             <tr>
               <td>2018-05-30</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/Results of AGM.pdf" target="_blank" rel="nofollow">Results of AGM</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/Results of AGM.pdf" target="_blank" rel="nofollow">Results of AGM</a></td>
             </tr>
             <tr>
               <td>2018-04-26</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/Notification Letter to Non-Registered Holder and Request Form.pdf" target="_blank" rel="nofollow">Notification Letter to Non-Registered Holder and Request Form</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/Notification Letter to Non-Registered Holder and Request Form.pdf" target="_blank" rel="nofollow">Notification Letter to Non-Registered Holder and Request Form</a></td>
             </tr>
             <tr>
               <td>2018-04-26</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/Reply Form.pdf" target="_blank" rel="nofollow">Reply Form</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/Reply Form.pdf" target="_blank" rel="nofollow">Reply Form</a></td>
             </tr>
             <tr>
               <td>2018-04-26</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/Letter to Shareholders - Election of Language and Means of Receipt of Corporate Communication.pdf" target="_blank" rel="nofollow">Letter to Shareholders - Election of Language and Means of Receipt of Corporate Communication</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/Letter to Shareholders - Election of Language and Means of Receipt of Corporate Communication.pdf" target="_blank" rel="nofollow">Letter to Shareholders - Election of Language and Means of Receipt of Corporate Communication</a></td>
             </tr>
             <tr>
               <td>2018-04-26</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/ELECTION OF LANGUAGE AND MEANS OF RECEIPT OF CORPORATE COMMUNICATION.pdf" target="_blank" rel="nofollow">ELECTION OF LANGUAGE AND MEANS OF RECEIPT OF CORPORATE COMMUNICATION</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/ELECTION OF LANGUAGE AND MEANS OF RECEIPT OF CORPORATE COMMUNICATION.pdf" target="_blank" rel="nofollow">ELECTION OF LANGUAGE AND MEANS OF RECEIPT OF CORPORATE COMMUNICATION</a></td>
             </tr>
             <tr>
               <td>2018-04-26</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/NOTICE OF ANNUAL GENERAL MEETING.pdf" target="_blank" rel="nofollow">NOTICE OF ANNUAL GENERAL MEETING</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/NOTICE OF ANNUAL GENERAL MEETING.pdf" target="_blank" rel="nofollow">NOTICE OF ANNUAL GENERAL MEETING</a></td>
             </tr>
             <tr>
               <td>2018-04-26</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/Form of Proxy for use at the Annual General Meeting.pdf" target="_blank" rel="nofollow">Form of Proxy for use at the Annual General Meeting</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/Form of Proxy for use at the Annual General Meeting.pdf" target="_blank" rel="nofollow">Form of Proxy for use at the Annual General Meeting</a></td>
             </tr>
             <tr>
               <td>2018-04-26</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/Repurchase Mandate and General Mandate, Proposed Re-election of Retiring Directors and Notice of Annual General Meeting.pdf" target="_blank" rel="nofollow">Repurchase Mandate and General Mandate, Proposed Re-election of Retiring Directors and Notice of Annual General Meeting</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/Repurchase Mandate and General Mandate, Proposed Re-election of Retiring Directors and Notice of Annual General Meeting.pdf" target="_blank" rel="nofollow">Repurchase Mandate and General Mandate, Proposed Re-election of Retiring Directors and Notice of Annual General Meeting</a></td>
             </tr>
             <tr>
               <td>2018-03-28</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/CMER 2017_Annual Results_Eng.pdf" target="_blank" rel="nofollow">RESULTS ANNOUNCEMENT FOR THE YEAR ENDED 31 DECEMBER 2017</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/CMER 2017_Annual Results_Eng.pdf" target="_blank" rel="nofollow">RESULTS ANNOUNCEMENT FOR THE YEAR ENDED 31 DECEMBER 2017</a></td>
             </tr>
             <tr>
               <td>2018-02-07</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/STABILIZING ACTIONS AND END OF STABILIZATION PERIOD.pdf" target="_blank" rel="nofollow">STABILIZING ACTIONS AND END OF STABILIZATION PERIOD</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/STABILIZING ACTIONS AND END OF STABILIZATION PERIOD.pdf" target="_blank" rel="nofollow">STABILIZING ACTIONS AND END OF STABILIZATION PERIOD</a></td>
             </tr>
             <tr>
               <td>2018-01-19</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/E_03309_A153.pdf" target="_blank" rel="nofollow">FULL EXERCISE OF THE OVER-ALLOTMENT OPTION</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/E_03309_A153.pdf" target="_blank" rel="nofollow">FULL EXERCISE OF THE OVER-ALLOTMENT OPTION</a></td>
             </tr>
             <tr>
               <td>2018-01-12</td>
-              <td><a class="table-cell" href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/Allotment Results Announcement (Eng).pdf" target="_blank" rel="nofollow">ANNOUNCEMENT OF OFFER PRICE AND ALLOTMENT RESULTS</a></td>
+              <td><a class="table-cell" href="https://admain.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/Allotment Results Announcement (Eng).pdf" target="_blank" rel="nofollow">ANNOUNCEMENT OF OFFER PRICE AND ALLOTMENT RESULTS</a></td>
             </tr>
   </tbody>
 </table>
