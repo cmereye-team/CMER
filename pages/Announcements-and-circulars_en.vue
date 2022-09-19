@@ -88,8 +88,13 @@
     <!-- <tr v-for="item in newlist" :data-date='item.date|dateFormat("yyyy")'> <td>{{item.date|dateFormat("yyyy-MM-dd")}}</td> 
 
     <td> <nuxt-link class="table-cell"  :to="item.link"> <p>{{item.title.rendered | ellipsis}}</p></nuxt-link> </td> </tr>  -->
-    <tr><td>2022-09-02</td> <td><a href="https://admin.cmereye.com/wp-content/uploads/2022/09/e_FF301_MONTHLY_RETURN_EQUITY_V1_0_1_3309_310820221.pdf" target="_blank" rel="nofollow" class="table-cell"><p>Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 August 2022</p></a></td></tr>
-        <tr><td>2022-08-30</td> <td><a href="https://admin.cmereye.com/wp-content/uploads/2022/08/2022083000421_eng1.pdf" target="_blank" rel="nofollow" class="table-cell"><p>INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2022</p></a></td></tr>
+
+    <tr v-for="item in newList" :data-date='item.date|dateFormat("yyyy")'> <td>{{item.date|dateFormat("yyyy-MM-dd")}}</td> 
+    <td> <a class="table-cell"  :href="item.acf.post_pdf_link.url" target="_blank" rel="nofollow"> <p>{{item.title.rendered}}</p></a> </td> </tr>  
+
+
+    <!-- <tr><td>2022-09-02</td> <td><a href="https://admin.cmereye.com/wp-content/uploads/2022/09/e_FF301_MONTHLY_RETURN_EQUITY_V1_0_1_3309_310820221.pdf" target="_blank" rel="nofollow" class="table-cell"><p>Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 August 2022</p></a></td></tr>
+        <tr><td>2022-08-30</td> <td><a href="https://admin.cmereye.com/wp-content/uploads/2022/08/2022083000421_eng1.pdf" target="_blank" rel="nofollow" class="table-cell"><p>INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2022</p></a></td></tr> -->
 
    <tr> <td>2022-08-10</td> <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW2022-0810.pdf" target="_blank" rel="nofollow"> <p>NOTICE OF BOARD MEETING</p></a></td> </tr>      
 
@@ -641,6 +646,7 @@
 <script>
 import Header from '../components/Header_en.vue';
 import Footer from '../components/Footer_en.vue';
+import { getList } from '@/api/index.js'
 import axios from 'axios';
 export default {
 async asyncData({ app, req, query, params,store}){
@@ -673,6 +679,7 @@ async asyncData({ app, req, query, params,store}){
   },
     data(){
             return {
+              newList:[],
                  menuList:[
                     {id:'about',name:'About C-MER',
                        submenu:[{url:"/About-cmer_en",name:"About Us"},{url:"/Corporate-culture_en",name:"Vision and Mission"},{url:"/Business-milestones_en",name:"Business Milestones"},           {url:"/Board-of-directors_en",name:"Board of Directors"}]
@@ -716,6 +723,7 @@ async asyncData({ app, req, query, params,store}){
         },
 
   mounted(){
+    this.getNewsList()
   $('.dropdown-menu li .dropdown-item').click(function() {
     $('.part_Release').addClass('ff');
      
@@ -744,6 +752,15 @@ async asyncData({ app, req, query, params,store}){
 
 
   },
+  methods: {
+    getNewsList(){
+      getList({'categories':13}).then((res =>{
+           this.newList = res.data
+           console.log(this.newList);
+          }))
+    }
+    
+},
     filters:{
     dateFormat: function(date, fmt) {
         if (!date) return date;

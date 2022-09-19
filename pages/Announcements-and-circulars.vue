@@ -78,10 +78,15 @@
 <table class="w-full mt-10">
   <tbody>
 
-     <!-- <tr v-for="item in newlist" :data-date='item.date|dateFormat("yyyy")'> <td>{{item.date|dateFormat("yyyy-MM-dd")}}</td> 
-    <td> <nuxt-link class="table-cell"  :to="item.acf.post_pdf_link"> <p>{{item.title.rendered | ellipsis}}</p></nuxt-link> </td> </tr>   -->
-    <tr><td>2022-09-02</td> <td><a href="https://admin.cmereye.com/wp-content/uploads/2022/09/c_FF301_MONTHLY_RETURN_EQUITY_V1_0_1_3309_310820221.pdf" target="_blank" rel="nofollow" class="table-cell"><p>截至二零二二年八月三十一日止股份發行人的證券變動月報表</p></a></td></tr>
-        <tr><td>2022-08-30</td> <td><a href="https://admin.cmereye.com/wp-content/uploads/2022/08/2022083000422_chi1.pdf" target="_blank" rel="nofollow" class="table-cell"><p>截至2022年6月30日止六個月的中期業績</p></a></td></tr>
+     <tr v-for="item in newList" :data-date='item.date|dateFormat("yyyy")'> <td>{{item.date|dateFormat("yyyy-MM-dd")}}</td> 
+    <td> <a class="table-cell"  :href="item.acf.post_pdf_link.url" target="_blank" rel="nofollow"> <p>{{item.title.rendered}}</p></a> </td> </tr>  
+
+
+
+
+
+  <!-- <tr><td>2022-09-02</td> <td><a href="https://admin.cmereye.com/wp-content/uploads/2022/09/c_FF301_MONTHLY_RETURN_EQUITY_V1_0_1_3309_310820221.pdf" target="_blank" rel="nofollow" class="table-cell"><p>截至二零二二年八月三十一日止股份發行人的證券變動月報表</p></a></td></tr>
+  <tr><td>2022-08-30</td> <td><a href="https://admin.cmereye.com/wp-content/uploads/2022/08/2022083000422_chi1.pdf" target="_blank" rel="nofollow" class="table-cell"><p>截至2022年6月30日止六個月的中期業績</p></a></td></tr> -->
 <tr> <td>2022-08-10</td> <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0810.pdf" target="_blank" rel="nofollow"> <p>董事會會議通告</p></a></td> </tr> 
 <tr> <td>2022-08-02</td> <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0802.pdf" target="_blank" rel="nofollow"> <p>截至二零二二年七月三十一日止股份發行人的證券變動月報表</p></a></td> </tr> 
 <tr> <td>2022-07-04</td> <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0705.pdf" target="_blank" rel="nofollow"> <p>截至二零二二年六月三十日止股份發行人的證券變動月報表</p></a></td> </tr> 
@@ -175,7 +180,7 @@ export default {
         },
         
   mounted(){
-    this.getNewsList()
+  this.getNewsList()
   $('.dropdown-menu li .dropdown-item').click(function() {
     $('.part_Release').addClass('ff');
      
@@ -207,7 +212,8 @@ export default {
   methods: {
     getNewsList(){
       getList({'categories':3}).then((res =>{
-            console.log(res);
+           this.newList = res.data
+           console.log(this.newList);
           }))
     }
     

@@ -93,6 +93,10 @@
 
   <tbody> 
     
+    <tr> <td>2022-08-30</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/09/CMER_1H2022-Interiml-Results-Press-Release_Eng_Final.pdf" target="_blank" rel="nofollow"> 
+    <p>C-MER achieved record revenue of HK$882 Million in 1H 2022</p></a></td> </tr>
+
+
 
   <tr> <td>2022-03-29</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20220329_Eng_Final.pdf" target="_blank" rel="nofollow"> 
     <p>C-MER achieves record-high revenue in FY21 of HK$1.1 billion, a YoY increase of 59%  Mainland China and Hong Kong businesses maintain high growth C-MER enters multiple specialized medical services whilst continuing to expand its core ophthalmic business</p></a></td> </tr>

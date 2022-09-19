@@ -91,6 +91,8 @@
 
   <tbody> 
     
+    <tr> <td>2022-08-30</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/09/CMER_1H2022-Interiml-Results-Press-Release_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+    <p>希玛眼科2022年上半年总收益8.82亿港元，按年同比增长近70%</p></a></td> </tr>
 
   <tr> <td>2022-03-29</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20220329_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>希玛2021年收益创新高逾11亿港元   同比增长59%</p></a></td> </tr>

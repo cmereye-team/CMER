@@ -78,8 +78,14 @@
  
 <table class="w-full mt-10">
   <tbody>
-    <tr><td>2022-09-02</td> <td><a href="https://admin.cmereye.com/wp-content/uploads/2022/09/c_FF301_MONTHLY_RETURN_EQUITY_V1_0_1_3309_310820221.pdf" target="_blank" rel="nofollow" class="table-cell"><p>截至二零二二年八月三十一日止股份发行人的证券变动月报表</p></a></td></tr>
-        <tr><td>2022-08-30</td> <td><a href="https://admin.cmereye.com/wp-content/uploads/2022/08/2022083000422_chi1.pdf" target="_blank" rel="nofollow" class="table-cell"><p>截至2022年6月30日止六个月的中期业绩</p></a></td></tr>
+    <tr v-for="item in newList" :data-date='item.date|dateFormat("yyyy")'> <td>{{item.date|dateFormat("yyyy-MM-dd")}}</td> 
+    <td> <a class="table-cell"  :href="item.acf.post_pdf_link.url" target="_blank" rel="nofollow"> <p>{{item.title.rendered}}</p></a> </td> </tr>  
+
+
+
+    
+    <!-- <tr><td>2022-09-02</td> <td><a href="https://admin.cmereye.com/wp-content/uploads/2022/09/c_FF301_MONTHLY_RETURN_EQUITY_V1_0_1_3309_310820221.pdf" target="_blank" rel="nofollow" class="table-cell"><p>截至二零二二年八月三十一日止股份发行人的证券变动月报表</p></a></td></tr>
+        <tr><td>2022-08-30</td> <td><a href="https://admin.cmereye.com/wp-content/uploads/2022/08/2022083000422_chi1.pdf" target="_blank" rel="nofollow" class="table-cell"><p>截至2022年6月30日止六个月的中期业绩</p></a></td></tr> -->
 <tr> <td>2022-08-10</td> <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0810.pdf" target="_blank" rel="nofollow"> <p>董事会会议通告</p></a></td> </tr> 
 <tr> <td>2022-08-02</td> <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0802.pdf" target="_blank" rel="nofollow"> <p>截至二零二二年七月三十一日止股份发行人的证券变动月报表</p></a></td> </tr> 
 <tr> <td>2022-07-04</td> <td><a class="table-cell" href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0705.pdf" target="_blank" rel="nofollow"> <p>截至二零二二年六月三十日止股份发行人的证券变动月报表</p></a></td> </tr> 
@@ -165,6 +171,7 @@
 import Header from '../components/Header_cn.vue';
 import Footer from '../components/Footer_cn.vue';
 import axios from 'axios';
+import { getList } from '@/api/index.js'
 export default {
 async asyncData({ app, req, query, params,store}){
 		  const  newlistData = await axios.get(`https://admin.cmereye.com/wp-json/wp/v2/posts?categories=3`);
@@ -196,6 +203,7 @@ async asyncData({ app, req, query, params,store}){
 
    data(){
             return {
+              newList:[],
                 menuList:[
                     {id:'about',name:'关于希玛',
                        submenu:[{url:"/About-cmer_cn",name:"集团介绍"},{url:"/Corporate-culture_cn",name:"愿景及使命"},{url:"/Business-milestones_cn",name:"业务里程碑"},{url:"/Board-of-directors_cn",name:"董事会"}]
@@ -241,6 +249,7 @@ async asyncData({ app, req, query, params,store}){
         },
         
   mounted(){
+  this.getNewsList()
   $('.dropdown-menu li .dropdown-item').click(function() {
     $('.part_Release').addClass('ff');
      
@@ -269,6 +278,15 @@ async asyncData({ app, req, query, params,store}){
 
 
   },
+  methods: {
+    getNewsList(){
+      getList({'categories':12}).then((res =>{
+           this.newList = res.data
+           console.log(this.newList);
+          }))
+    }
+    
+},
     filters:{
     dateFormat: function(date, fmt) {
         if (!date) return date;
