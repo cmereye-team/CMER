@@ -231,7 +231,7 @@ export default {
 .index .brand_box .brand_card:nth-child(11),.index .brand_box .brand_card:nth-child(12),.index .brand_box .brand_card:nth-child(13),.index .brand_box .brand_card:nth-child(14){width: 24.3%;}
 .brand_card:nth-child(11) img{width: 76%;}
 .brand_card:nth-child(12) img{max-height: 90px;}
-.index .brand_box .brand_card:nth-child(5) img{max-height: 50px;}
+.index .brand_box .brand_card:nth-child(5) img{max-height: 50px !important;}
 
 @media screen and (min-width:992px){
 
