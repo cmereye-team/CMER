@@ -2,60 +2,7 @@
   <div class="theme-blue">
 
 
-    <div class="header">
-    <link href="/css/tailwind.min.css" rel="stylesheet">
-  
-  <b-navbar toggleable="lg" type="light" variant="white" fixed="top" id="header_bar">
-    <b-navbar-brand to="/index_cn" class="flex items-center">
-    
-    <img src="/img/logo.svg" alt="" srcset=""> 
-    <p><span class="brand_gs">希玛眼科医疗控股有限公司</span>
-     <span class="brand_gp">(股份代号：3309) </span></p>
-    </b-navbar-brand>
-
-    <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
-
-    <b-collapse id="nav-collapse" is-nav>
-      <!-- Right aligned nav items -->
-      <b-navbar-nav class="ml-auto">
- 
-   <b-nav-item-dropdown text="Color" active right  id="chose_color" hidden>
-          <b-dropdown-item href="#">黃色</b-dropdown-item>
-          <b-dropdown-item href="#">藍色</b-dropdown-item>
-    </b-nav-item-dropdown>
-
-        <b-nav-item-dropdown v-for="(item, idx)  in menuList" :key="idx" :text='item.name' right   >
-          <b-dropdown-item v-for="(subitem, idx) in item.submenu" :key="idx" :to="subitem.url" keep-alive >{{subitem.name}}</b-dropdown-item>
-        </b-nav-item-dropdown>
-        
-        <nuxt-link class="btn btn-primary nav-contact" role="button" to="/Contact_cn">联络我们</nuxt-link>
-
-         <div class="language">
-      <div class="language_box">
-
- 
- 
-<b-dropdown size="sm"   variant="link" toggle-class="text-decoration-none" dropleft  no-caret>
-    <template #button-content> 
-     <img src="/img/earth.svg">
-    </template>
-      <nuxt-link to="/Services-In-Hong-Kong">繁體中文</nuxt-link>
-       <nuxt-link to="/Services-In-Hong-Kong_cn">简体中文</nuxt-link>
-    <nuxt-link to="/Services-In-Hong-Kong_en">English</nuxt-link>
-
-  </b-dropdown>
-
-
-
-
-    </div>
-    </div>
-
-      </b-navbar-nav>
-    </b-collapse>
-  </b-navbar>
-
-  </div>
+    <Header/>
 
 
       <div class="banner_about banner_about_about">
@@ -120,37 +67,7 @@
     
 
        <template>
-  <div class="footer part">
-    <div class="container">
-    <div class="footer_nav flex items-center justify-between  ">
-      <div class="footer_logo">
-        <img src="/img/Logo_foot_cn.svg" alt="" srcset="">
-      </div>
-      <div class="footer_nav_link">
-         <ul class="flex">
-           
-           <li  v-for="item in foot_menuList" ><b-link :href="item.url">{{item.name}}</b-link></li>
-          
-         </ul>
-      </div>
-    </div>
-
-    <div class="footer_address mt-12 text-base "><p>地址: 中环毕打街1-3号中建大厦1535室 </p></div>
-
-    <div class="footer_social mt-12 flex items-center justify-between">
-      <ul class="flex items-center">
-        <li v-for="item in foot_soical" class="mr-10"><a :href="item.url" target="_blank"><i><img :src="item.src" alt=""></i></a></li>
-    
-  
-      </ul>
-      <div class="footer_copyright">
-        <div class="footer_privacy text-right"> <span v-for="item in foot_state" style="margin-right: 1em;"><b-link :href="item.url">{{item.name}}</b-link></span></div>
-        <div class="footer_cptext">© 2022 C-MER Eye Care Holdings Limited. All rights reserved.</div>
-      </div>
-    </div>
-</div>
-
-  </div>
+  <Footer/>
 </template>
 
 
@@ -244,6 +161,7 @@ import Header from '../components/Header_cn.vue';
 import Footer from '../components/Footer_cn.vue';
 import axios from 'axios';
 export default {
+  components:{Header,Footer},
 async asyncData({ app, req, query, params,store}){
 		  const  aboutData = await axios.get(`https://admin.cmereye.com/wp-json/wp/v2/pages/253`);
       console.log( aboutData.data);  

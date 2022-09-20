@@ -2,60 +2,7 @@
   <div class="theme-blue">
    
 
-    <div class="header">
-    <link href="/css/tailwind.min.css" rel="stylesheet">
-  
-  <b-navbar toggleable="lg" type="light" variant="white" fixed="top" id="header_bar">
-    <b-navbar-brand to="/index_cn" class="flex items-center">
-    
-    <img src="/img/logo.svg" alt="" srcset=""> 
-    <p><span class="brand_gs">希玛眼科医疗控股有限公司</span>
-     <span class="brand_gp">(股份代号：3309) </span></p>
-    </b-navbar-brand>
-
-    <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
-
-    <b-collapse id="nav-collapse" is-nav>
-      <!-- Right aligned nav items -->
-      <b-navbar-nav class="ml-auto">
- 
-   <b-nav-item-dropdown text="Color" active right  id="chose_color" hidden>
-          <b-dropdown-item href="#">黄色</b-dropdown-item>
-          <b-dropdown-item href="#">蓝色</b-dropdown-item>
-    </b-nav-item-dropdown>
-
-        <b-nav-item-dropdown v-for="(item, idx)  in menuList" :key="idx" :text='item.name' right   >
-          <b-dropdown-item v-for="(subitem, idx) in item.submenu" :key="idx" :to="subitem.url" keep-alive >{{subitem.name}}</b-dropdown-item>
-        </b-nav-item-dropdown>
-        
-        <nuxt-link class="btn btn-primary nav-contact" role="button" to="/Contact_cn">联络我们</nuxt-link>
-
-         <div class="language">
-      <div class="language_box">
-
- 
- 
-<b-dropdown size="sm"   variant="link" toggle-class="text-decoration-none" dropleft  no-caret>
-    <template #button-content> 
-     <img src="/img/earth.svg">
-    </template>
-   <nuxt-link to="/Contact">繁體中文</nuxt-link>
-  <nuxt-link to="/Contact_cn">简体中文</nuxt-link>
- <nuxt-link to="/Contact_en">English</nuxt-link>
-    
-  </b-dropdown>
-
-
-
-
-    </div>
-    </div>
-
-      </b-navbar-nav>
-    </b-collapse>
-  </b-navbar>
-
-  </div>
+    <Header/>
       
       <div class="part_content_bg part_content_contact">
          <b-container fluid="md" class="content part_content ">
@@ -116,6 +63,7 @@
 import Header from '../components/Header_cn.vue';
 import Footer from '../components/Footer_cn.vue';
 export default {
+  components:{Header,Footer},
   name: 'Contact_cn',
   data(){
             return {

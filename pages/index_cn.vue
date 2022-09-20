@@ -70,37 +70,7 @@
     
 
        <template>
-  <div class="footer part">
-    <div class="container">
-    <div class="footer_nav flex items-center justify-between  ">
-      <div class="footer_logo">
-        <img src="/img/Logo_foot_cn.svg" alt="" srcset="">
-      </div>
-      <div class="footer_nav_link">
-         <ul class="flex">
-           
-           <li  v-for="item in foot_menuList" ><b-link :href="item.url">{{item.name}}</b-link></li>
-          
-         </ul>
-      </div>
-    </div>
-
-    <div class="footer_address mt-12 text-base "><p>地址: 中环毕打街1-3号中建大厦1535室 </p></div>
-
-    <div class="footer_social mt-12 flex items-center justify-between">
-      <ul class="flex items-center">
-        <li v-for="item in foot_soical" class="mr-10"><a :href="item.url" target="_blank"><i><img :src="item.src" alt=""></i></a></li>
-    
-  
-      </ul>
-      <div class="footer_copyright">
-        <div class="footer_privacy text-right"> <span v-for="item in foot_state" style="margin-right: 1em;"><b-link :href="item.url">{{item.name}}</b-link></span></div>
-        <div class="footer_cptext">© 2022 C-MER Eye Care Holdings Limited. All rights reserved.</div>
-      </div>
-    </div>
-</div>
-
-  </div>
+  <Footer_cn/>
 </template>
 
 
@@ -129,7 +99,7 @@ const messages = {
 
 
 export default {
-  components: {Header_cn},
+  components: {Header_cn,Footer_cn},
   name: 'Index',
     data() {
       return {

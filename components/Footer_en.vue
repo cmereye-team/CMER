@@ -4,7 +4,7 @@
     <div class="container">
     <div class="footer_nav flex items-center justify-between  ">
       <div class="footer_logo">
-        <img src="/img/Logo_foot.svg" alt="" srcset="">
+        <img src="/img/Logo_foot_en.svg" alt="" srcset="">
       </div>
       <div class="footer_nav_link">
          <ul class="flex">

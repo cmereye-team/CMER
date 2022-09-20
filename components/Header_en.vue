@@ -10,7 +10,7 @@
     <img src="/img/logo.svg" alt="" srcset=""> 
    <p><span class="brand_gs">C-MER Eye Care Holdings Limited</span>
      <br class="xs-dis-none">
-     <span class="brand_gp">(Stock Code: 3309)</span></p>
+     <span class="brand_gp" style="font-weight: 100;font-size: initial;">(Stock Code: 3309)</span></p>
     </b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>

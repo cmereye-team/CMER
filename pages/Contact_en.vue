@@ -4,60 +4,7 @@
 
   <template>
 
-  <div class="header">
-    <link href="/css/tailwind.min.css" rel="stylesheet">
-  
-  <b-navbar toggleable="lg" type="light" variant="white" fixed="top" id="header_bar">
-    <b-navbar-brand to="/index_en" class="flex items-center">
-    
-    <img src="/img/logo.svg" alt="" srcset=""> 
-   <p><span class="brand_gs">C-MER Eye Care Holdings Limited</span>
-     <br class="xs-dis-none">
-     <span class="brand_gp">(Stock Code: 3309)</span></p>
-    </b-navbar-brand>
-
-    <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
-
-    <b-collapse id="nav-collapse" is-nav>
-      <!-- Right aligned nav items -->
-      <b-navbar-nav class="ml-auto">
- 
-   <b-nav-item-dropdown text="Color" active right  id="chose_color" hidden>
-          <b-dropdown-item href="#">黃色</b-dropdown-item>
-          <b-dropdown-item href="#">藍色</b-dropdown-item>
-    </b-nav-item-dropdown>
-
-        <b-nav-item-dropdown v-for="(item, idx)  in menuList" :key="idx" :text='item.name' right   >
-          <b-dropdown-item v-for="(subitem, idx) in item.submenu" :key="idx" :to="subitem.url" keep-alive >{{subitem.name}}</b-dropdown-item>
-        </b-nav-item-dropdown>
-        
-        <nuxt-link class="btn btn-primary nav-contact" role="button" to="/Contact_en">Contact Us</nuxt-link>
-
-         <div class="language">
-      <div class="language_box">
-
- 
- 
-<b-dropdown size="sm"   variant="link" toggle-class="text-decoration-none" dropleft  no-caret>
-    <template #button-content> 
-     <img src="/img/earth.svg">
-    </template>
-  <nuxt-link to="/Contact">繁體中文</nuxt-link>
-  <nuxt-link to="/Contact_cn">简体中文</nuxt-link>
-  <nuxt-link to="/Contact_en">English</nuxt-link>
-  </b-dropdown>
-
-
-
-
-    </div>
-    </div>
-
-      </b-navbar-nav>
-    </b-collapse>
-  </b-navbar>
-
-  </div>
+  <Header/>
 </template>
       
       <div class="part_content_bg part_content_contact tanslate_yin">
@@ -118,6 +65,7 @@
 import Header from '../components/Header_en.vue';
 import Footer from '../components/Footer_en.vue';
 export default {
+  components:{Header,Footer},
   name: 'Contact_en',
    data(){
             return {

@@ -2,60 +2,7 @@
   <div class="theme-blue">
    
 
-    <div class="header">
-    <link href="/css/tailwind.min.css" rel="stylesheet">
-  
-  <b-navbar toggleable="lg" type="light" variant="white" fixed="top" id="header_bar">
-    <b-navbar-brand to="/index_cn" class="flex items-center">
-    
-    <img src="/img/logo.svg" alt="" srcset=""> 
-    <p><span class="brand_gs">希玛眼科医疗控股有限公司</span>
-     <span class="brand_gp">(股份代号：3309) </span></p>
-    </b-navbar-brand>
-
-    <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
-
-    <b-collapse id="nav-collapse" is-nav>
-      <!-- Right aligned nav items -->
-      <b-navbar-nav class="ml-auto">
- 
-   <b-nav-item-dropdown text="Color" active right  id="chose_color" hidden>
-          <b-dropdown-item href="#">黄色</b-dropdown-item>
-          <b-dropdown-item href="#">蓝色</b-dropdown-item>
-    </b-nav-item-dropdown>
-
-        <b-nav-item-dropdown v-for="(item, idx)  in menuList" :key="idx" :text='item.name' right   >
-          <b-dropdown-item v-for="(subitem, idx) in item.submenu" :key="idx" :to="subitem.url" keep-alive >{{subitem.name}}</b-dropdown-item>
-        </b-nav-item-dropdown>
-        
-        <nuxt-link class="btn btn-primary nav-contact" role="button" to="/Contact_cn">联络我们</nuxt-link>
-
-         <div class="language">
-      <div class="language_box">
-
- 
- 
-<b-dropdown size="sm"   variant="link" toggle-class="text-decoration-none" dropleft  no-caret>
-    <template #button-content> 
-     <img src="/img/earth.svg">
-    </template>
-       <nuxt-link to="/Services-In-China">繁體中文</nuxt-link>
-    <nuxt-link to="/Services-In-China_cn">简体中文</nuxt-link>
-   <nuxt-link to="/Services-In-China_en">English</nuxt-link>
-  
-  </b-dropdown>
-
-
-
-
-    </div>
-    </div>
-
-      </b-navbar-nav>
-    </b-collapse>
-  </b-navbar>
-
-  </div>
+    <Header/>
 
 
     <div class="banner_about banner_about_dl">
@@ -400,37 +347,7 @@
     </div>
    
       <template>
-  <div class="footer part">
-    <div class="container">
-    <div class="footer_nav flex items-center justify-between  ">
-      <div class="footer_logo">
-        <img src="/img/Logo_foot_cn.svg" alt="" srcset="">
-      </div>
-      <div class="footer_nav_link">
-         <ul class="flex">
-           
-           <li  v-for="item in foot_menuList" ><b-link :href="item.url">{{item.name}}</b-link></li>
-          
-         </ul>
-      </div>
-    </div>
-
-    <div class="footer_address mt-12 text-base "><p>地址: 中环毕打街1-3号中建大厦1535室 </p></div>
-
-    <div class="footer_social mt-12 flex items-center justify-between">
-      <ul class="flex items-center">
-        <li v-for="item in foot_soical" class="mr-10"><a :href="item.url" target="_blank"><i><img :src="item.src" alt=""></i></a></li>
-    
-  
-      </ul>
-      <div class="footer_copyright">
-        <div class="footer_privacy text-right"> <span v-for="item in foot_state" style="margin-right: 1em;"><b-link :href="item.url">{{item.name}}</b-link></span></div>
-        <div class="footer_cptext">© 2022 C-MER Eye Care Holdings Limited. All rights reserved.</div>
-      </div>
-    </div>
-</div>
-
-  </div>
+  <Footer/>
 </template>
 
   </div>
@@ -618,425 +535,411 @@
 }
 </style>
 <script>
-import Header from "../components/Header.vue";
-import Footer from "../components/Footer.vue";
+import Header from "../components/Header_cn.vue";
+import Footer from "../components/Footer_cn.vue";
+
 export default {
-  name: "Services-In-China",
-  data() {
-    return {};
-  },
-  head:{
-    title: '希玛 内地业务 | 希玛业务',
-    meta: [
-      { charset: "utf-8" },
-      { name: "viewport", content: "width=device-width, initial-scale=1" },
-      {hid: "keywords", name: "keywords", content: "希玛 大湾区 深圳希玛林顺潮眼科医院 北京希玛林顺潮眼科医院 上海希玛瑞视眼科医院 深圳新安希玛林顺潮眼科医院 广州希玛林顺潮眼科医院 珠海希玛林顺潮眼科医院 惠州希玛林顺潮眼科医院 希玛昆明眼科医院 福州希玛林顺潮眼科 深圳爱康健口腔医院"},
-      { hid: "description", name: "description", content: "希玛经过十年深耕，重点建立以大湾区为主的全国性实体医院网路，遍及深圳、北京、上海、广州、昆明、福州及大湾区多个重点城市。希玛的港式高质、安全可靠及价格合理的医疗服务，获得客户正面回馈。在深圳市卫生健康委员会每季度的非公立医院患者满意度评分中，深圳希玛林顺潮眼科医院长期高踞前列位置。" }
-    ],
-    link: [
-      { rel: "icon", type: "image/x-icon", href: "/favicon.ico" }
-    ]
-  },
-
-   data(){
-            return {
-                menuList:[
-                    {id:'about',name:'关于希玛',
-                       submenu:[{url:"/About-cmer_cn",name:"集团介绍"},{url:"/Corporate-culture_cn",name:"愿景及使命"},{url:"/Business-milestones_cn",name:"业务里程碑"},{url:"/Board-of-directors_cn",name:"董事会"}]
-                    },
-                    {id:'service',name:'业务概览',
-                       submenu:[{url:"/Services-In-Hong-Kong_cn",name:"香港医疗服务"},{url:"/Services-In-China_cn",name:"内地医疗服务"}]},
-                    {id:'link',name:'社会责任',
-                       submenu:[{url:"/Report-governance_cn",name:"报告及管治"},{url:"/Awards_cn",name:"奖项殊荣"},{url:"/Caring-about-staff_cn",name:"重视员工"},{url:"/Social-Responsibilities_cn",name:"社会责任"}]},
-                    {id:'dangjian',name:'新闻中心',
-                       submenu:[{url:"/News/index_cn",name:"新闻稿"}
-                       ]},
-                    {id:'news',name:'投资者关系',
-                        submenu:[{url:"/Investor-Relationship_cn",name:"投资者关系"},{url:"/Enterprise-information_cn",name:"企业资料"},{url:"/Investor-Contact_cn",name:"投资者联系"},{url:"/Announcements-and-circulars_cn",name:"公告及通函"},{url:"/Annual-Report_cn",name:"财务报告"},{url:"/Corporate-Governance_cn",name:"企业管治"}]},   
-                    
-
-
-                ],
-
-                  foot_menuList:[
-                    {url:'/About-cmer_cn',name:'关于希玛'},
-                    {url:'/Services-In-Hong-Kong_cn',name:'业务概览'},
-                    {url:'/Social-Responsibilities_cn',name:'社会责任'},
-                    {url:'/News/index_cn',name:'新闻中心'},
-                    {url:'/Investor-Contact_cn',name:'投资者关系'},
-                    {url:'/Contact_cn',name:'联络我们'},
-
-                ],
-                foot_soical:[
-                    {url:'https://www.facebook.com/cmereyecenter/',src:'/img/foot_fb.png'},
-                    {url:'https://www.instagram.com/cmer_smile/',src:'/img/foot_ins.png'},
-                    {url:'https://www.youtube.com/channel/UCkYbtBhKYc8XyrgG7SAFzRg',src:'/img/foot_youtube.png'},
-                    // {url:'',src:'/img/foot_whatsapp.png'},
-
-                ],
-
-              foot_state:[
-                 {url:'/disclamer_cn',name:'私隐政策'},
-                 {url:'/statement_cn',name:'免责声明'},
-              ]  
-
-
-            }
+  components:{Header,Footer},
+    name: "Services-In-China",
+    data() {
+        return {};
+    },
+    head: {
+        title: "希玛 内地业务 | 希玛业务",
+        meta: [
+            { charset: "utf-8" },
+            { name: "viewport", content: "width=device-width, initial-scale=1" },
+            { hid: "keywords", name: "keywords", content: "希玛 大湾区 深圳希玛林顺潮眼科医院 北京希玛林顺潮眼科医院 上海希玛瑞视眼科医院 深圳新安希玛林顺潮眼科医院 广州希玛林顺潮眼科医院 珠海希玛林顺潮眼科医院 惠州希玛林顺潮眼科医院 希玛昆明眼科医院 福州希玛林顺潮眼科 深圳爱康健口腔医院" },
+            { hid: "description", name: "description", content: "希玛经过十年深耕，重点建立以大湾区为主的全国性实体医院网路，遍及深圳、北京、上海、广州、昆明、福州及大湾区多个重点城市。希玛的港式高质、安全可靠及价格合理的医疗服务，获得客户正面回馈。在深圳市卫生健康委员会每季度的非公立医院患者满意度评分中，深圳希玛林顺潮眼科医院长期高踞前列位置。" }
+        ],
+        link: [
+            { rel: "icon", type: "image/x-icon", href: "/favicon.ico" }
+        ]
+    },
+    data() {
+        return {
+            menuList: [
+                { id: "about", name: "关于希玛", submenu: [{ url: "/About-cmer_cn", name: "集团介绍" }, { url: "/Corporate-culture_cn", name: "愿景及使命" }, { url: "/Business-milestones_cn", name: "业务里程碑" }, { url: "/Board-of-directors_cn", name: "董事会" }]
+                },
+                { id: "service", name: "业务概览", submenu: [{ url: "/Services-In-Hong-Kong_cn", name: "香港医疗服务" }, { url: "/Services-In-China_cn", name: "内地医疗服务" }] },
+                { id: "link", name: "社会责任", submenu: [{ url: "/Report-governance_cn", name: "报告及管治" }, { url: "/Awards_cn", name: "奖项殊荣" }, { url: "/Caring-about-staff_cn", name: "重视员工" }, { url: "/Social-Responsibilities_cn", name: "社会责任" }] },
+                { id: "dangjian", name: "新闻中心", submenu: [{ url: "/News/index_cn", name: "新闻稿" }
+                    ] },
+                { id: "news", name: "投资者关系", submenu: [{ url: "/Investor-Relationship_cn", name: "投资者关系" }, { url: "/Enterprise-information_cn", name: "企业资料" }, { url: "/Investor-Contact_cn", name: "投资者联系" }, { url: "/Announcements-and-circulars_cn", name: "公告及通函" }, { url: "/Annual-Report_cn", name: "财务报告" }, { url: "/Corporate-Governance_cn", name: "企业管治" }] },
+            ],
+            foot_menuList: [
+                { url: "/About-cmer_cn", name: "关于希玛" },
+                { url: "/Services-In-Hong-Kong_cn", name: "业务概览" },
+                { url: "/Social-Responsibilities_cn", name: "社会责任" },
+                { url: "/News/index_cn", name: "新闻中心" },
+                { url: "/Investor-Contact_cn", name: "投资者关系" },
+                { url: "/Contact_cn", name: "联络我们" },
+            ],
+            foot_soical: [
+                { url: "https://www.facebook.com/cmereyecenter/", src: "/img/foot_fb.png" },
+                { url: "https://www.instagram.com/cmer_smile/", src: "/img/foot_ins.png" },
+                { url: "https://www.youtube.com/channel/UCkYbtBhKYc8XyrgG7SAFzRg", src: "/img/foot_youtube.png" },
+                // {url:'',src:'/img/foot_whatsapp.png'},
+            ],
+            foot_state: [
+                { url: "/disclamer_cn", name: "私隐政策" },
+                { url: "/statement_cn", name: "免责声明" },
+            ]
+        };
+    },
+    methods: {
+        showMsgOk() {
+            const h = this.$createElement;
+            // Using HTML string
+            const titleVNode = h("div", { domProps: { innerHTML: "深圳希瑪林順潮眼科醫院" } });
+            // More complex structure
+            const messageVNode = h("div", { class: ["foobar"] }, [
+                h("p", { class: ["text-left"] }, [
+                    "深圳市福田区沙头街道天安社区泰然九路盛唐商务大厦泰然九路1-1号、 西座301-314、 东座303-304",
+                ]),
+                h("br"),
+                h("b-img", {
+                    props: {
+                        src: "/pic/azh_1b.jpg",
+                        thumbnail: true,
+                        center: true,
+                        fluid: true,
+                        rounded: "5px",
+                        spinners: true,
+                    }
+                })
+            ]);
+            // We must pass the generated VNodes as arrays
+            this.$bvModal.msgBoxOk([messageVNode], {
+                title: [titleVNode],
+                buttonSize: "sm",
+                okVariant: "primary",
+                headerClass: "bg-primary text-white",
+                size: "lg",
+                footerClass: "bg-light",
+                hideFooter: true,
+                okTitle: "關閉",
+                centered: true,
+                size: "lg",
+            });
         },
-   
-  methods: {
-    showMsgOk() {
-        const h = this.$createElement
-        // Using HTML string
-        const titleVNode = h('div', { domProps: { innerHTML: '深圳希瑪林順潮眼科醫院' } })
-        // More complex structure
-        const messageVNode = h('div', { class: ['foobar'] }, [
-          h('p', { class: ['text-left'] }, [
-            '深圳市福田区沙头街道天安社区泰然九路盛唐商务大厦泰然九路1-1号、 西座301-314、 东座303-304',
-          ]),
-          h('br'),
-          h('b-img', {
-            props: {
-              src: '/pic/azh_1b.jpg',
-              thumbnail: true,
-              center: true,
-              fluid: true, rounded: '5px',
-              spinners: true,
-            }
-          })
-        ])
-        // We must pass the generated VNodes as arrays
-        this.$bvModal.msgBoxOk([messageVNode], {
-          title: [titleVNode],
-          buttonSize: 'sm',
-          okVariant: 'primary',
-          headerClass: 'bg-primary text-white',
-          size: 'lg',
-          footerClass: 'bg-light',
-          hideFooter: true,
-          okTitle: '關閉',
-          centered: true, 
-          size: 'lg',
-
-        })
-      },
-      showMsgOk2() {
-        const h = this.$createElement
-        // Using HTML string
-        const titleVNode = h('div', { domProps: { innerHTML: '北京希瑪林順潮眼科醫院' } })
-        // More complex structure
-        const messageVNode = h('div', { class: ['foobar'] }, [
-          h('p', { class: ['text-left'] }, [
-            '北京市朝陽區高碑店建國路27號紫檀大廈裙樓1-3層',
-          ]),
-          h('br'),
-          h('b-img', {
-            props: {
-              src: '/pic/azh_2b.jpg',
-              thumbnail: true,
-              center: true,
-              fluid: true, rounded: '5px',
-              spinners: true,
-            }
-          })
-        ])
-        // We must pass the generated VNodes as arrays
-        this.$bvModal.msgBoxOk([messageVNode], {
-          title: [titleVNode],
-          buttonSize: 'sm',
-          okVariant: 'primary',
-          headerClass: 'bg-primary text-white',
-          size: 'lg',
-          footerClass: 'bg-light',
-          hideFooter: true,
-          okTitle: '關閉',
-          centered: true, 
-          size: 'lg',
-
-        })
-      },
-      showMsgOk3() {
-        const h = this.$createElement
-        // Using HTML string
-        const titleVNode = h('div', { domProps: { innerHTML: '上海希玛瑞视眼科医院' } })
-        // More complex structure
-        const messageVNode = h('div', { class: ['foobar'] }, [
-          h('p', { class: ['text-left'] }, [
-            '上海市黄浦区 西藏南路758号 前社Nexxus2-3楼， 另有3间门诊分部位于浦东新区、普陀区及杨浦区',
-          ]),
-          h('br'),
-          h('b-img', {
-            props: {
-              src: '/pic/azh_3b.jpg',
-              thumbnail: true,
-              center: true,
-              fluid: true, rounded: '5px',
-              spinners: true,
-            }
-          })
-        ])
-        // We must pass the generated VNodes as arrays
-        this.$bvModal.msgBoxOk([messageVNode], {
-          title: [titleVNode],
-          buttonSize: 'sm',
-          okVariant: 'primary',
-          headerClass: 'bg-primary text-white',
-          size: 'lg',
-          footerClass: 'bg-light',
-          hideFooter: true,
-          okTitle: '关闭',
-          centered: true, 
-          size: 'lg',
-
-        })
-      },
-      showMsgOk4() {
-        const h = this.$createElement
-        // Using HTML string
-        const titleVNode = h('div', { domProps: { innerHTML: '深圳新安希玛林顺潮眼科医院' } })
-        // More complex structure
-        const messageVNode = h('div', { class: ['foobar'] }, [
-          h('p', { class: ['text-left'] }, [
-            ' 深圳市宝安区新安街道创业二路南侧 都市翠海华苑1栋1层',
-          ]),
-          h('br'),
-          h('b-img', {
-            props: {
-              src: '/pic/azh_4b.jpg',
-              thumbnail: true,
-              center: true,
-              fluid: true, rounded: '5px',
-              spinners: true,
-            }
-          })
-        ])
-        // We must pass the generated VNodes as arrays
-        this.$bvModal.msgBoxOk([messageVNode], {
-          title: [titleVNode],
-          buttonSize: 'sm',
-          okVariant: 'primary',
-          headerClass: 'bg-primary text-white',
-          size: 'lg',
-          footerClass: 'bg-light',
-          hideFooter: true,
-          okTitle: '关闭',
-          centered: true, 
-          size: 'lg',
-
-        })
-      },
-      showMsgOk5() {
-        const h = this.$createElement
-        // Using HTML string
-        const titleVNode = h('div', { domProps: { innerHTML: '广州希玛林顺潮眼科医院' } })
-        // More complex structure
-        const messageVNode = h('div', { class: ['foobar'] }, [
-          h('p', { class: ['text-left'] }, [
-            ' 广州市天河区天河北路183-187首层、2层、3层商场',
-          ]),
-          h('br'),
-          h('b-img', {
-            props: {
-              src: '/pic/azh_5b.jpg',
-              thumbnail: true,
-              center: true,
-              fluid: true, rounded: '5px',
-              spinners: true,
-            }
-          })
-        ])
-        // We must pass the generated VNodes as arrays
-        this.$bvModal.msgBoxOk([messageVNode], {
-          title: [titleVNode],
-          buttonSize: 'sm',
-          okVariant: 'primary',
-          headerClass: 'bg-primary text-white',
-          size: 'lg',
-          footerClass: 'bg-light',
-          hideFooter: true,
-          okTitle: '关闭',
-          centered: true, 
-          size: 'lg',
-
-        })
-      },
-      showMsgOk6() {
-        const h = this.$createElement
-        // Using HTML string
-        const titleVNode = h('div', { domProps: { innerHTML: '珠海希玛林顺潮眼科医院' } })
-        // More complex structure
-        const messageVNode = h('div', { class: ['foobar'] }, [
-          h('p', { class: ['text-left'] }, [
-            '珠海市香洲区 吉大景园路15号 珠宝大厦一、二层',
-          ]),
-          h('br'),
-          h('b-img', {
-            props: {
-              src: '/pic/azh_6b.jpg',
-              thumbnail: true,
-              center: true,
-              fluid: true, rounded: '5px',
-              spinners: true,
-            }
-          })
-        ])
-        // We must pass the generated VNodes as arrays
-        this.$bvModal.msgBoxOk([messageVNode], {
-          title: [titleVNode],
-          buttonSize: 'sm',
-          okVariant: 'primary',
-          headerClass: 'bg-primary text-white',
-          size: 'lg',
-          footerClass: 'bg-light',
-          hideFooter: true,
-          okTitle: '关闭',
-          centered: true, 
-          size: 'lg',
-
-        })
-      },
-      showMsgOk7() {
-        const h = this.$createElement
-        // Using HTML string
-        const titleVNode = h('div', { domProps: { innerHTML: '惠州希玛林顺潮眼科医院' } })
-        // More complex structure
-        const messageVNode = h('div', { class: ['foobar'] }, [
-          h('p', { class: ['text-left'] }, [
-            ' 惠州市惠阳区淡水桥背永兴路94号',
-          ]),
-          h('br'),
-          h('b-img', {
-            props: {
-              src: '/pic/azh_7b.jpg',
-              thumbnail: true,
-              center: true,
-              fluid: true, rounded: '5px',
-              spinners: true,
-            }
-          })
-        ])
-        // We must pass the generated VNodes as arrays
-        this.$bvModal.msgBoxOk([messageVNode], {
-          title: [titleVNode],
-          buttonSize: 'sm',
-          okVariant: 'primary',
-          headerClass: 'bg-primary text-white',
-          size: 'lg',
-          footerClass: 'bg-light',
-          hideFooter: true,
-          okTitle: '关闭',
-          centered: true, 
-          size: 'lg',
-
-        })
-      },
-      showMsgOk8() {
-        const h = this.$createElement
-        // Using HTML string
-        const titleVNode = h('div', { domProps: { innerHTML: '希玛 ‧ 昆明眼科医院' } })
-        // More complex structure
-        const messageVNode = h('div', { class: ['foobar'] }, [
-          h('p', { class: ['text-left'] }, [
-            ' 昆明市云瑞西路44号',
-          ]),
-          h('br'),
-          h('b-img', {
-            props: {
-              src: '/pic/azh_8b.jpg',
-              thumbnail: true,
-              center: true,
-              fluid: true, rounded: '5px',
-              spinners: true,
-            }
-          })
-        ])
-        // We must pass the generated VNodes as arrays
-        this.$bvModal.msgBoxOk([messageVNode], {
-          title: [titleVNode],
-          buttonSize: 'sm',
-          okVariant: 'primary',
-          headerClass: 'bg-primary text-white',
-          size: 'lg',
-          footerClass: 'bg-light',
-          hideFooter: true,
-          okTitle: '关闭',
-          centered: true, 
-          size: 'lg',
-
-        })
-      },
-      showMsgOk9() {
-        const h = this.$createElement
-        // Using HTML string
-        const titleVNode = h('div', { domProps: { innerHTML: '福州希玛林顺潮眼科' } })
-        // More complex structure
-        const messageVNode = h('div', { class: ['foobar'] }, [
-          h('p', { class: ['text-left'] }, [
-            ' 福州市鼓楼区东街83号 中庚青年广场',
-          ]),
-          h('br'),
-          h('b-img', {
-            props: {
-              src: '/pic/azh_9b.jpg',
-              thumbnail: true,
-              center: true,
-              fluid: true, rounded: '5px',
-              spinners: true,
-            }
-          })
-        ])
-        // We must pass the generated VNodes as arrays
-        this.$bvModal.msgBoxOk([messageVNode], {
-          title: [titleVNode],
-          buttonSize: 'sm',
-          okVariant: 'primary',
-          headerClass: 'bg-primary text-white',
-          size: 'lg',
-          footerClass: 'bg-light',
-          hideFooter: true,
-          okTitle: '关闭',
-          centered: true, 
-          size: 'lg',
-
-        })
-      },
-      showMsgOk10() {
-        const h = this.$createElement
-        // Using HTML string
-        const titleVNode = h('div', { domProps: { innerHTML: '深圳爱康健齿科集团<br> (希玛间接非全资附属公司)' } })
-        // More complex structure
-        const messageVNode = h('div', { class: ['foobar'] }, [
-          h('p', { class: ['text-left'] }, [
-            ' 深圳市罗湖火车站大楼 C区1-8楼，另有12家口腔门诊部分别设于深圳罗湖，福田，南山，宝安及广州天河区',
-          ]),
-          h('br'),
-          h('b-img', {
-            props: {
-              src: '/pic/azh_10b.jpg',
-              thumbnail: true,
-              center: true,
-              fluid: true, rounded: '5px',
-              spinners: true,
-            }
-          })
-        ])
-        // We must pass the generated VNodes as arrays
-        this.$bvModal.msgBoxOk([messageVNode], {
-          title: [titleVNode],
-          buttonSize: 'sm',
-          okVariant: 'primary',
-          headerClass: 'bg-primary text-white',
-          size: 'lg',
-          footerClass: 'bg-light',
-          hideFooter: true,
-          okTitle: '关闭',
-          centered: true, 
-          size: 'lg',
-
-        })
-      },
-      
-  },
+        showMsgOk2() {
+            const h = this.$createElement;
+            // Using HTML string
+            const titleVNode = h("div", { domProps: { innerHTML: "北京希瑪林順潮眼科醫院" } });
+            // More complex structure
+            const messageVNode = h("div", { class: ["foobar"] }, [
+                h("p", { class: ["text-left"] }, [
+                    "北京市朝陽區高碑店建國路27號紫檀大廈裙樓1-3層",
+                ]),
+                h("br"),
+                h("b-img", {
+                    props: {
+                        src: "/pic/azh_2b.jpg",
+                        thumbnail: true,
+                        center: true,
+                        fluid: true,
+                        rounded: "5px",
+                        spinners: true,
+                    }
+                })
+            ]);
+            // We must pass the generated VNodes as arrays
+            this.$bvModal.msgBoxOk([messageVNode], {
+                title: [titleVNode],
+                buttonSize: "sm",
+                okVariant: "primary",
+                headerClass: "bg-primary text-white",
+                size: "lg",
+                footerClass: "bg-light",
+                hideFooter: true,
+                okTitle: "關閉",
+                centered: true,
+                size: "lg",
+            });
+        },
+        showMsgOk3() {
+            const h = this.$createElement;
+            // Using HTML string
+            const titleVNode = h("div", { domProps: { innerHTML: "上海希玛瑞视眼科医院" } });
+            // More complex structure
+            const messageVNode = h("div", { class: ["foobar"] }, [
+                h("p", { class: ["text-left"] }, [
+                    "上海市黄浦区 西藏南路758号 前社Nexxus2-3楼， 另有3间门诊分部位于浦东新区、普陀区及杨浦区",
+                ]),
+                h("br"),
+                h("b-img", {
+                    props: {
+                        src: "/pic/azh_3b.jpg",
+                        thumbnail: true,
+                        center: true,
+                        fluid: true,
+                        rounded: "5px",
+                        spinners: true,
+                    }
+                })
+            ]);
+            // We must pass the generated VNodes as arrays
+            this.$bvModal.msgBoxOk([messageVNode], {
+                title: [titleVNode],
+                buttonSize: "sm",
+                okVariant: "primary",
+                headerClass: "bg-primary text-white",
+                size: "lg",
+                footerClass: "bg-light",
+                hideFooter: true,
+                okTitle: "关闭",
+                centered: true,
+                size: "lg",
+            });
+        },
+        showMsgOk4() {
+            const h = this.$createElement;
+            // Using HTML string
+            const titleVNode = h("div", { domProps: { innerHTML: "深圳新安希玛林顺潮眼科医院" } });
+            // More complex structure
+            const messageVNode = h("div", { class: ["foobar"] }, [
+                h("p", { class: ["text-left"] }, [
+                    " 深圳市宝安区新安街道创业二路南侧 都市翠海华苑1栋1层",
+                ]),
+                h("br"),
+                h("b-img", {
+                    props: {
+                        src: "/pic/azh_4b.jpg",
+                        thumbnail: true,
+                        center: true,
+                        fluid: true,
+                        rounded: "5px",
+                        spinners: true,
+                    }
+                })
+            ]);
+            // We must pass the generated VNodes as arrays
+            this.$bvModal.msgBoxOk([messageVNode], {
+                title: [titleVNode],
+                buttonSize: "sm",
+                okVariant: "primary",
+                headerClass: "bg-primary text-white",
+                size: "lg",
+                footerClass: "bg-light",
+                hideFooter: true,
+                okTitle: "关闭",
+                centered: true,
+                size: "lg",
+            });
+        },
+        showMsgOk5() {
+            const h = this.$createElement;
+            // Using HTML string
+            const titleVNode = h("div", { domProps: { innerHTML: "广州希玛林顺潮眼科医院" } });
+            // More complex structure
+            const messageVNode = h("div", { class: ["foobar"] }, [
+                h("p", { class: ["text-left"] }, [
+                    " 广州市天河区天河北路183-187首层、2层、3层商场",
+                ]),
+                h("br"),
+                h("b-img", {
+                    props: {
+                        src: "/pic/azh_5b.jpg",
+                        thumbnail: true,
+                        center: true,
+                        fluid: true,
+                        rounded: "5px",
+                        spinners: true,
+                    }
+                })
+            ]);
+            // We must pass the generated VNodes as arrays
+            this.$bvModal.msgBoxOk([messageVNode], {
+                title: [titleVNode],
+                buttonSize: "sm",
+                okVariant: "primary",
+                headerClass: "bg-primary text-white",
+                size: "lg",
+                footerClass: "bg-light",
+                hideFooter: true,
+                okTitle: "关闭",
+                centered: true,
+                size: "lg",
+            });
+        },
+        showMsgOk6() {
+            const h = this.$createElement;
+            // Using HTML string
+            const titleVNode = h("div", { domProps: { innerHTML: "珠海希玛林顺潮眼科医院" } });
+            // More complex structure
+            const messageVNode = h("div", { class: ["foobar"] }, [
+                h("p", { class: ["text-left"] }, [
+                    "珠海市香洲区 吉大景园路15号 珠宝大厦一、二层",
+                ]),
+                h("br"),
+                h("b-img", {
+                    props: {
+                        src: "/pic/azh_6b.jpg",
+                        thumbnail: true,
+                        center: true,
+                        fluid: true,
+                        rounded: "5px",
+                        spinners: true,
+                    }
+                })
+            ]);
+            // We must pass the generated VNodes as arrays
+            this.$bvModal.msgBoxOk([messageVNode], {
+                title: [titleVNode],
+                buttonSize: "sm",
+                okVariant: "primary",
+                headerClass: "bg-primary text-white",
+                size: "lg",
+                footerClass: "bg-light",
+                hideFooter: true,
+                okTitle: "关闭",
+                centered: true,
+                size: "lg",
+            });
+        },
+        showMsgOk7() {
+            const h = this.$createElement;
+            // Using HTML string
+            const titleVNode = h("div", { domProps: { innerHTML: "惠州希玛林顺潮眼科医院" } });
+            // More complex structure
+            const messageVNode = h("div", { class: ["foobar"] }, [
+                h("p", { class: ["text-left"] }, [
+                    " 惠州市惠阳区淡水桥背永兴路94号",
+                ]),
+                h("br"),
+                h("b-img", {
+                    props: {
+                        src: "/pic/azh_7b.jpg",
+                        thumbnail: true,
+                        center: true,
+                        fluid: true,
+                        rounded: "5px",
+                        spinners: true,
+                    }
+                })
+            ]);
+            // We must pass the generated VNodes as arrays
+            this.$bvModal.msgBoxOk([messageVNode], {
+                title: [titleVNode],
+                buttonSize: "sm",
+                okVariant: "primary",
+                headerClass: "bg-primary text-white",
+                size: "lg",
+                footerClass: "bg-light",
+                hideFooter: true,
+                okTitle: "关闭",
+                centered: true,
+                size: "lg",
+            });
+        },
+        showMsgOk8() {
+            const h = this.$createElement;
+            // Using HTML string
+            const titleVNode = h("div", { domProps: { innerHTML: "希玛 ‧ 昆明眼科医院" } });
+            // More complex structure
+            const messageVNode = h("div", { class: ["foobar"] }, [
+                h("p", { class: ["text-left"] }, [
+                    " 昆明市云瑞西路44号",
+                ]),
+                h("br"),
+                h("b-img", {
+                    props: {
+                        src: "/pic/azh_8b.jpg",
+                        thumbnail: true,
+                        center: true,
+                        fluid: true,
+                        rounded: "5px",
+                        spinners: true,
+                    }
+                })
+            ]);
+            // We must pass the generated VNodes as arrays
+            this.$bvModal.msgBoxOk([messageVNode], {
+                title: [titleVNode],
+                buttonSize: "sm",
+                okVariant: "primary",
+                headerClass: "bg-primary text-white",
+                size: "lg",
+                footerClass: "bg-light",
+                hideFooter: true,
+                okTitle: "关闭",
+                centered: true,
+                size: "lg",
+            });
+        },
+        showMsgOk9() {
+            const h = this.$createElement;
+            // Using HTML string
+            const titleVNode = h("div", { domProps: { innerHTML: "福州希玛林顺潮眼科" } });
+            // More complex structure
+            const messageVNode = h("div", { class: ["foobar"] }, [
+                h("p", { class: ["text-left"] }, [
+                    " 福州市鼓楼区东街83号 中庚青年广场",
+                ]),
+                h("br"),
+                h("b-img", {
+                    props: {
+                        src: "/pic/azh_9b.jpg",
+                        thumbnail: true,
+                        center: true,
+                        fluid: true,
+                        rounded: "5px",
+                        spinners: true,
+                    }
+                })
+            ]);
+            // We must pass the generated VNodes as arrays
+            this.$bvModal.msgBoxOk([messageVNode], {
+                title: [titleVNode],
+                buttonSize: "sm",
+                okVariant: "primary",
+                headerClass: "bg-primary text-white",
+                size: "lg",
+                footerClass: "bg-light",
+                hideFooter: true,
+                okTitle: "关闭",
+                centered: true,
+                size: "lg",
+            });
+        },
+        showMsgOk10() {
+            const h = this.$createElement;
+            // Using HTML string
+            const titleVNode = h("div", { domProps: { innerHTML: "深圳爱康健齿科集团<br> (希玛间接非全资附属公司)" } });
+            // More complex structure
+            const messageVNode = h("div", { class: ["foobar"] }, [
+                h("p", { class: ["text-left"] }, [
+                    " 深圳市罗湖火车站大楼 C区1-8楼，另有12家口腔门诊部分别设于深圳罗湖，福田，南山，宝安及广州天河区",
+                ]),
+                h("br"),
+                h("b-img", {
+                    props: {
+                        src: "/pic/azh_10b.jpg",
+                        thumbnail: true,
+                        center: true,
+                        fluid: true,
+                        rounded: "5px",
+                        spinners: true,
+                    }
+                })
+            ]);
+            // We must pass the generated VNodes as arrays
+            this.$bvModal.msgBoxOk([messageVNode], {
+                title: [titleVNode],
+                buttonSize: "sm",
+                okVariant: "primary",
+                headerClass: "bg-primary text-white",
+                size: "lg",
+                footerClass: "bg-light",
+                hideFooter: true,
+                okTitle: "关闭",
+                centered: true,
+                size: "lg",
+            });
+        },
+    },
+    components: { Header, Footer }
 };
 </script>
 
