@@ -56,7 +56,7 @@
    <div class="fang"></div>
    <b-container fluid="md" class="brand_box flex items-center flex-wrap">
   <b-row class="w-full justify-between">
-    <b-col class="brand_card mt-20"    v-for="(item, idx)  in foot_logo" :key="idx" >
+    <b-col class="brand_card "    v-for="(item, idx)  in foot_logo" :key="idx" :class="idx>6?'mt-5':(idx<4?'mt-20':'mt-10')" >
       <a :href="item.link" target="_blank" rel="noopener noreferrer">
         <img class="mx-auto" :src="item.pic" alt="" srcset=""></a> 
       </b-col>
@@ -205,13 +205,8 @@ body,tr,td,th,p,span,a,h1,h2,h3,h4,h5,h6{font-family:'Noto Sans CJK TC', serif;}
 
 
 .index .brand_box .brand_card:nth-child(11),.index .brand_box .brand_card:nth-child(12),.index .brand_box .brand_card:nth-child(13),.index .brand_box .brand_card:nth-child(14){width: 24.3%;}
-.brand_card:nth-child(12) img{width: 43.3%;}
-.brand_card:nth-child(6) img{width: 100%;}
-.brand_card:nth-child(7) img{width: 75%;}
-.brand_card:nth-child(8) img{width: 67%;}
-.brand_card:nth-child(9) img{width: 57%;}
 .brand_card:nth-child(11) img{width: 76%;}
-
+.brand_card:nth-child(12) img{max-height: 90px;}
 
 @media screen and (min-width:992px){
 

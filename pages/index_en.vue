@@ -57,7 +57,7 @@
    <div class="fang"></div>
    <b-container fluid="md" class="brand_box flex items-center flex-wrap">
 <b-row class="w-full justify-between">
-    <b-col class="brand_card mt-20"    v-for="(item, idx)  in foot_logo" :key="idx" ><a :href="item.link" target="_blank" rel="noopener noreferrer"><img class="mx-auto" :src="item.pic" alt="" srcset=""></a> </b-col>
+    <b-col class="brand_card"  :class="idx>6?'mt-5':(idx<4?'mt-20':'mt-10')"  v-for="(item, idx)  in foot_logo" :key="idx" ><a :href="item.link" target="_blank" rel="noopener noreferrer"><img class="mx-auto" :src="item.pic" alt="" srcset=""></a> </b-col>
     
  
 </b-row>
@@ -117,13 +117,21 @@ export default {
                     {pic:'/img/Asset-1.svg',link:'https://smile.hkcmereye.com/',},
                     {pic:'/img/index_footlogo_10.jpg',link:'https://www.cmervision.com/',},
                     {pic:'/img/index_footlogo_3.png',link:'https://www.cmerdental.com/',},
-                    {pic:'/img/index_footlogo_4.png',link:'https://www.ameraesthetics.com/',},
-                    {pic:'/img/index_footlogo_5.png',link:'https://www.healthhope.hk/',},
+
+                    {pic:'/img/zhongliu-logo.png',link:'https://www.cmeroncology.com/'},
                     {pic:'/img/index_footlogo_6.png',link:'https://championlasik.com/',},
                     {pic:'/img/index_footlogo_7.png',link:'http://optcentre.com/',},
-                    
+
+                    {pic:'/img/amerkouq-logo.jpg',link:'http://www.ckj100.com/',},
                     {pic:'/img/index_footlogo_8.png',link:'',},
                     {pic:'/img/index_footlogo_9.png',link:'',},
+
+                    {pic:'/img/amer-logo.png',link:'https://www.ameraesthetics.com/',},
+                    {pic:'/img/eon-dual-dark.png',link:'https://www.eonmedicalcentre.com/zh/%E9%97%9C%E6%96%BC%E9%A0%A4%E5%AE%89/',},
+                    
+
+                    {pic:'/img/index_footlogo_5.png',link:'https://www.healthhope.hk/',},
+                    {pic:'/img/HKCCR- NEW Logo.png',link:'https://www.hkccr.co/', },
                  
          ],
 
@@ -214,9 +222,15 @@ export default {
  
 .partthree{position: relative;width: 100%;overflow: hidden;}
 .index .brand_box .row{align-items: center;}
-.index .brand_box .brand_card{flex-basis: unset;width: 20%;}
+.index .brand_box .brand_card{flex-basis: unset;width: 27%;}
 .index .brand_box .brand_card:nth-child(1),.index .brand_box .brand_card:nth-child(2),.index .brand_box .brand_card:nth-child(3),.index .brand_box .brand_card:nth-child(4)    {width: 25%;}
-.index .brand_box .brand_card:nth-child(5),.index .brand_box .brand_card:nth-child(6),.index .brand_box .brand_card:nth-child(7){width: 33.3%;}
+.index .brand_box .brand_card:nth-child(5),.index .brand_box .brand_card:nth-child(6),.index .brand_box .brand_card:nth-child(7),
+.index .brand_box .brand_card:nth-child(8),.index .brand_box .brand_card:nth-child(9){width: 33.3%;}
+
+
+.index .brand_box .brand_card:nth-child(11),.index .brand_box .brand_card:nth-child(12),.index .brand_box .brand_card:nth-child(13),.index .brand_box .brand_card:nth-child(14){width: 24.3%;}
+.brand_card:nth-child(11) img{width: 76%;}
+.brand_card:nth-child(12) img{max-height: 90px;}
 
 @media screen and (min-width:992px){
 

@@ -9,7 +9,7 @@
     
     <img src="/img/logo.svg" alt="" srcset=""> 
     <p><span class="brand_gs">希瑪眼科醫療控股有限公司</span>
-     <span class="brand_gp" style="font-weight: 100;">(股票代號：3309) </span></p>
+     <span class="brand_gp" style="font-size: 12px;">(股票代號：3309) </span></p>
     </b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
