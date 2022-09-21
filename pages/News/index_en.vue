@@ -3,60 +3,7 @@
    
     <template>
 
-  <div class="header">
-    <link href="/css/tailwind.min.css" rel="stylesheet">
-  
-  <b-navbar toggleable="lg" type="light" variant="white" fixed="top" id="header_bar">
-    <b-navbar-brand to="/index_en" class="flex items-center">
-    
-    <img src="/img/logo.svg" alt="" srcset=""> 
-   <p><span class="brand_gs">C-MER Eye Care Holdings Limited</span>
-     <br class="xs-dis-none">
-     <span class="brand_gp">(Stock Code: 3309)</span></p>
-    </b-navbar-brand>
-
-    <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
-
-    <b-collapse id="nav-collapse" is-nav>
-      <!-- Right aligned nav items -->
-      <b-navbar-nav class="ml-auto">
- 
-   <b-nav-item-dropdown text="Color" active right  id="chose_color" hidden>
-          <b-dropdown-item href="#">黃色</b-dropdown-item>
-          <b-dropdown-item href="#">藍色</b-dropdown-item>
-    </b-nav-item-dropdown>
-
-        <b-nav-item-dropdown v-for="(item, idx)  in menuList" :key="idx" :text='item.name' right   >
-          <b-dropdown-item v-for="(subitem, idx) in item.submenu" :key="idx" :to="subitem.url" keep-alive >{{subitem.name}}</b-dropdown-item>
-        </b-nav-item-dropdown>
-        
-        <nuxt-link class="btn btn-primary nav-contact" role="button" to="/Contact_en">Contact Us</nuxt-link>
-
-         <div class="language">
-      <div class="language_box lang_news">
-
- 
- 
-<b-dropdown size="sm"   variant="link" toggle-class="text-decoration-none" dropleft  no-caret>
-    <template #button-content> 
-     <img src="/img/earth.svg">
-    </template>
-      <b-dropdown-item><nuxt-link to="/News">繁體中文</nuxt-link></b-dropdown-item>
-     <b-dropdown-item ><nuxt-link to="/News/index_cn">简体中文</nuxt-link></b-dropdown-item>
-   <b-dropdown-item  >  <nuxt-link to="/News/index_en">English</nuxt-link></b-dropdown-item>
-  </b-dropdown>
-
-
-
-
-    </div>
-    </div>
-
-      </b-navbar-nav>
-    </b-collapse>
-  </b-navbar>
-
-  </div>
+  <Header/>
 </template>
 
       <div class="banner_about banner_Release tanslate_yin">
@@ -160,37 +107,7 @@
 
 
   <template>
-  <div class="footer part tanslate_yin">
-    <div class="container">
-    <div class="footer_nav flex items-center justify-between  ">
-      <div class="footer_logo">
-        <img src="/img/Logo_foot_en.svg" alt="" srcset="">
-      </div>
-      <div class="footer_nav_link">
-         <ul class="flex">
-           
-           <li  v-for="item in foot_menuList" ><b-link :href="item.url">{{item.name}}</b-link></li>
-          
-         </ul>
-      </div>
-    </div>
-
-    <div class="footer_address mt-12 text-base "><p>Address:Suite 1535, Central Building, 1-3 Pedder Street, Central</p></div>
-
-    <div class="footer_social mt-12 flex items-center justify-between">
-      <ul class="flex items-center">
-        <li v-for="item in foot_soical" class="mr-10"><a :href="item.url" target="_blank"><i><img :src="item.src" alt=""></i></a></li>
-    
-  
-      </ul>
-      <div class="footer_copyright">
-        <div class="footer_privacy text-right"> <span v-for="item in foot_state" style="margin-right: 1em;"><b-link :href="item.url">{{item.name}}</b-link></span></div>
-        <div class="footer_cptext">© 2022 C-MER Eye Care Holdings Limited. All rights reserved.</div>
-      </div>
-    </div>
-</div>
-
-  </div>
+  <Footer/>
 </template>          
    
 
@@ -209,6 +126,10 @@ import axios from 'axios';
 
          
 export default {
+  components:{
+  Header,
+  Footer
+},
   async asyncData({ app, req, query, params,store}){
 		  const  newlistData = await axios.get('https://admin.cmereye.com/wp-json/wp/v2/posts?categories=7&page=1');
       const  whitesData = await axios.get('https://admin.cmereye.com/wp-json/wp/v2/posts?categories=7&page=2');
