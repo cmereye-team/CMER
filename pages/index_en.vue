@@ -229,8 +229,11 @@ export default {
 
 
 .index .brand_box .brand_card:nth-child(11),.index .brand_box .brand_card:nth-child(12),.index .brand_box .brand_card:nth-child(13),.index .brand_box .brand_card:nth-child(14){width: 24.3%;}
-.brand_card:nth-child(11) img{width: 76%;}
-.brand_card:nth-child(12) img{max-height: 90px;}
+.brand_card:nth-child(8) img{max-height: 50px;}
+.brand_card:nth-child(9) img{margin-right: 37% !important;}
+.brand_card:nth-child(11) img{max-height: 42px;}
+.brand_card:nth-child(12) img{max-height: 65px;}
+.brand_card:nth-child(14) img{max-height: 35px;}
 .index .brand_box .brand_card:nth-child(5) img{max-height: 50px !important;}
 
 @media screen and (min-width:992px){
