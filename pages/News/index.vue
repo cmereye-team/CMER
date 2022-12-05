@@ -34,7 +34,7 @@
 <table class="w-full mt-10 newslist">
   <tbody> 
     <tr v-for="item in newList" :data-date='item.date|dateFormat("yyyy")'> <td>{{item.date|dateFormat("yyyy-MM-dd")}}</td> 
-    <td> <a class="table-cell"  :href="item.acf.post_pdf_link.url" target="_blank" rel="nofollow"> <p>{{item.title.rendered}}</p></a> </td> </tr>  
+    <td> <a class="table-cell"  :href="item.acf.post_pdf_link" target="_blank" rel="nofollow"> <p>{{item.title.rendered}}</p></a> </td> </tr>  
     <!-- <tr v-for="item in whitesData" :data-date='item.date|dateFormat("yyyy")'> <td>{{item.date|dateFormat("yyyy-MM-dd")}}</td> 
     <td> <a class="table-cell"  :href="item.acf.post_pdf_link.url" target="_blank" rel="nofollow"> <p>{{item.title.rendered}}</p></a> </td> </tr>   -->
     <tr> <td>2022-08-30</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/09/CMER_1H2022-Interiml-Results-Press-Release_Chi_Final.pdf" target="_blank" rel="nofollow"> 
@@ -123,6 +123,7 @@ export default {
   async asyncData({ app, req, query, params,store}){
 		  const  newlistData = await axios.get('https://admin.cmereye.com/wp-json/wp/v2/posts?categories=4&page=1');
       //  const  whitesData = await axios.get('https://admin.cmereye.com/wp-json/wp/v2/posts?categories=4&page=2');
+      console.log(newlistData.data);
 		  return {
 		    newList: newlistData.data,
         // whitesData: whitesData.data,
