@@ -38,7 +38,8 @@
 <table class="w-full mt-10 newslist">
 
   <tbody> 
-    
+    <tr v-for="item in newlist" :data-date='item.date|dateFormat("yyyy")'> <td>{{item.date|dateFormat("yyyy-MM-dd")}}</td> 
+    <td> <a class="table-cell"  :href="item.acf.post_pdf_link.url" target="_blank" rel="nofollow"> <p>{{item.title.rendered}}</p></a> </td> </tr>
     <tr> <td>2022-08-30</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/09/CMER_1H2022-Interiml-Results-Press-Release_Chi_Final.pdf" target="_blank" rel="nofollow"> 
     <p>希玛眼科2022年上半年总收益8.82亿港元，按年同比增长近70%</p></a></td> </tr>
 
@@ -121,10 +122,10 @@ export default {
 },
   async asyncData({ app, req, query, params,store}){
 		  const  newlistData = await axios.get('https://admin.cmereye.com/wp-json/wp/v2/posts?categories=8&page=1');
-       const  whitesData = await axios.get('https://admin.cmereye.com/wp-json/wp/v2/posts?categories=8&page=2');
+      //  const  whitesData = await axios.get('https://admin.cmereye.com/wp-json/wp/v2/posts?categories=8&page=2');
 		  return {
 		   newlist: newlistData.data,
-       whites:  whitesData.data,
+      //  whites:  whitesData.data,
 		  };
      
 	}, 

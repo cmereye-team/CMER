@@ -33,9 +33,12 @@
  
 <table class="w-full mt-10 newslist">
   <tbody> 
-    
-    <tr> <td>2022-08-30</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/09/CMER_1H2022-Interiml-Results-Press-Release_Chi_Final.pdf" target="_blank" rel="nofollow"> 
-    <p>希瑪眼科2022年上半年總收益8.82億港元，按年同比增長近70%</p></a></td> </tr>
+    <tr v-for="item in newList" :data-date='item.date|dateFormat("yyyy")'> <td>{{item.date|dateFormat("yyyy-MM-dd")}}</td> 
+    <td> <a class="table-cell"  :href="item.acf.post_pdf_link.url" target="_blank" rel="nofollow"> <p>{{item.title.rendered}}</p></a> </td> </tr>  
+    <!-- <tr v-for="item in whitesData" :data-date='item.date|dateFormat("yyyy")'> <td>{{item.date|dateFormat("yyyy-MM-dd")}}</td> 
+    <td> <a class="table-cell"  :href="item.acf.post_pdf_link.url" target="_blank" rel="nofollow"> <p>{{item.title.rendered}}</p></a> </td> </tr>   -->
+    <!-- <tr> <td>2022-08-30</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/09/CMER_1H2022-Interiml-Results-Press-Release_Chi_Final.pdf" target="_blank" rel="nofollow"> 
+    <p>希瑪眼科2022年上半年總收益8.82億港元，按年同比增長近70%</p></a></td> </tr> -->
 
 
   <tr> <td>2022-03-29</td> <td><a class="table-cell" href="https://admin.cmereye.com/wp-content/uploads/2022/07/20220329_Chi_Final.pdf" target="_blank" rel="nofollow"> 
@@ -119,11 +122,10 @@ export default {
 },
   async asyncData({ app, req, query, params,store}){
 		  const  newlistData = await axios.get('https://admin.cmereye.com/wp-json/wp/v2/posts?categories=4&page=1');
-       const  whitesData = await axios.get('https://admin.cmereye.com/wp-json/wp/v2/posts?categories=4&page=2');
-      console.log(newlistData);
+      //  const  whitesData = await axios.get('https://admin.cmereye.com/wp-json/wp/v2/posts?categories=4&page=2');
 		  return {
-		   newlist: newlistData.data,
-        whites: whitesData.data,
+		    newList: newlistData.data,
+        // whitesData: whitesData.data,
 		  };
      
 	}, 
@@ -151,15 +153,9 @@ head: {
     ],
   },
   name: 'News-Release',
-  data(){
-            return {
-                newlist:[]
-
-            }
-        },
-
    data(){
             return {
+                newList:[],
                 menuList:[
                     {id:'about',name:'關於希瑪',
                        submenu:[{url:"/About-cmer",name:"集團介紹"},{url:"/Corporate-culture",name:"願景及使命"},{url:"/Business-milestones",name:"業務里程碑"},           {url:"/Board-of-directors",name:"董事會"}]
@@ -177,15 +173,16 @@ head: {
                     
 
 
-                ]
-
-
+                ],
+                whitesData:[]
             }
         },      
         
  
 
-
+  created(){
+    // this.getNewsList()
+  },
   mounted(){
   $('.dropdown-menu li .dropdown-item').click(function() {
     $('.newslist').addClass('ff');
@@ -212,6 +209,16 @@ head: {
 
 
   },
+  methods: {
+    // getNewsList(){
+    //   getList({'categories':4}).then((res =>{
+    //     console.log(this.newList);
+    //        this.newList = res.data
+    //        console.log(this.newList);
+    //       }))
+    // }
+    
+},
   filters:{
     dateFormat: function(date, fmt) {
         if (!date) return date;
@@ -247,7 +254,7 @@ head: {
       }
       return value
     },
-
+   
 
 
 }, 
