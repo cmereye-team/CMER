@@ -15,7 +15,335 @@
          <b-container fluid="md" class="content part_content part_content_Awards">
  
 
-<div class="app_info" v-html="AboutData.content.rendered"></div>
+<div class="app_info">
+  <!-- wp:html -->
+<p class="text-center dark_blue mb-10 text-gray-500">希瑪憑藉專業至上精神及優質服務，多年來贏得眾多獎項，印證了我們的醫療名牌備受社會各界的認同。</p>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<div class="app_info">
+<table class="table">
+<thead>
+<tr class="firstRow">
+<th>獎項</th>
+<th>主辦機構</th>
+</tr>
+</thead>
+<tbody>
+<tr class="text-lg">
+<th>
+<h2 class="pt-10 pb-4">2022</h2>
+</th>
+<td class="align-bottom"> </td>
+</tr>
+<tr class="text-lg border-bottom">
+<th style="border-top: 0px;">
+<p class="font-normal">渣打企業成就大獎2022 - 大灣區企業傑出獎</p>
+</th>
+<td class="" style="border-top: 0px;">
+<p>渣打銀行主辦、《信報財經新聞》協辦</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th style="border-top: 0px;">
+<p class="font-normal">開心工作間2022 - 開心企業</p>
+<p class="font-normal">- 希瑪眼科醫療控股有限公司</p>
+<p class="font-normal">- 希瑪牙科集團有限公司        </p>
+<p class="font-normal">- 希瑪視光（中環）                </p>
+</th>
+<td class="" style="border-top: 0px;">
+<p>香港提升快樂指數基金主辦、香港中華廠商聯合會為執行機構</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th style="border-top: 0px;">
+<p class="font-normal">社會資本動力獎2022 - 標誌獎</p>
+</th>
+<td class="" style="border-top: 0px;">
+<p class=" ">社區投資共享基金</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th style="border-top: 0px;">
+<p class="font-normal">香港最佳價值企業大獎2022</p>
+</th>
+<td class="" style="border-top: 0px;">
+<p class=" ">Mediazone</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th style="border-top: 0px;">
+<p class="font-normal">深圳市跨國公司總部企業</p>
+</th>
+<td class="" style="border-top: 0px;">
+<p class=" ">深圳市商務局</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th style="border-top: 0px;">
+<p class="font-normal">2022深圳企業500強</p>
+</th>
+<td class="" style="border-top: 0px;">
+<p>深圳市企業聯合會、深圳市企業家協會主辦</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th style="border-top: 0px;">
+<p class="font-normal">2022粵港澳大灣區年度最具影響力品牌</p>
+</th>
+<td class="" style="border-top: 0px;">
+<p>鳳凰網廣東</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th style="border-top: 0px;">
+<p class="font-normal ">深圳希瑪林順潮眼科醫院於第八屆深圳成長型企業最佳僱主評選中榮獲深圳市最佳僱主—專項獎「僱主文化獎」</p>
+</th>
+<td class="" style="border-top: 0px;">
+<p class=" ">深圳市人力資源和社會保障局、深圳市中小型企業服務局、深圳市工商聯指導，深圳市商業聯合會、深圳市一覽網絡股份有限公司共同主辦</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th>
+<h2 class="pt-10 pb-4">2021</h2>
+</th>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">2021年度最佳品牌傳播醫療機構 深圳新安希瑪林順潮眼醫院榮獲「飛躍之星（非公醫療機構）」10強</p>
+</td>
+<td>
+<p class=" ">丁香園醫院匯</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">香港星級品牌企業獎 (2020-2021)</p>
+</td>
+<td>
+<p class=" ">香港中小型企業聯合會</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">商界展關懷 (2020-2021)</p>
+</td>
+<td>
+<p class=" ">香港社會服務聯會</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">「上市醫療服務企業80強」第25位<br />「社會辦醫•醫院集團100強」第66位</p>
+</td>
+<td>
+<p class=" ">香港艾力彼醫院管理研究中心「艾力彼觀察」</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">本集團執行董事李肖婷獲選「深圳女商傑出貢獻獎」</p>
+</td>
+<td>
+<p class=" ">深圳市女企業家商會</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">2021深圳500強企業榜單</p>
+</td>
+<td>
+<p class=" ">中國企業聯合會、中國企業家協會指導、深圳市政府相關部門支援，深圳市企業聯合會、深圳市企業家協會主辦</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">深圳希瑪林順潮眼科醫院於2021年第二季度全市二级、一级及未定级非公立医院患者满意度评分及排名結果名列第二名</p>
+</td>
+<td>
+<p class=" ">深圳市衛生健康委員會</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">深圳希瑪林順潮眼科醫院於2021粵港澳大灣區社會辦醫年會獲頒「深圳創新社會辦醫潮頭獎」</p>
+</td>
+<td>
+<p class=" ">《診鎖界》傳媒</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">上海希瑪瑞視眼科醫院榮獲2021年度中國品牌醫生團隊</p>
+</td>
+<td>
+<p class=" ">《看醫界》傳媒、2021上海醫交會組委會、上海交大社會醫療機構研究所</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">上海希瑪瑞視眼科醫院榮獲2021全國醫療品牌運營創新優秀案例</p>
+</td>
+<td>
+<p class=" ">2021上海醫交會組委會</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th>
+<h2 class="pt-10 pb-4">2020</h2>
+<p class="font-normal">第五屆金港股獲評選為「最具價值醫藥及醫療公司」</p>
+</th>
+<td class="">
+<p class="xs-mt-100x mt-96x">智通財經及同花順財經</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">亞洲最佳價值服務大獎2020</p>
+</td>
+<td>
+<p class=" ">MediazoneGroup</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">香港旅遊業十優推介2020</p>
+</td>
+<td>
+<p class=" ">香港商報、經濟導報及全球商報聯盟</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">香港最優秀企業大獎2020</p>
+</td>
+<td>
+<p class=" ">Corphub</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">香港服務名牌2020</p>
+</td>
+<td>
+<p class=" ">香港品牌發展局及香港中華廠商聯合會</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">民營醫院50強 <br />中國醫療機構品牌傳播百強</p>
+</td>
+<td>
+<p class=" ">丁香園生物醫藥科技網</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">最佳非公醫療創新企業</p>
+</td>
+<td>
+<p class=" ">億歐大健康</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">2020企業社會責任典範獎</p>
+</td>
+<td>
+<p class=" ">第九屆中國財經峰會</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">林順潮醫生榮膺「2020行業影響力人物」</p>
+</td>
+<td>
+<p class=" ">第九屆中國財經峰會</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">深圳希瑪林順潮眼科醫院獲頒粵港澳大灣區生物科技創新企業50強之「領軍企業獎」</p>
+</td>
+<td>
+<p class=" ">中創產業研究院、畢馬威中國</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">上海希瑪瑞視眼科醫院榮獲2020年度中國品牌醫生團隊</p>
+</td>
+<td>
+<p class=" ">《看醫界》傳媒、2020上海醫交會組委會、上海交大社會醫療機構研究所</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th>
+<h2 class="pt-10 pb-4">2019</h2>
+<p class="font-normal">2019年深圳外商投資企業協會年會暨成立30周年慶典表彰大會</p>
+<ul class="list-inside list-paddingleft-2">
+<li>
+<p>林順潮醫生獲頒「跨國公司突出貢獻企業領袖人物」</p>
+</li>
+<li>
+<p>李肖婷榮獲「優秀管理者」獎項</p>
+</li>
+<li>
+<p>深圳希瑪林順潮眼科醫院榮獲「全國優秀外商投資企業雙優企業」、「和諧勞動關係促進獎」及「深圳外商投資企業協會優秀會員」</p>
+</li>
+</ul>
+</th>
+<td class="">
+<p class="mt-96x xs-mt-100x">深圳外商投資企業協會</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">林順潮醫生於2019 中國品牌醫療頒獎禮上獲選「2019年度10大醫生創業家」</p>
+</td>
+<td class="align-bottom">
+<p class=" ">中國非公立醫療機構協會、上海市社會醫療機構協會、上海交大非公立醫院經營管理研究所指導，《看醫界》傳媒頒發</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">本集團執行董事李肖婷獲選「第三屆深圳新生代創業風雲人物」</p>
+</td>
+<td class="align-bottom">
+<p class=" ">深圳市企業聯合會、深圳市企業家協會、深圳報業集團、深圳廣電集團、《時代商家》雜誌社</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal">香港健康產業大獎2019 - 醫療服務金獎</p>
+</td>
+<td class="">
+<p class=" ">生活晴報</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th>
+<h2 class="pt-10 pb-4">2018</h2>
+<p class="font-normal">公益榮譽獎</p>
+</th>
+<td class="align-bottom">
+<p class=" ">香港公益金</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th>
+<h2 class="pt-10 pb-4">2017</h2>
+<p class="font-normal">深圳市2016年社會醫療保險定點醫藥機構信用等級AAA (深圳希瑪林順潮眼科醫院)</p>
+</th>
+<td class="">
+<p class="min-h64x mt-96x xs-mt-100x">深圳市社會保險基金管理局</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- /wp:html -->
+</div>
 
           </b-container>
           </div>

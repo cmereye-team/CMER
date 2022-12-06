@@ -16,7 +16,340 @@
       <div class="part_content_bg tanslate_yin">
          <b-container fluid="md" class="content part_content part_content_Awards part_content_Awards_en">
 
-<div class="app_info xs_en_part_line1-6" v-html="AboutData.content.rendered"></div>
+<div class="app_info xs_en_part_line1-6" >
+  <!-- wp:paragraph -->
+<p class="text-center mb-10 text-gray-500">At C-MER , we have always placed a strong emphasis on professionalism and customer service excellence. It is with this focus that our strong brand is proud to have gained widespread recognition and won numerous industry accolades.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div class="app_info">
+<table class="table">
+<thead>
+<tr class="firstRow">
+<th>Award</th>
+<th>Organizer</th>
+</tr>
+</thead>
+<tbody>
+<tr class="text-lg">
+<th>
+<h2 class="pt-10 pb-4">2022</h2>
+</th>
+<td class="align-bottom"> </td>
+</tr>
+<tr class="text-lg border-bottom">
+<th style="border-top: 0px;">
+<p class="font-normal font-en-normal ">2022 Standard Chartered Corporate Achievement Awards - Greater Bay Area Corporate, Outstanding Awards</p>
+</th>
+<td class="align-bottom" style="border-top: 0px;">
+<p class=" ">Organized by Standard Chartered and co-organized by Hong Kong Economic Journal </p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th style="border-top: 0px;">
+<p class="font-normal font-en-normal ">Happy Company Award 2022
+- C-Mer Eye Care Holdings Limited
+- C-Mer Dental Group Limited
+- C-Mer Vision (Central)</p>
+</th>
+<td class="align-bottom" style="border-top: 0px;">
+<p class=" ">Organized by Promoting Happiness Index Foundation with the Chinese Manufacturers' Association of Hong Kong as the implementation organization</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th style="border-top: 0px;">
+<p class="font-normal font-en-normal ">Social Capital Builder Awards 2022 - SCB Logo Awards</p>
+</th>
+<td class="align-bottom" style="border-top: 0px;">
+<p class=" ">Community Investment and Inclusion Fund</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th style="border-top: 0px;">
+<p class="font-normal font-en-normal ">2022 Most Valuable Companies in Hong Kong Awards</p>
+</th>
+<td class="align-bottom" style="border-top: 0px;">
+<p class=" ">Mediazone</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th style="border-top: 0px;">
+<p class="font-normal font-en-normal ">MNC Regional Headquarter in Shenzhen</p>
+</th>
+<td class="align-bottom" style="border-top: 0px;">
+<p class=" ">Commerce Bureau of Shenzhen Municipality</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th style="border-top: 0px;">
+<p class="font-normal font-en-normal ">Shenzhen Top 500 Enterprises 2022</p>
+</th>
+<td class="align-bottom" style="border-top: 0px;">
+<p class=" ">Organized by Shenzhen Enterprise Confederation and Shenzhen Entrepreneurs Association</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th style="border-top: 0px;">
+<p class="font-normal font-en-normal ">The Most Influential Brands in the Greater Bay Area 2022</p>
+</th>
+<td class="align-bottom" style="border-top: 0px;">
+<p class=" ">gd.ifeng.com</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th style="border-top: 0px;">
+<p class="font-normal font-en-normal ">C-MER (Shenzhen) Dennis Lam Eye Hospital garnered “Employer Culture Award” (僱主文化獎) at the 8th Best Employers Ranking of Shenzhen Growing Enterprises (第八屆深圳成長型企業最佳僱主評選)</p>
+</th>
+<td class="align-bottom" style="border-top: 0px;">
+<p class=" ">Guided by Human Resources and Social Security Bureau of Shenzhen Municipality, Service Bureau for Small and Medium-sized Enterprises of Shenzhen Municipality and Shenzhen Federation of Industry and Commerce, and jointly organized by Shenzhen General Chamber of Commerce and Shenzhen Elan Network Co., Ltd.</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th>
+<h2 class="pt-10 pb-4">2021</h2>
+</th>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">The Best Brand Communications of Chinese Medical Institutions 2021 (2021年度最佳品牌傳播醫療機構)
+C-MER (Xinan) Dennis Lam Eye Hospital was awarded Top 10 Rising Stars of Non-public Medical Organizations of the Year“「年度飛躍之星（非公醫療機構）」10強”</p>
+</td>
+<td>
+<p class=" ">WWW.DXY.CN (丁香園), X.DXY.CN (醫院匯)</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">Hong Kong Star Brands Award -Enterprise Award (2020-2021)</p>
+</td>
+<td>
+<p class=" ">Hong Kong Small and Medium Enterprises Association</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">The Caring Company (2020-2021)</p>
+</td>
+<td>
+<p class=" ">The Hong Kong Council of Social Service</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">Ranked 25th in “Top 80 Listed Medical Service Enterprises” Ranked 66th in “Top 100 Private Hospital Groups”</p>
+</td>
+<td>
+<p class=" ">Hong Kong Institute of Asclepius Hospital Management</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">LI Xiaoting, Executive Director of the Group honored with the Outstanding Contribution Award of Shenzhen Women Entrepreneurs (深圳女商傑出貢獻獎)</p>
+</td>
+<td>
+<p class=" ">Shenzhen Women’s Chamber of Commerce</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">Shenzhen Top 500 Enterprises in 2021</p>
+</td>
+<td>
+<p class=" ">Guided by China Enterprise Confederation, China Enterprise Directors Association, and supported by relevant departments of Shenzhen Municipal Government, and organized by Shenzhen Enterprise Confederation and Shenzhen Entrepreneurs Association</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">C-MER (Shenzhen) Dennis Lam Eye Hospital was ranked 2nd in the patient satisfaction rating and ranking among all non-public Grade II, Grade I and unrated hospitals in Shenzhen for the second quarter of 2021</p>
+</td>
+<td>
+<p class=" ">Shenzhen Municipal Health Commission</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">C-MER (Shenzhen) Dennis Lam Eye Hospital won “Grand Award of Shenzhen Innovative Private Hospitals” (深圳創新社會辦醫潮頭獎) at the 2021 Annual Conference of Guangdong-Hong Kong-Macao Greater Bay Area Private Healthcare (2021粵港澳大灣區社會辦醫年會)</p>
+</td>
+<td>
+<p class=" ">Chain Clinic (《診鎖界》傳媒)</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">C-MER (Shanghai) Vision Eye Hospital honored with China Branded Doctor Team 2021 (2021年度中國品牌醫生團隊)</p>
+</td>
+<td>
+<p class=" ">Vistamed (《看醫界》傳媒), Organising Committee of Shanghai Medical Exchange Conference 2021, Shanghai Jiao Tong University Research Institute of Social Medical Institutions (上海交大社會醫療機構研究所)</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">C-MER (Shanghai) Vision Eye Hospital received Excellent Case Study of National Medical Brand Operational Innovation 2021 (全國醫療品牌運營創新優秀案例2021)</p>
+</td>
+<td>
+<p class=" ">Organising Committee of Shanghai Medical Exchange Conference 2021</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th>
+<h2 class="pt-10 pb-4">2020</h2>
+<p class="font-normal font-en-normal">“Most Valuable Pharmaceutical and Medical Company Award” at the 5th Golden Hong Kong Stocks Awards</p>
+</th>
+<td class="">
+<p class="mt-5w xs-mt-100x">Zhitong Finance and RoyalFlush Information</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">Asia's Most Valuable Service Providers Awards 2020</p>
+</td>
+<td>
+<p class=" ">MediazoneGroup</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">2020 Hong Kong Tourism's Top 10</p>
+</td>
+<td>
+<p class=" ">Hong Kong Commercial Daily, Economic Herald and Global Commercial Newspapers Union</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">Hong Kong's Most Outstanding Business Awards 2020</p>
+</td>
+<td>
+<p class=" ">Corphub</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">Hong Kong Top Service Brand Awards 2020</p>
+</td>
+<td>
+<p class=" ">The Hong Kong Brand Development Council and The Chinese Manufacturers’ Association of Hong Kong</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">Top 50 Private Hospitals<br />Top 100 Brand Communications of Chinese Medical Institutions (中國醫療機構品牌傳播百強)</p>
+</td>
+<td>
+<p class=" ">DXY (丁香園生物醫藥科技網)</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">The Best Non-public Medical Innovative Institution (最佳非公醫療創新企業)</p>
+</td>
+<td>
+<p class=" ">EqualOcean</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">2020 Corporate Social Responsibility Model Award</p>
+</td>
+<td>
+<p class=" ">The 9th China Finance Summit</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">Dr. Lam Shun Chiu Dennis was named Industry Influencer 2020</p>
+</td>
+<td>
+<p class=" ">The 9th China Finance Summit</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">C-MER (Shenzhen) Dennis Lam Eye Hospital honored with “Leading Enterprise Award” (領軍企業獎) at the Top 50 of Innovative Biotechnology Enterprises of Guangdong-Hong Kong-Macao Greater Bay Area</p>
+</td>
+<td>
+<p class=" ">Sino-Info Research, KPMG China</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">C-MER (Shanghai) Vision Eye Hospital garnered China Branded Doctor Team 2020 (2020年度中國品牌醫生團隊)</p>
+</td>
+<td>
+<p class=" ">Vistamed (《看醫界》傳媒), Organising Committee of Shanghai Medical Exchange Conference 2021, Shanghai Jiao Tong University Research Institute of Social Medical Institutions (上海交大社會醫療機構研究所)</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th>
+<h2 class="pt-10 pb-4">2019</h2>
+<p class="font-normal font-en-normal">Shenzhen Association of Enterprises with Foreign Investment Annual Conference 2019 cum 30th Anniversary Celebration</p>
+<ul class="list-inside list-paddingleft-2">
+<li>
+<p>Dr. Lam Shun Chiu Dennis was named the “Outstanding Contribution Corporate Leaders of Multinational Companies” (跨國公司突出貢獻企業領袖人物)</p>
+</li>
+<li>
+<p>Ms. LI Xiaoting received the “Excellent Leadership” Award (優秀管理者)</p>
+</li>
+<li>
+<p>C-MER (Shenzhen) Dennis Lam Eye Hospital was awarded “Double Distinction Award for Enterprises with Foreign Investment in China” (全國優秀外商投資企業雙優企業), “Harmonious Labor Relationship Promotion Award” (和諧勞動關係促進獎) and “Excellent Member of Shenzhen Association of Enterprises with Foreign Investment (深圳外商投資企業協會優秀會員)</p>
+</li>
+</ul>
+</th>
+<td class="">
+<p class="mt-5w xs-mt-27w">Shenzhen Association of Enterprises with Foreign Investment</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">Dr. Lam Shun Chiu Dennis was named “Top 10 Doctor Entrepreneurs 2019 (2019 年度 10 大醫生創業家) at the China Brand Medical Award Presentation Ceremony 2019</p>
+</td>
+<td class="align-bottom">
+<p class=" ">Guided by Chinese Non-government Medical Institutions Association, Shanghai Municipal Association of Social Medical Institutions (上海市社會醫療機構協會), Shanghai Jiao Tong University Research Institute of Operation and Management of Non-public Hospital (上海交大非公立醫院經營管理研究所), and presented by Vistamed (《看醫界》傳媒),</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">Ms. LI Xiaoting, Executive Director of the Group was named the 3rd “Shenzhen New Generation Entrepreneur” (第三屆深圳新生代創業風雲人物)</p>
+</td>
+<td class="align-bottom">
+<p class=" ">Shenzhen Enterprise Confederation, Shenzhen Entrepreneurs Association, Shenzhen Press Group, Shenzhen Media Group and “Times Entrepreneur” Magazine</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<td>
+<p class="font-normal font-en-normal">Hong Kong Health Awards 2019 – Gold Award in Medical Services</p>
+</td>
+<td class="">
+<p class=" ">MegaLife</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th>
+<h2 class="pt-10 pb-4">2018</h2>
+<p class="font-normal font-en-normal">President's Award</p>
+</th>
+<td class="align-bottom">
+<p class=" ">The Community Chest of Hong Kong</p>
+</td>
+</tr>
+<tr class="text-lg border-bottom">
+<th>
+<h2 class="pt-10 pb-4">2017</h2>
+<p class="font-normal font-en-normal">A Medical Insurance Designated Medical and Pharmaceutical Institution of Credit Rating AAA in Shenzhen in 2016 (C-MER (Shenzhen) Dennis Lam Eye Hospital)</p>
+</th>
+<td class="">
+<p class="mt-5w xs-mt-27w">Shenzhen Social Insurance Funds Management Bureau</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+</div>
 
           </b-container>
           </div>
