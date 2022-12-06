@@ -47,9 +47,9 @@
 </tr>
 <tr class="text-lg border-bottom">
 <th style="border-top: 0px;">
-<p class="font-normal font-en-normal ">Happy Company Award 2022
-- C-Mer Eye Care Holdings Limited
-- C-Mer Dental Group Limited
+<p class="font-normal font-en-normal ">Happy Company Award 2022<br>
+- C-Mer Eye Care Holdings Limited<br>
+- C-Mer Dental Group Limited<br>
 - C-Mer Vision (Central)</p>
 </th>
 <td class="align-bottom" style="border-top: 0px;">
