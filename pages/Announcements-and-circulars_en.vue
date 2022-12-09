@@ -37,7 +37,7 @@
     <td> <nuxt-link class="table-cell"  :to="item.link"> <p>{{item.title.rendered | ellipsis}}</p></nuxt-link> </td> </tr>  -->
 
     <tr v-for="item in newList" :data-date='item.date|dateFormat("yyyy")'> <td>{{item.date|dateFormat("yyyy-MM-dd")}}</td> 
-    <td> <a class="table-cell"  :href="item.acf.post_pdf_link.url" target="_blank" rel="nofollow"> <p>{{item.title.rendered}}</p></a> </td> </tr>  
+    <td> <a class="table-cell"  :href="item.acf.post_pdf_link" target="_blank" rel="nofollow"> <p>{{item.title.rendered}}</p></a> </td> </tr>  
 
 
     <!-- <tr><td>2022-09-02</td> <td><a href="https://admin.cmereye.com/wp-content/uploads/2022/09/e_FF301_MONTHLY_RETURN_EQUITY_V1_0_1_3309_310820221.pdf" target="_blank" rel="nofollow" class="table-cell"><p>Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 August 2022</p></a></td></tr>

@@ -25,7 +25,7 @@
 <table class="w-full mt-10">
   <tbody>
     <tr v-for="item in newList" :data-date='item.date|dateFormat("yyyy")'> <td>{{item.date|dateFormat("yyyy-MM-dd")}}</td> 
-    <td> <a class="table-cell"  :href="item.acf.post_pdf_link.url" target="_blank" rel="nofollow"> <p>{{item.title.rendered}}</p></a> </td> </tr>  
+    <td> <a class="table-cell"  :href="item.acf.post_pdf_link" target="_blank" rel="nofollow"> <p>{{item.title.rendered}}</p></a> </td> </tr>  
 
 
 
