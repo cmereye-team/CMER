@@ -125,8 +125,8 @@ export default {
                     {pic:'/img/index_footlogo_8.png',link:'',},
                     {pic:'/img/index_footlogo_9.png',link:'',},
 
-                    {pic:'/img/amer-logo.png',link:'https://www.ameraesthetics.com/',},
-                    {pic:'/img/eon-dual-dark.png',link:'https://www.eonmedicalcentre.com/zh/%E9%97%9C%E6%96%BC%E9%A0%A4%E5%AE%89/',},
+                    {pic:'/img/amer-logo.svg',link:'https://www.ameraesthetics.com/',},
+                    {pic:'/img/eon-dual-dark.jpg',link:'https://www.eonmedicalcentre.com/zh/%E9%97%9C%E6%96%BC%E9%A0%A4%E5%AE%89/',},
                     
 
                     {pic:'/img/index_footlogo_5.png',link:'https://www.healthhope.hk/',},
