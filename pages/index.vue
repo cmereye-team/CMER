@@ -504,19 +504,19 @@ h6 {
   width: 24.3%;
 }
 .brand_card:nth-child(8) img {
-  max-height: 50px;
+  max-height: unset;
 }
 .brand_card:nth-child(9) img {
   margin-right: 37% !important;
 }
 .brand_card:nth-child(11) img {
-  max-height: 42px;
+  max-height: unset;
 }
 .brand_card:nth-child(12) img {
-  max-height: 65px;
+  max-height: unset;
 }
 .brand_card:nth-child(14) img {
-  max-height: 35px;
+  max-height: unset;
 }
 .index .brand_box .brand_card:nth-child(5) img {
   max-height: 50px !important;
