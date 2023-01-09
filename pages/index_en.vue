@@ -552,7 +552,7 @@ export default {
   margin-right: 37% !important;
 }
 .brand_card:nth-child(11) img {
-  max-height: unset;
+  max-height: 49px;
 }
 .brand_card:nth-child(12) img {
   max-height: unset;
