@@ -1769,7 +1769,7 @@ export default {
   display: flex;
 }
 .banner_Release {
-  background-image: url(/pic/banner_pc_Release.jpg);
+  background-image: url(https://static.cmereye.com/imgs/2023/01/393b20d78a533ad1.jpg);
 }
 .banner_text {
   display: flex;
