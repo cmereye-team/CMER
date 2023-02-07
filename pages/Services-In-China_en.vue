@@ -99,7 +99,9 @@
                 <td aria-colindex="3" role="cell" class="">
                   East Wing 303-314, West Wing 301-314, 1-1, Tairan 9th Road,
                   Shengtang Building, Tian'an Community, Shatou Street, Futian
-                  District, Shenzhen
+                  District, Shenzhen; <br />C-MER Shenzhen Weilan Eye Center:
+                  201, Hisense South Building, 1777 Chuangye Road, Weilan Coast
+                  Community, Nanshan District, Shenzhen
                 </td>
                 <td aria-colindex="4" role="cell" class="">5,100 m2</td>
                 <td aria-colindex="5" role="cell" class="">
@@ -179,7 +181,13 @@
                   District and Yangpu District
                 </td>
                 <td aria-colindex="4" role="cell" class="">5,310 m2</td>
-                <td aria-colindex="5" role="cell" class=""></td>
+                <td aria-colindex="5" role="cell" class="">
+                  <p>25 hospital beds,</p>
+                  <p>
+                    4 laminar flow purified operating rooms that meet
+                    international standards
+                  </p>
+                </td>
                 <td aria-colindex="6" role="cell" class="">
                   <p>A Medicare-designated hospital in Shanghai <br /></p>
                   <p>
@@ -212,7 +220,13 @@
                   Shiyan Street. Bao'an District, Shenzhen
                 </td>
                 <td aria-colindex="4" role="cell" class="">3,400 m2</td>
-                <td aria-colindex="5" role="cell" class="">20 hospital beds</td>
+                <td aria-colindex="5" role="cell" class="">
+                  <p>20 hospital beds,</p>
+                  <p>
+                    3 laminar flow purified operating rooms that meet
+                    international standards
+                  </p>
+                </td>
                 <td aria-colindex="6" role="cell" class="">
                   <p>A Medicare-designated hospital in Shenzhen</p>
                   <p>The Most Trusted Brand of Netizens 2021</p>
@@ -242,7 +256,24 @@
                   50 hospital beds, 4 class 100 laminar flow purified operating
                   rooms that meet international standards
                 </td>
-                <td aria-colindex="6" role="cell" class=""></td>
+                <td aria-colindex="6" role="cell" class="">
+                  <p>Grade II eye hospital</p>
+                  <p>A Medicare-designated hospital in Guangzhou</p>
+                  <p>
+                    International Consultation Center on Rare and Complex Eye
+                    Diseases
+                  </p>
+                  <p>
+                    Asia-Pacific Myopia Society (APMS) Academic Exchange Base
+                  </p>
+                  <p>
+                    Demonstration Base of full vision refractive cataract
+                    surgery
+                  </p>
+                  <p>
+                    Demonstration Base of full vision treatment of presbyopia
+                  </p>
+                </td>
               </tr>
 
               <tr role="row" class="">
@@ -262,10 +293,10 @@
                   1-2F, Jewelry Building, 15 Jingyuan Road, Xiangzhou District,
                   Zhuhai
                 </td>
-                <td aria-colindex="4" role="cell" class="">2,500 m2</td>
+                <td aria-colindex="4" role="cell" class="">3,000 m2</td>
                 <td aria-colindex="5" role="cell" class="">
-                  3 laminar flow purified operating rooms that meet
-                  international standards
+                  20 hospital beds, 3 laminar flow purified operating rooms that
+                  meet international standards
                 </td>
                 <td aria-colindex="6" role="cell" class="">
                   <p>A Medicare-designated hospital in Zhuhai <br /></p>
@@ -369,11 +400,43 @@
               <tr role="row" class="">
                 <td aria-colindex="1" role="cell" class="">
                   <a
+                    href="https://www.fzcmer.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >C-MER (Jieyang) Dennis Lam Eye Hospital
+                  </a>
+                  <b-button class="d-block border-0 p-0" @click="showMsgOk9">
+                    <b-img src="/pic/azh_9.jpg"></b-img>
+                  </b-button>
+                </td>
+                <td aria-colindex="2" role="cell" class="">August 2022</td>
+                <td aria-colindex="3" role="cell" class="">
+                  1/F Hall, 2-5/F, Yupu Commercial Complex, Rongcheng District,
+                  Jieyang
+                </td>
+                <td aria-colindex="4" role="cell" class="">6,000 m2</td>
+                <td aria-colindex="5" role="cell" class="">
+                  68 hospital beds,3 laminar flow purified operating rooms that
+                  meet international standards
+                </td>
+                <td aria-colindex="6" role="cell" class="">
+                  <p>Grade II eye hospital</p>
+                  <p>C-MER (Jieyang) Dennis Lam Eye</p>
+                  <p>
+                    Hospital formed an alliance with the Jieyang
+                    People’sHospital
+                  </p>
+                </td>
+              </tr>
+
+              <tr role="row" class="">
+                <td aria-colindex="1" role="cell" class="">
+                  <a
                     href="http://www.lovelytooth.com"
                     target="_blank"
                     rel="noopener noreferrer"
-                    >Shenzhen AKJ Stomatological Hospital <br />(an indirect
-                    non-wholly owned subsidiary of C-MER)
+                    >Shenzhen C-MER CKJ Stomatological Hospital <br />(an
+                    indirect non-wholly owned subsidiary of C-MER)
                   </a>
                   <b-button class="d-block border-0 p-0" @click="showMsgOk10">
                     <b-img src="/pic/azh_10.jpg"></b-img>
@@ -386,10 +449,10 @@
                   Bao'an District
                 </td>
                 <td aria-colindex="4" role="cell" class="">
-                  Total floor area of 18,000 m2
+                  Total floor area of 15,000 m2
                 </td>
                 <td aria-colindex="5" role="cell" class="">
-                  20 hospital beds,40 dental treatment chairs
+                  20 hospital beds,180 dental treatment chairs
                 </td>
                 <td aria-colindex="6" role="cell" class="">
                   <p>A Medicare-designated hospital in Shenzhen <br /></p>

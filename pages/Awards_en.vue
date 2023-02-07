@@ -46,6 +46,50 @@
                 <tr class="text-lg border-bottom">
                   <th style="border-top: 0px">
                     <p class="font-normal font-en-normal">
+                      2022 Annual Ceremony of JRJ Navigation China and
+                      “GoldenWis” Award Annual Ceremony — Outstanding Growth
+                      Enterprise Award
+                    </p>
+                  </th>
+                  <td class="align-bottom flex" style="border-top: 0px">
+                    <p class=" ">www.jrj.com</p>
+                  </td>
+                </tr>
+                <tr class="text-lg border-bottom">
+                  <th style="border-top: 0px">
+                    <p class="font-normal font-en-normal">
+                      C-MER (Shenzhen) Dennis Lam Eye Hospital was awarded the
+                      “Harmonious Labor Relationship Promotion Award”
+                      (和諧勞動關係促進獎) at the 2021/2022 National Excellent
+                      Enterprise with Foreign Investment
+                    </p>
+                  </th>
+                  <td class="align-bottom flex" style="border-top: 0px">
+                    <p class=" ">
+                      Shenzhen Association of Enterprises with Foreign
+                      Investment
+                    </p>
+                  </td>
+                </tr>
+                <tr class="text-lg border-bottom">
+                  <th style="border-top: 0px">
+                    <p class="font-normal font-en-normal">
+                      C-MER (Shenzhen) Dennis Lam Eye Hospital was awarded the
+                      “Harmonious Labor Relationship Promotion Award”
+                      (和諧勞動關係促進獎) at the 2021/2022 National Excellent
+                      Enterprise with Foreign Investment
+                    </p>
+                  </th>
+                  <td class="align-bottom flex" style="border-top: 0px">
+                    <p class=" ">
+                      Shenzhen Association of Enterprises with Foreign
+                      Investment
+                    </p>
+                  </td>
+                </tr>
+                <tr class="text-lg border-bottom">
+                  <th style="border-top: 0px">
+                    <p class="font-normal font-en-normal">
                       2022 Standard Chartered Corporate Achievement Awards -
                       Greater Bay Area Corporate, Outstanding Awards
                     </p>
@@ -130,7 +174,7 @@
                 <tr class="text-lg border-bottom">
                   <th style="border-top: 0px">
                     <p class="font-normal font-en-normal">
-                      C-MER (Shenzhen) Dennis Lam Eye Hospital garnered
+                      C-MER (Shenzhen) Dennis Lam Eye Hospital garnered the
                       “Employer Culture Award” (僱主文化獎) at the 8th Best
                       Employers Ranking of Shenzhen Growing Enterprises
                       (第八屆深圳成長型企業最佳僱主評選)
@@ -444,11 +488,12 @@
                       <li>
                         <p>
                           C-MER (Shenzhen) Dennis Lam Eye Hospital was awarded
-                          “Double Distinction Award for Enterprises with Foreign
-                          Investment in China” (全國優秀外商投資企業雙優企業),
-                          “Harmonious Labor Relationship Promotion Award”
-                          (和諧勞動關係促進獎) and “Excellent Member of Shenzhen
-                          Association of Enterprises with Foreign Investment
+                          the “Double Distinction Award for Enterprises with
+                          Foreign Investment in China”
+                          (全國優秀外商投資企業雙優企業), “Harmonious Labor
+                          Relationship Promotion Award” (和諧勞動關係促進獎) and
+                          “Excellent Member of Shenzhen Association of
+                          Enterprises with Foreign Investment
                           (深圳外商投資企業協會優秀會員)
                         </p>
                       </li>

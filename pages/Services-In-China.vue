@@ -4,7 +4,7 @@
 
     <div class="banner_about banner_about_dl">
       <div class="banner_text">
-        <p>內地醫療服務</p>
+        <p>內地醫療網絡</p>
       </div>
     </div>
     <div class="part_content_bg relative part_content_zh china_cn_list">
@@ -86,7 +86,7 @@
                 <td aria-colindex="2" role="cell" class="">2013年3月</td>
                 <td aria-colindex="3" role="cell" class="">
                   深圳市福田區沙頭街道天安社區泰然九路盛唐商務大廈泰然九路1-1號、
-                  西座301-314、 東座303-304
+                  西座301-314、 東座303-304<br />深圳希瑪蔚藍診所：深圳市南山區粵海街道蔚藍海岸社區創業路1777號海信南方大廈201
                 </td>
                 <td aria-colindex="4" role="cell" class="">5,100 平方米</td>
                 <td aria-colindex="5" role="cell" class="">
@@ -149,7 +149,11 @@
                   另有3間門診分部位於浦東新區、普陀區及楊浦區
                 </td>
                 <td aria-colindex="4" role="cell" class="">5,310 平方米</td>
-                <td aria-colindex="5" role="cell" class=""></td>
+                <td aria-colindex="5" role="cell" class="">
+                  <p>25張病床、 <br /></p>
+                  <p>4間國際標準的 <br /></p>
+                  <p>層流淨化手術室</p>
+                </td>
                 <td aria-colindex="6" role="cell" class="">
                   <p>上海市醫保定點單位 <br /></p>
                   <p>中國非公立醫療機構協會五星醫院星級評價 <br /></p>
@@ -175,7 +179,11 @@
                   深圳市寶安區新安街道創業二路南側 都市翠海華苑1棟1層
                 </td>
                 <td aria-colindex="4" role="cell" class="">3,400 平方米</td>
-                <td aria-colindex="5" role="cell" class="">20張病床</td>
+                <td aria-colindex="5" role="cell" class="">
+                  <p>20張病床、 <br /></p>
+                  <p>3間國際標準的 <br /></p>
+                  <p>層層流淨化手術室</p>
+                </td>
                 <td aria-colindex="6" role="cell" class="">
                   <p>深圳市醫保定點單位</p>
                   <p>2021最值得線民信賴品牌</p>
@@ -202,7 +210,14 @@
                 <td aria-colindex="5" role="cell" class="">
                   50張病床、 4間國際標準的百級層流淨化手術室
                 </td>
-                <td aria-colindex="6" role="cell" class=""></td>
+                <td aria-colindex="6" role="cell" class="">
+                  <p>二級眼科專科醫院</p>
+                  <p>廣州醫保定點單位</p>
+                  <p>疑難眼病國際會診中心</p>
+                  <p>亞太近視學會學術交流基地</p>
+                  <p>全視覺屈光白內障手術示範基地</p>
+                  <p>全視覺老視矯正診療示範基地</p>
+                </td>
               </tr>
 
               <tr role="row" class="">
@@ -221,9 +236,11 @@
                 <td aria-colindex="3" role="cell" class="">
                   珠海市香洲區 吉大景園路15號 珠寶大廈一、二層
                 </td>
-                <td aria-colindex="4" role="cell" class="">2,500 平方米</td>
+                <td aria-colindex="4" role="cell" class="">3,000 平方米</td>
                 <td aria-colindex="5" role="cell" class="">
-                  3間國際標準的層流淨化手術室
+                  <p>20張病床、</p>
+
+                  <p>3間國際標準的層流淨化手術室</p>
                 </td>
                 <td aria-colindex="6" role="cell" class="">
                   <p>珠海醫保定點單位 <br /></p>
@@ -289,7 +306,7 @@
                     href="https://www.fzcmer.com"
                     target="_blank"
                     rel="noopener noreferrer"
-                    >福州希瑪林順潮眼科</a
+                    >福州希瑪林順潮眼科門診</a
                   >
                   <b-button class="d-block border-0 p-0" @click="showMsgOk9">
                     <b-img src="/pic/azh_9.jpg"></b-img>
@@ -311,10 +328,36 @@
               <tr role="row" class="">
                 <td aria-colindex="1" role="cell" class="">
                   <a
+                    href="https://www.fzcmer.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >揭陽希瑪林順潮眼科醫院</a
+                  >
+                  <b-button class="d-block border-0 p-0" @click="showMsgOk9">
+                    <b-img src="/pic/azh_9.jpg"></b-img>
+                  </b-button>
+                </td>
+                <td aria-colindex="2" role="cell" class="">2022年8月</td>
+                <td aria-colindex="3" role="cell" class="">
+                  揭陽市榕城區馬牙路與新陽路交界處玉浦工貿大廈一樓大廳、副樓2-5層
+                </td>
+                <td aria-colindex="4" role="cell" class="">6,000 平方米</td>
+                <td aria-colindex="5" role="cell" class="">
+                  68張病床、3間國際標準的層流淨化手術室
+                </td>
+                <td aria-colindex="6" role="cell" class="">
+                  <p>二級眼科專業醫院</p>
+                  <p>揭陽希瑪林順潮眼科醫院與揭陽市人民醫院結成「醫聯體」</p>
+                </td>
+              </tr>
+
+              <tr role="row" class="">
+                <td aria-colindex="1" role="cell" class="">
+                  <a
                     href="http://www.lovelytooth.com"
                     target="_blank"
                     rel="noopener noreferrer"
-                    >深圳愛康健齒科集團 <br />(希瑪間接非全資附屬公司)</a
+                    >深圳希瑪愛康健口腔醫院 <br />(希瑪間接非全資附屬公司)</a
                   >
                   <b-button class="d-block border-0 p-0" @click="showMsgOk10">
                     <b-img src="/pic/azh_10.jpg"></b-img>
@@ -326,10 +369,10 @@
                   C區1-8樓，另有12家口腔門診部分別設於深圳羅湖，福田，南山及寶安區
                 </td>
                 <td aria-colindex="4" role="cell" class="">
-                  總規模達到18,000多平方米
+                  總規模達到15,000多平方米
                 </td>
                 <td aria-colindex="5" role="cell" class="">
-                  20張病床、 40台牙科綜合治療椅
+                  20張病床、 180台牙科綜合治療椅
                 </td>
                 <td aria-colindex="6" role="cell" class="">
                   <p>深圳醫保定點單位 <br /></p>
@@ -592,7 +635,7 @@ export default {
           name: "業務概覽",
           submenu: [
             { url: "/Services-In-Hong-Kong", name: "香港醫療服務" },
-            { url: "/Services-In-China", name: "內地醫療服務" },
+            { url: "/Services-In-China", name: "內地醫療網絡" },
           ],
         },
         {

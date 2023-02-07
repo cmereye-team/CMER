@@ -383,7 +383,7 @@ export default {
           name: "業務概覽",
           submenu: [
             { url: "/Services-In-Hong-Kong", name: "香港醫療服務" },
-            { url: "/Services-In-China", name: "內地醫療服務" },
+            { url: "/Services-In-China", name: "內地醫療網絡" },
           ],
         },
         {

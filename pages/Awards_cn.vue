@@ -34,6 +34,30 @@
                 <tr class="text-lg border-bottom">
                   <th style="border-top: 0px">
                     <p class="font-normal">
+                      希玛爱康健口腔于第五届“圳能量”深圳网路盛典荣获“2022年度最值得网民信赖品牌”
+                    </p>
+                  </th>
+
+                  <td class="" style="border-top: 0px">
+                    <p>
+                      中共深圳市委网信办指导，深圳报业集团、深圳市互联网行业联合会、深圳市网路媒体协会、深圳市自媒体协会主办
+                    </p>
+                  </td>
+                </tr>
+                <tr class="text-lg border-bottom">
+                  <th style="border-top: 0px">
+                    <p class="font-normal">
+                      深圳希玛林顺潮眼科医院获颁2021-2022年度全国优秀外商投资企业—和谐劳动关係促进奖
+                    </p>
+                  </th>
+
+                  <td class="" style="border-top: 0px">
+                    <p>深圳外商投资企业协会</p>
+                  </td>
+                </tr>
+                <tr class="text-lg border-bottom">
+                  <th style="border-top: 0px">
+                    <p class="font-normal">
                       渣打企业成就大奖2022 - 大湾区企业杰出奖
                     </p>
                   </th>

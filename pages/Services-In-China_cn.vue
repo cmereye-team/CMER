@@ -86,7 +86,8 @@
                 <td aria-colindex="2" role="cell" class="">2013年3月</td>
                 <td aria-colindex="3" role="cell" class="">
                   深圳市福田区沙头街道天安社区泰然九路盛唐商务大厦泰然九路1-1号、
-                  西座301-314、 东座303-304
+                  西座301-314、 东座303-304<br />
+                  深圳希玛蔚蓝诊所：深圳市南山区粤海街道蔚蓝海岸社区创业路1777号海信南方大厦201
                 </td>
                 <td aria-colindex="4" role="cell" class="">5,100 平方米</td>
                 <td aria-colindex="5" role="cell" class="">
@@ -149,7 +150,10 @@
                   另有3间门诊分部位于浦东新区、普陀区及杨浦区
                 </td>
                 <td aria-colindex="4" role="cell" class="">5,310 平方米</td>
-                <td aria-colindex="5" role="cell" class=""></td>
+                <td aria-colindex="5" role="cell" class="">
+                  <p>25张病床、 <br /></p>
+                  <p>4间国际标准的层流淨化手术室</p>
+                </td>
                 <td aria-colindex="6" role="cell" class="">
                   <p>上海市医保定点单位 <br /></p>
                   <p>中国非公立医疗机构协会五星医院星级评价 <br /></p>
@@ -175,7 +179,10 @@
                   深圳市宝安区新安街道创业二路南侧 都市翠海华苑1栋1层
                 </td>
                 <td aria-colindex="4" role="cell" class="">3,400 平方米</td>
-                <td aria-colindex="5" role="cell" class="">20张病床</td>
+                <td aria-colindex="5" role="cell" class="">
+                  <p>20张病床、</p>
+                  <p>3间国际标准的层流淨化手术室</p>
+                </td>
                 <td aria-colindex="6" role="cell" class="">
                   <p>深圳市医保定点单位</p>
                   <p>2021最值得线民信赖品牌</p>
@@ -203,7 +210,14 @@
                 <td aria-colindex="5" role="cell" class="">
                   50张病床、 4间国际标准的百级层流淨化手术室
                 </td>
-                <td aria-colindex="6" role="cell" class=""></td>
+                <td aria-colindex="6" role="cell" class="">
+                  <p>二级眼科专科医院</p>
+                  <p>广州医保定点单位</p>
+                  <p>疑难眼病国际会诊中心</p>
+                  <p>亚太近视学会学术交流基地</p>
+                  <p>全视觉屈光白内障手术示范基地</p>
+                  <p>全视觉老视矫正诊疗示范基地</p>
+                </td>
               </tr>
 
               <tr role="row" class="">
@@ -222,9 +236,9 @@
                 <td aria-colindex="3" role="cell" class="">
                   珠海市香洲区 吉大景园路15号 珠宝大厦一、二层
                 </td>
-                <td aria-colindex="4" role="cell" class="">2,500 平方米</td>
+                <td aria-colindex="4" role="cell" class="">3,000 平方米</td>
                 <td aria-colindex="5" role="cell" class="">
-                  3间国际标准的层流淨化手术室
+                  20张病床、3间国际标准的层流淨化手术室
                 </td>
                 <td aria-colindex="6" role="cell" class="">
                   <p>珠海医保定点单位 <br /></p>
@@ -290,7 +304,7 @@
                     href="https://www.fzcmer.com"
                     target="_blank"
                     rel="noopener noreferrer"
-                    >福州希玛林顺潮眼科</a
+                    >福州希玛林顺潮眼科门诊</a
                   >
                   <b-button class="d-block border-0 p-0" @click="showMsgOk9">
                     <b-img src="/pic/azh_9.jpg"></b-img>
@@ -308,6 +322,31 @@
                   <p>亚太近视学会儿童青少年近视防控科普活动基地联盟</p>
                 </td>
               </tr>
+              <tr role="row" class="">
+                <td aria-colindex="1" role="cell" class="">
+                  <a
+                    href="https://www.fzcmer.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >揭阳希玛林顺潮眼科医院</a
+                  >
+                  <b-button class="d-block border-0 p-0" @click="showMsgOk9">
+                    <b-img src="/pic/azh_9.jpg"></b-img>
+                  </b-button>
+                </td>
+                <td aria-colindex="2" role="cell" class="">2022年8月</td>
+                <td aria-colindex="3" role="cell" class="">
+                  揭阳市榕城区马牙路与新阳路交界处玉浦工贸大厦一楼大厅、副楼2-5层
+                </td>
+                <td aria-colindex="4" role="cell" class="">6,000 平方米</td>
+                <td aria-colindex="5" role="cell" class="">
+                  68张病床、3间国际标准的层流淨化手术室
+                </td>
+                <td aria-colindex="6" role="cell" class="">
+                  <p>二级眼科专业医院</p>
+                  <p>揭阳希玛林顺潮眼科医院与揭阳市人民医院结成“医联体”</p>
+                </td>
+              </tr>
 
               <tr role="row" class="">
                 <td aria-colindex="1" role="cell" class="">
@@ -315,7 +354,7 @@
                     href="http://www.lovelytooth.com"
                     target="_blank"
                     rel="noopener noreferrer"
-                    >深圳爱康健齿科集团 <br />(希玛间接非全资附属公司)</a
+                    >深圳希玛爱康健口腔医院 <br />(希玛间接非全资附属公司)</a
                   >
                   <b-button class="d-block border-0 p-0" @click="showMsgOk10">
                     <b-img src="/pic/azh_10.jpg"></b-img>
@@ -327,10 +366,10 @@
                   C区1-8楼，另有12家口腔门诊部分别设于深圳罗湖，福田，南山及宝安区
                 </td>
                 <td aria-colindex="4" role="cell" class="">
-                  总规模达到18,000多平方米
+                  总规模达到15,000多平方米
                 </td>
                 <td aria-colindex="5" role="cell" class="">
-                  20张病床、 40台牙科综合治疗椅
+                  20张病床、 180台牙科综合治疗椅
                 </td>
                 <td aria-colindex="6" role="cell" class="">
                   <p>深圳医保定点单位 <br /></p>

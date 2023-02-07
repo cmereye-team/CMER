@@ -34,6 +34,30 @@
                 <tr class="text-lg border-bottom">
                   <th style="border-top: 0px">
                     <p class="font-normal">
+                      希瑪愛康健口腔於第五屆「圳能量」深圳網路盛典榮獲「2022年度最值得網民信賴品牌」
+                    </p>
+                  </th>
+
+                  <td class="" style="border-top: 0px">
+                    <p>
+                      中共深圳市委網信辦指導，深圳報業集團、深圳市互聯網行業聯合會、深圳市網路媒體協會、深圳市自媒體協會主辦
+                    </p>
+                  </td>
+                </tr>
+                <tr class="text-lg border-bottom">
+                  <th style="border-top: 0px">
+                    <p class="font-normal">
+                      深圳希瑪林順潮眼科醫院獲頒2021-2022年度全國優秀外商投資企業—和諧勞動關係促進獎
+                    </p>
+                  </th>
+
+                  <td class="" style="border-top: 0px">
+                    <p>深圳外商投資企業協會</p>
+                  </td>
+                </tr>
+                <tr class="text-lg border-bottom">
+                  <th style="border-top: 0px">
+                    <p class="font-normal">
                       渣打企業成就大獎2022 - 大灣區企業傑出獎
                     </p>
                   </th>
@@ -643,7 +667,7 @@ export default {
           name: "業務概覽",
           submenu: [
             { url: "/Services-In-Hong-Kong", name: "香港醫療服務" },
-            { url: "/Services-In-China", name: "內地醫療服務" },
+            { url: "/Services-In-China", name: "內地醫療網絡" },
           ],
         },
         {

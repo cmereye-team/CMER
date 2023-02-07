@@ -13,10 +13,10 @@
         class="content part_content part_content_about_template mb-20"
       >
         <h2 class="border-b border-blue-300 pb-2 mb-4 inline-block">
-          自設併購 掌握機遇
+          高速發展 把握機遇
         </h2>
         <p>
-          希瑪高度重視與股東保持有效的溝通，通過不同的企業傳訊渠道，包括網址、公告及通函、中期報告及年報等，提供真實、準確、完整和及時的披露，讓股東了解本集團的最新資訊。我們將繼續全力推展「Eye+」戰略，通過自身增長與併購並行策略，為股東創造最大價值。
+          希瑪高度重視與股東保持有效的溝通，通過不同的企業傳訊渠道，包括網址、公告及通函、微信號、社交平台、中期報告及年報等，提供真實、準確、完整和及時的披露，讓股東了解本集團的最新資訊。我們將繼續全力推展「Eye+」戰略，透過自然增長與併購並行策略，為股東創造最大價值。
         </p>
 
         <h2 class="text-center mt-20 font-normal">財務資料</h2>
@@ -282,7 +282,7 @@ export default {
           name: "業務概覽",
           submenu: [
             { url: "/Services-In-Hong-Kong", name: "香港醫療服務" },
-            { url: "/Services-In-China", name: "內地醫療服務" },
+            { url: "/Services-In-China", name: "內地醫療網絡" },
           ],
         },
         {

@@ -23,20 +23,27 @@
                 <p class="lett-1em">About C-MER</p>
               </div>
               <p class="text_info">
-                Founded by Dr. LAM Shun Chiu Dennis in 2012, C-MER is a leading
-                specialty chain group in Hong Kong and the Guangdong-Hong
-                Kong-Macao Greater Bay Area (“GBA”) and was successfully listed
-                on The Main Board of the Stock Exchange of Hong Kong Limited in
-                2018. With ophthalmic service as its core business, the Group’s
-                has progressively expanded its business scope to multi-specialty
-                services including dentistry, plastic surgery/medical
+                Founded by Dr. LAM Shun Chiu Dennis
+                <span class="text-red">in Hong Kong</span> in 2012, C-MER is a
+                leading <span class="text-red">ophthalmic service</span> group
+                in Hong Kong and the Guangdong-Hong Kong-Macao Greater Bay Area
+                <span class="text-red">(“GBA”), and successfully</span> listed
+                on The Main Board of the Stock Exchange of
+                <span class="text-red">Hong Kong</span> in 2018.
+                <span class="text-red"
+                  >From 2021, the Group leverages its growing reputation and
+                  increasing scale to</span
+                >
+                progressively expanded<span class="text-red"> into other</span>
+                specialty services including dentistry, plastic surgery/medical
                 aesthetics, family medicine and oncology. C-MER currently
-                operates more than 60 medical facilities, with its footprint
-                covering Hong Kong, a number of major cities including Shenzhen
-                and Guangzhou in the GBA, Beijing and Shanghai, etc. Guided by
-                its “patient-centered” philosophy, C-MER is committed to
-                providing professional, high-quality yet affordable medical
-                services.
+                <span class="text-red">owns 70 </span>medical facilities, with
+                its footprint covering Hong Kong, a number of major cities
+                including Shenzhen and Guangzhou in the GBA, Beijing and
+                Shanghai, etc. Guided by its “patient-centered” philosophy,
+                C-MER is committed to providing professional,
+                <span class="text-red"> quality, convenient and</span>
+                affordable medical services.
               </p>
             </div>
           </div>
@@ -118,14 +125,14 @@ export default {
   data() {
     return {
       index_card: [
-        { pic: "/img/index_part2_1.png", title: ">60 medical facilities" },
+        { pic: "/img/index_part2_1.png", title: ">70 medical facilities" },
         {
           pic: "/img/index_part2_2.png",
-          title: "9 hospitals in Mainland China",
+          title: "11 hospitals in Mainland China",
         },
         {
           pic: "/img/index_part2_3.png",
-          title: "service coverage in 9 cities ",
+          title: "Network  coverage in 11 cities ",
         },
         {
           pic: "/img/index_part2_4.png",
@@ -234,6 +241,10 @@ export default {
 </script>
 
 <style>
+.text-red {
+  color: brown;
+  font-weight: 800;
+}
 .title h4,
 .title p {
   font-size: 24px;

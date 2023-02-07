@@ -15,8 +15,7 @@
         class="content part_content part_content_about_template mb-20"
       >
         <h2 class="border-b border-blue-300 pb-2 mb-4 inline-block">
-          Capitalizing on the opportunities through Organic Growth and
-          Acquisitions
+          Capitalizing on Business Growth Opportunities
         </h2>
         <p>
           C-MER attaches considerable importance to the effectiveness of its
@@ -24,10 +23,10 @@
           true, accurate, complete and timely disclosure and enabling
           shareholders to gain better understanding of latest information about
           the Group through different communication channels, such as website,
-          announcements and circulars, interim reports and annual reports. We
-          will continue to press ahead with the “Eye+” Growth Strategy and
-          create maximum value for shareholders through organic growth and
-          acquisitions.
+          announcements and circulars, WeChat, social platforms, interim reports
+          and annual reports. We will continue to press ahead with the “Eye+”
+          Growth Strategy and create maximum value for shareholders through
+          organic growth and acquisitions.
         </p>
 
         <h2 class="text-center mt-20 font-normal">Financial Information</h2>
