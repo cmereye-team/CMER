@@ -76,9 +76,7 @@
               <td aria-colindex="6" role="cell" class="">1,112,577</td>
             </tr>
             <tr role="row" class="">
-              <td aria-colindex="1" role="cell" class="">
-                截止至12月31日2021年度
-              </td>
+              <td aria-colindex="1" role="cell" class="">截至12月31日止年度</td>
               <td aria-colindex="2" role="cell" class=""></td>
               <td aria-colindex="3" role="cell" class=""></td>
               <td aria-colindex="4" role="cell" class=""></td>

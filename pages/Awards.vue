@@ -34,6 +34,17 @@
                 <tr class="text-lg border-bottom">
                   <th style="border-top: 0px">
                     <p class="font-normal">
+                      2022金融界領航中國「金智獎」年度盛典— 傑出成長性企業獎
+                    </p>
+                  </th>
+
+                  <td class="" style="border-top: 0px">
+                    <p>媒體金融界</p>
+                  </td>
+                </tr>
+                <tr class="text-lg border-bottom">
+                  <th style="border-top: 0px">
+                    <p class="font-normal">
                       希瑪愛康健口腔於第五屆「圳能量」深圳網路盛典榮獲「2022年度最值得網民信賴品牌」
                     </p>
                   </th>

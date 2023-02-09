@@ -330,8 +330,14 @@
                     rel="noopener noreferrer"
                     >揭阳希玛林顺潮眼科医院</a
                   >
-                  <b-button class="d-block border-0 p-0" @click="showMsgOk9">
-                    <b-img src="/pic/azh_9.jpg"></b-img>
+                  <b-button
+                    class="d-block border-0 p-0"
+                    @click="showMsgOk9"
+                    style="width: 82%"
+                  >
+                    <b-img
+                      src="https://static.cmereye.com/imgs/2023/02/966b90126db8542b.jpg"
+                    ></b-img>
                   </b-button>
                 </td>
                 <td aria-colindex="2" role="cell" class="">2022年8月</td>

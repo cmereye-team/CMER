@@ -188,6 +188,47 @@
               <li class="table-con-item clear mt-2">
                 <a
                   class="table-cell"
+                  href="https://admin.cmereye.com/wp-content/uploads/2023/02/董事會於2023年1月1日修訂及採納的薪酬委員會職權範圍.pdf"
+                  target="_blank"
+                  rel="nofollow"
+                  >董事會於2023年1月1日修訂及採納的薪酬委員會職權範圍</a
+                >
+                <span class="table-cell last">
+                  <a
+                    class="file-link"
+                    href="https://admin.cmereye.com/wp-content/uploads/2023/02/董事會於2023年1月1日修訂及採納的薪酬委員會職權範圍.pdf"
+                    download="Terms of reference of remuneration committee (Chi).pdf"
+                    rel="nofollow"
+                  >
+                    <span class="file-pdf"></span>
+                    <span class="file-name"
+                      ><svg
+                        viewBox="0 0 16 16"
+                        width="1em"
+                        height="1em"
+                        focusable="false"
+                        role="img"
+                        aria-label="download"
+                        xmlns="http://www.w3.org/2000/svg"
+                        fill="currentColor"
+                        class="bi-download mx-auto b-icon bi"
+                        data-v-41be6633=""
+                      >
+                        <g data-v-41be6633="">
+                          <path
+                            d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"
+                          ></path>
+                          <path
+                            d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"
+                          ></path>
+                        </g></svg
+                    ></span>
+                  </a>
+                </span>
+              </li>
+              <li class="table-con-item clear mt-2">
+                <a
+                  class="table-cell"
                   href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/Terms of reference of audit committee (Chi).pdf"
                   target="_blank"
                   rel="nofollow"
@@ -267,47 +308,7 @@
                   </a>
                 </span>
               </li>
-              <li class="table-con-item clear mt-2">
-                <a
-                  class="table-cell"
-                  href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/Terms of reference of remuneration committee (Chi).pdf"
-                  target="_blank"
-                  rel="nofollow"
-                  >董事會於2017 年12 月13日採納的薪酬委員會職權範圍</a
-                >
-                <span class="table-cell last">
-                  <a
-                    class="file-link"
-                    href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/Terms of reference of remuneration committee (Chi).pdf"
-                    download="Terms of reference of remuneration committee (Chi).pdf"
-                    rel="nofollow"
-                  >
-                    <span class="file-pdf"></span>
-                    <span class="file-name"
-                      ><svg
-                        viewBox="0 0 16 16"
-                        width="1em"
-                        height="1em"
-                        focusable="false"
-                        role="img"
-                        aria-label="download"
-                        xmlns="http://www.w3.org/2000/svg"
-                        fill="currentColor"
-                        class="bi-download mx-auto b-icon bi"
-                        data-v-41be6633=""
-                      >
-                        <g data-v-41be6633="">
-                          <path
-                            d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"
-                          ></path>
-                          <path
-                            d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"
-                          ></path>
-                        </g></svg
-                    ></span>
-                  </a>
-                </span>
-              </li>
+
               <li class="table-con-item clear mt-2">
                 <a
                   class="table-cell"

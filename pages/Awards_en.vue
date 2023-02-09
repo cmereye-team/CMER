@@ -43,6 +43,7 @@
                   </th>
                   <td class="align-bottom"> </td>
                 </tr>
+
                 <tr class="text-lg border-bottom">
                   <th style="border-top: 0px">
                     <p class="font-normal font-en-normal">
@@ -53,6 +54,24 @@
                   </th>
                   <td class="align-bottom flex" style="border-top: 0px">
                     <p class=" ">www.jrj.com</p>
+                  </td>
+                </tr>
+                <tr class="text-lg border-bottom">
+                  <th style="border-top: 0px">
+                    <p class="font-normal font-en-normal">
+                      C-MER CKJ Stomatology was presented with the “2022 Most
+                      Trusted Brand by Netizens” at the 5th Shenzhen Network
+                      Festival
+                    </p>
+                  </th>
+                  <td class="align-bottom flex" style="border-top: 0px">
+                    <p class=" ">
+                      Guided by Office of the Cyberspace Affairs Commission of
+                      the CPC Shenzhen Municipal Committee, and jointly
+                      organized by Shenzhen Press Group, Shenzhen Internet
+                      Industry Federation, Shenzhen Internet Media Association
+                      and Shenzhen Wemedia Association
+                    </p>
                   </td>
                 </tr>
                 <tr class="text-lg border-bottom">

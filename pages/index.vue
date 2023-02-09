@@ -103,7 +103,7 @@ export default {
   data() {
     return {
       index_card: [
-        { pic: "/img/index_part2_1.png", title: ">70間醫療機構" },
+        { pic: "/img/index_part2_1.png", title: "70間醫療機構" },
         { pic: "/img/index_part2_2.png", title: "內地擁有11間醫院" },
         { pic: "/img/index_part2_3.png", title: "網絡覆蓋11個城市" },
         { pic: "/img/index_part2_4.png", title: ">1,000名醫護人員" },

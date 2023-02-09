@@ -69,7 +69,7 @@
               <li class="table-con-item clear">
                 <a
                   class="table-cell"
-                  href="http://admin.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/List of directors and their roles and functions (Eng).pdf"
+                  href="https://admin.cmereye.com/wp-content/uploads/2023/02/LIST-OF-DIRECTORS-AND-THEIR-ROLES-AND-FUNCTIONS.pdf"
                   target="_blank"
                   rel="nofollow"
                   >LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS</a
@@ -77,7 +77,7 @@
                 <span class="table-cell last">
                   <a
                     class="file-link"
-                    href="http://admin.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/List of directors and their roles and functions (Eng).pdf"
+                    href="https://admin.cmereye.com/wp-content/uploads/2023/02/LIST-OF-DIRECTORS-AND-THEIR-ROLES-AND-FUNCTIONS.pdf"
                     download="List of directors and their roles and functions (Eng)"
                     rel="nofollow"
                   >
@@ -194,6 +194,49 @@
               <li class="table-con-item clear">
                 <a
                   class="table-cell"
+                  href="https://admin.cmereye.com/wp-content/uploads/2023/02/TERMS-OF-REFERENCE-OF-THE-REMUNERATION-COMMITTEE-AS-AMENDED-AND-ADOPTED-BY-THE-BOARD-AND-TAKING-EFFECT-ON-1-JANUARY-2023.pdf"
+                  target="_blank"
+                  rel="nofollow"
+                  >TERMS OF REFERENCE OF THE REMUNERATION COMMITTEE AS AMENDED
+                  AND ADOPTED BY THE BOARD AND TAKING EFFECT ON 1 JANUARY
+                  2023</a
+                >
+                <span class="table-cell last">
+                  <a
+                    class="file-link"
+                    href="https://admin.cmereye.com/wp-content/uploads/2023/02/TERMS-OF-REFERENCE-OF-THE-REMUNERATION-COMMITTEE-AS-AMENDED-AND-ADOPTED-BY-THE-BOARD-AND-TAKING-EFFECT-ON-1-JANUARY-2023.pdf"
+                    download="TERMS OF REFERENCE OF THE REMUNERATION COMMITTEE ADOPTED BY THE BOARD ON 13 DECEMBER 2017.pdf"
+                    rel="nofollow"
+                  >
+                    <span class="file-pdf"></span>
+                    <span class="file-name"
+                      ><svg
+                        viewBox="0 0 16 16"
+                        width="1em"
+                        height="1em"
+                        focusable="false"
+                        role="img"
+                        aria-label="download"
+                        xmlns="http://www.w3.org/2000/svg"
+                        fill="currentColor"
+                        data-v-41be6633=""
+                        class="bi-download mx-auto b-icon bi"
+                      >
+                        <g data-v-41be6633="">
+                          <path
+                            d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"
+                          ></path>
+                          <path
+                            d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"
+                          ></path>
+                        </g></svg
+                    ></span>
+                  </a>
+                </span>
+              </li>
+              <li class="table-con-item clear">
+                <a
+                  class="table-cell"
                   href="http://admin.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/Terms of reference of audit committee (Eng).pdf"
                   target="_blank"
                   rel="nofollow"
@@ -275,48 +318,7 @@
                   </a>
                 </span>
               </li>
-              <li class="table-con-item clear">
-                <a
-                  class="table-cell"
-                  href="http://admin.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/TERMS OF REFERENCE OF THE REMUNERATION COMMITTEE ADOPTED BY THE BOARD ON 13 DECEMBER 2017.pdf"
-                  target="_blank"
-                  rel="nofollow"
-                  >TERMS OF REFERENCE OF THE REMUNERATION COMMITTEE ADOPTED BY
-                  THE BOARD ON 13 DECEMBER 2017</a
-                >
-                <span class="table-cell last">
-                  <a
-                    class="file-link"
-                    href="http://admin.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/TERMS OF REFERENCE OF THE REMUNERATION COMMITTEE ADOPTED BY THE BOARD ON 13 DECEMBER 2017.pdf"
-                    download="TERMS OF REFERENCE OF THE REMUNERATION COMMITTEE ADOPTED BY THE BOARD ON 13 DECEMBER 2017.pdf"
-                    rel="nofollow"
-                  >
-                    <span class="file-pdf"></span>
-                    <span class="file-name"
-                      ><svg
-                        viewBox="0 0 16 16"
-                        width="1em"
-                        height="1em"
-                        focusable="false"
-                        role="img"
-                        aria-label="download"
-                        xmlns="http://www.w3.org/2000/svg"
-                        fill="currentColor"
-                        data-v-41be6633=""
-                        class="bi-download mx-auto b-icon bi"
-                      >
-                        <g data-v-41be6633="">
-                          <path
-                            d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"
-                          ></path>
-                          <path
-                            d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"
-                          ></path>
-                        </g></svg
-                    ></span>
-                  </a>
-                </span>
-              </li>
+
               <li class="table-con-item clear">
                 <a
                   class="table-cell"

@@ -125,7 +125,7 @@ export default {
   data() {
     return {
       index_card: [
-        { pic: "/img/index_part2_1.png", title: ">70 medical facilities" },
+        { pic: "/img/index_part2_1.png", title: "70 medical facilities" },
         {
           pic: "/img/index_part2_2.png",
           title: "11 hospitals in Mainland China",
@@ -242,8 +242,8 @@ export default {
 
 <style>
 .text-red {
-  color: brown;
-  font-weight: 800;
+  /* color: brown; */
+  /* font-weight: 800; */
 }
 .title h4,
 .title p {

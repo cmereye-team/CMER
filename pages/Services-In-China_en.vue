@@ -405,8 +405,14 @@
                     rel="noopener noreferrer"
                     >C-MER (Jieyang) Dennis Lam Eye Hospital
                   </a>
-                  <b-button class="d-block border-0 p-0" @click="showMsgOk9">
-                    <b-img src="/pic/azh_9.jpg"></b-img>
+                  <b-button
+                    class="d-block border-0 p-0"
+                    @click="showMsgOk9"
+                    style="width: 48%"
+                  >
+                    <b-img
+                      src="https://static.cmereye.com/imgs/2023/02/966b90126db8542b.jpg"
+                    ></b-img>
                   </b-button>
                 </td>
                 <td aria-colindex="2" role="cell" class="">August 2022</td>

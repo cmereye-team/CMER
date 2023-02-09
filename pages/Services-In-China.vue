@@ -182,7 +182,7 @@
                 <td aria-colindex="5" role="cell" class="">
                   <p>20張病床、 <br /></p>
                   <p>3間國際標準的 <br /></p>
-                  <p>層層流淨化手術室</p>
+                  <p>層流淨化手術室</p>
                 </td>
                 <td aria-colindex="6" role="cell" class="">
                   <p>深圳市醫保定點單位</p>
@@ -333,8 +333,14 @@
                     rel="noopener noreferrer"
                     >揭陽希瑪林順潮眼科醫院</a
                   >
-                  <b-button class="d-block border-0 p-0" @click="showMsgOk9">
-                    <b-img src="/pic/azh_9.jpg"></b-img>
+                  <b-button
+                    class="d-block border-0 p-0"
+                    @click="showMsgOk9"
+                    style="width: 82%"
+                  >
+                    <b-img
+                      src="https://static.cmereye.com/imgs/2023/02/966b90126db8542b.jpg"
+                    ></b-img>
                   </b-button>
                 </td>
                 <td aria-colindex="2" role="cell" class="">2022年8月</td>
@@ -391,6 +397,9 @@
   </div>
 </template>
 <style>
+p {
+  font-size: 16px !important;
+}
 .service_map_zh_table thead th {
   border-bottom: none;
   border-bottom-width: 0;

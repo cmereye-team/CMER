@@ -105,7 +105,7 @@ export default {
   data() {
     return {
       index_card: [
-        { pic: "/img/index_part2_1.png", title: ">70间医疗机构" },
+        { pic: "/img/index_part2_1.png", title: "70间医疗机构" },
         { pic: "/img/index_part2_2.png", title: "内地拥有11间医院" },
         { pic: "/img/index_part2_3.png", title: "网络覆盖11个城市" },
         { pic: "/img/index_part2_4.png", title: ">1,000名医护人员" },
