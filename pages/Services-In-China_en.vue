@@ -636,6 +636,10 @@
 }
 
 @media screen and (min-width: 992px) {
+  .btn-secondary:hover img {
+    transform: scale(1.2);
+    transition: all 0.6s;
+  }
   .language_box .dropdown a {
     padding: 0.5rem 1rem;
     color: #ffffff;
@@ -1106,7 +1110,7 @@ export default {
         h("br"),
         h("b-img", {
           props: {
-            src: "/pic/azh_9b.jpg",
+            src: "https://static.cmereye.com/imgs/2023/02/966b90126db8542b.jpg",
             thumbnail: true,
             center: true,
             fluid: true,

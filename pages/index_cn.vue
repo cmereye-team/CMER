@@ -431,17 +431,17 @@ h6 {
   line-height: 1;
 }
 .parttwo .flex .index_card:nth-child(1)::before {
-  content: "60";
+  content: "70";
   top: 0;
-  left: -14px;
+  left: 3px;
 }
 .parttwo .flex .index_card:nth-child(2)::before {
-  content: "9";
+  content: "11";
   bottom: 0;
   left: -14px;
 }
 .parttwo .flex .index_card:nth-child(3)::before {
-  content: "9";
+  content: "11";
   top: 0;
   right: -14px;
 }

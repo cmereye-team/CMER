@@ -552,6 +552,11 @@ p {
 }
 
 @media screen and (min-width: 1111px) {
+  .btn-secondary:hover img {
+    transform: scale(1.2);
+    transition: all 0.6s;
+  }
+
   .service_map_zh_table tbody tr td:first-child {
     white-space: nowrap;
   }
@@ -988,7 +993,7 @@ export default {
         h("br"),
         h("b-img", {
           props: {
-            src: "/pic/azh_9b.jpg",
+            src: "https://static.cmereye.com/imgs/2023/02/966b90126db8542b.jpg",
             thumbnail: true,
             center: true,
             fluid: true,

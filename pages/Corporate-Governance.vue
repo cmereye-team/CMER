@@ -65,7 +65,7 @@
               <li class="table-con-item clear mt-2">
                 <a
                   class="table-cell"
-                  href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/List of directors and their roles and functions (Chi).pdf"
+                  href="https://admin.cmereye.com/wp-content/uploads/2023/02/董事會的名單及其職分及職能.pdf"
                   target="_blank"
                   rel="nofollow"
                   >董事會之名單及其職分及職能</a
@@ -73,7 +73,7 @@
                 <span class="table-cell last">
                   <a
                     class="file-link"
-                    href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/List of directors and their roles and functions (Chi).pdf"
+                    href="https://admin.cmereye.com/wp-content/uploads/2023/02/董事會的名單及其職分及職能.pdf"
                     download="List of directors and their roles and functions (Chi).pdf"
                     rel="nofollow"
                   >
