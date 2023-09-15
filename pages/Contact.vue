@@ -9,10 +9,10 @@
         <h4 class="font-bold mt-10 tracking-widest">地址：</h4>
         <p class="mt-2 tracking-widest">中環畢打街1-3號中建大廈1535室</p>
 
-        <h4 class="font-bold mt-10 tracking-widest">一般查詢：</h4>
-        <p class="mt-2 tracking-widest">+852 3997 3266</p>
-        <h4 class="font-bold mt-10 tracking-widest">傳真：</h4>
-        <p class="mt-2 tracking-widest">+852 3996 8212</p>
+        <!-- <h4 class="font-bold mt-10 tracking-widest">一般查詢：</h4> -->
+        <!-- <p class="mt-2 tracking-widest">+852 3997 3266</p> -->
+        <!-- <h4 class="font-bold mt-10 tracking-widest">傳真：</h4> -->
+        <!-- <p class="mt-2 tracking-widest">+852 3996 8212</p> -->
         <h4 class="font-bold mt-10 tracking-widest">電郵：</h4>
         <p class="mt-2 tracking-widest">
           <a href="mailto:info@hkcmer.com">info@hkcmer.com</a>
