@@ -1544,6 +1544,37 @@ export default {
   }
 }
 
+.allPages {
+  display: flex;
+  margin-left: 25px;
+}
+
+.allPages>div {
+  width: 40px;
+  height: 40px;
+  background: #fff;
+  color: #71bfef;
+  box-shadow: 1px 1px 0px 1px #ccc;
+  border-radius: 0;
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.allPages>div:hover {
+  background: #71bfef;
+  color: #fff;
+}
+
+.history {
+  color: #71bfef;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
 @media screen and (max-width: 768px) {
 
   .part_Release table tr td:nth-child(1),

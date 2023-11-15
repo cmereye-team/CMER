@@ -14,6 +14,92 @@
       <b-container fluid="md" class="content part_content part_content_report">
         <b-row>
           <b-col md="6"
+          ><div class="part_governance flex justify-between">
+            <a
+              target="_blank"
+              href="https://admin.cmereye.com/wp-content/uploads/2022/06/20220601cn.pdf"
+            >
+              <div class="book">
+                <div class="back"></div>
+                <div class="page6">
+                  <img src="/pic/book2.jpg" alt="" srcset="" />
+                </div>
+                <div class="page5">
+                  <img src="/pic/book3.jpg" alt="" srcset="" />
+                </div>
+                <div class="page4">
+                  <img src="/pic/book3.jpg" alt="" srcset="" />
+                </div>
+                <div class="page3">
+                  <img src="/pic/book2.jpg" alt="" srcset="" />
+                </div>
+                <div class="page2">
+                  <img src="/pic/book2.jpg" alt="" srcset="" />
+                </div>
+                <div class="page1">
+                  <img src="/pic/book3.jpg" alt="" srcset="" />
+                </div>
+                <div class="front">
+                  <img src="/pic/2022.png" alt="" srcset="" />
+                </div>
+              </div>
+            </a>
+            <div class="desc flex justify-between flex-col">
+              <h2>2022</h2>
+              <a
+                class="more text-right"
+                target="_blank"
+                href="https://admin.cmereye.com/wp-content/uploads/2023/04/20230420013331.pdf"
+              >VIEW NOW</a
+              >
+            </div>
+          </div></b-col
+          >
+<!--          <b-col md="6"-->
+<!--          ><div class="part_governance flex justify-between">-->
+<!--            <a-->
+<!--              target="_blank"-->
+<!--              href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309%20ESG20.pdf"-->
+<!--            >-->
+<!--              <div class="book">-->
+<!--                <div class="back"></div>-->
+<!--                <div class="page6">-->
+<!--                  <img src="/pic/book2.jpg" alt="" srcset="" />-->
+<!--                </div>-->
+<!--                <div class="page5">-->
+<!--                  <img src="/pic/book3.jpg" alt="" srcset="" />-->
+<!--                </div>-->
+<!--                <div class="page4">-->
+<!--                  <img src="/pic/book3.jpg" alt="" srcset="" />-->
+<!--                </div>-->
+<!--                <div class="page3">-->
+<!--                  <img src="/pic/book2.jpg" alt="" srcset="" />-->
+<!--                </div>-->
+<!--                <div class="page2">-->
+<!--                  <img src="/pic/book2.jpg" alt="" srcset="" />-->
+<!--                </div>-->
+<!--                <div class="page1">-->
+<!--                  <img src="/pic/book3.jpg" alt="" srcset="" />-->
+<!--                </div>-->
+<!--                <div class="front">-->
+<!--                  <img src="/pic/book18.jpg" alt="" srcset="" />-->
+<!--                </div>-->
+<!--              </div>-->
+<!--            </a>-->
+<!--            <div class="desc flex justify-between flex-col">-->
+<!--              <h2>2020</h2>-->
+<!--              <a-->
+<!--                class="more text-right"-->
+<!--                target="_blank"-->
+<!--                href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309%20ESG20.pdf"-->
+<!--              >VIEW NOW</a-->
+<!--              >-->
+<!--            </div>-->
+<!--          </div></b-col-->
+<!--          >-->
+        </b-row>
+        <b-row class="mt-40">
+          <b-col md="6"
             ><div class="part_governance flex justify-between">
               <a
                 target="_blank"
@@ -40,7 +126,7 @@
                     <img src="/pic/book3.jpg" alt="" srcset="" />
                   </div>
                   <div class="front">
-                    <img src="/pic/book19.jpg" alt="" srcset="" />
+                    <img src="/pic/2021.png" alt="" srcset="" />
                   </div>
                 </div>
               </a>
@@ -82,7 +168,7 @@
                     <img src="/pic/book3.jpg" alt="" srcset="" />
                   </div>
                   <div class="front">
-                    <img src="/pic/book18.jpg" alt="" srcset="" />
+                    <img src="/pic/2020.png" alt="" srcset="" />
                   </div>
                 </div>
               </a>
@@ -98,7 +184,6 @@
             </div></b-col
           >
         </b-row>
-
         <b-row class="mt-40">
           <b-col md="6"
             ><div class="part_governance flex justify-between">
@@ -202,11 +287,11 @@ export default {
   components: { Header, Footer },
   /*  async asyncData({ app, req, query, params,store}){
 		  const  aboutData = await axios.get(`https://admin.cmereye.com/wp-json/wp/v2/pages/2`);
-      console.log( aboutData.data);  
+      console.log( aboutData.data);
 		  return {
 		    AboutData: aboutData.data,
 		  };
-     
+
 	},  */
   name: "Report-governance",
   data() {
