@@ -469,7 +469,32 @@
                   </p>
                 </td>
               </tr>
-
+              <tr role="row" class="">
+                <td aria-colindex="1" role="cell" class="">
+                  <a
+                    href="https://m.fscmer.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >C-MER (foshan) Dennis Lam Eye Hospital</a
+                  >
+                  <b-button class="d-block border-0 p-0" @click="showMsgOk11">
+                    <b-img src="/pic/D496A63731AA.png"></b-img>
+                  </b-button>
+                </td>
+                <td aria-colindex="2" role="cell" class="">August 2023</td>
+                <td aria-colindex="3" role="cell" class="">
+                  Floor 1-4, Golden Wisdom Plaza, No. 13, Lvjing Road, Chancheng District, Foshan City
+                </td>
+                <td aria-colindex="4" role="cell" class="">
+                  6000 square meters
+                </td>
+                <td aria-colindex="5" role="cell" class="">
+                  50 beds, 3 international standard laminar flow purification operating rooms
+                </td>
+                <td aria-colindex="6" role="cell" class="">
+                  <p>Foshan medical insurance designated unit <br /></p>
+                </td>
+              </tr>
               <!----><!---->
             </tbody>
             <!---->
@@ -1150,6 +1175,45 @@ export default {
         h("b-img", {
           props: {
             src: "/pic/azh_10b.jpg",
+            thumbnail: true,
+            center: true,
+            fluid: true,
+            rounded: "5px",
+            spinners: true,
+          },
+        }),
+      ]);
+      // We must pass the generated VNodes as arrays
+      this.$bvModal.msgBoxOk([messageVNode], {
+        title: [titleVNode],
+        buttonSize: "sm",
+        okVariant: "primary",
+        headerClass: "bg-primary text-white",
+        size: "lg",
+        footerClass: "bg-light",
+        hideFooter: true,
+        okTitle: "關閉",
+        centered: true,
+        size: "lg",
+      });
+    },
+    showMsgOk11() {
+      const h = this.$createElement;
+      // Using HTML string
+      const titleVNode = h("div", {
+        domProps: {
+          innerHTML: "C-MER (foshan) Dennis Lam Eye Hospital",
+        },
+      });
+      // More complex structure
+      const messageVNode = h("div", { class: ["foobar"] }, [
+        h("p", { class: ["text-left"] }, [
+          "Floor 1-4, Golden Wisdom Plaza, No. 13, Lvjing Road, Chancheng District, Foshan City",
+        ]),
+        h("br"),
+        h("b-img", {
+          props: {
+            src: "/pic/1D496A63731AA.png",
             thumbnail: true,
             center: true,
             fluid: true,

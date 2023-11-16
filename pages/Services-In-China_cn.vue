@@ -383,6 +383,33 @@
                   <p>中山大学光华口腔医学院研究生课程进修班深圳市教学点</p>
                 </td>
               </tr>
+
+              <tr role="row" class="">
+                <td aria-colindex="1" role="cell" class="">
+                  <a
+                    href="https://m.fscmer.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >佛山希玛林顺潮眼科医院</a
+                  >
+                  <b-button class="d-block border-0 p-0" @click="showMsgOk11">
+                    <b-img src="/pic/D496A63731AA.png"></b-img>
+                  </b-button>
+                </td>
+                <td aria-colindex="2" role="cell" class="">2023年8月</td>
+                <td aria-colindex="3" role="cell" class="">
+                  佛山市禅城区绿景一路13号金智慧广场1-4楼
+                </td>
+                <td aria-colindex="4" role="cell" class="">
+                  6000平方米
+                </td>
+                <td aria-colindex="5" role="cell" class="">
+                  50张床位、3间国际标准层流净化手术室
+                </td>
+                <td aria-colindex="6" role="cell" class="">
+                  <p>佛山市医保定点单位 <br /></p>
+                </td>
+              </tr>
               <!----><!---->
             </tbody>
             <!---->
@@ -1052,6 +1079,45 @@ export default {
         h("b-img", {
           props: {
             src: "/pic/azh_10b.jpg",
+            thumbnail: true,
+            center: true,
+            fluid: true,
+            rounded: "5px",
+            spinners: true,
+          },
+        }),
+      ]);
+      // We must pass the generated VNodes as arrays
+      this.$bvModal.msgBoxOk([messageVNode], {
+        title: [titleVNode],
+        buttonSize: "sm",
+        okVariant: "primary",
+        headerClass: "bg-primary text-white",
+        size: "lg",
+        footerClass: "bg-light",
+        hideFooter: true,
+        okTitle: "关闭",
+        centered: true,
+        size: "lg",
+      });
+    },
+    showMsgOk11() {
+      const h = this.$createElement;
+      // Using HTML string
+      const titleVNode = h("div", {
+        domProps: {
+          innerHTML: "佛山希玛林顺潮眼科医院",
+        },
+      });
+      // More complex structure
+      const messageVNode = h("div", { class: ["foobar"] }, [
+        h("p", { class: ["text-left"] }, [
+          "佛山市禅城区绿景一路13号金智慧广场1-4楼",
+        ]),
+        h("br"),
+        h("b-img", {
+          props: {
+            src: "/pic/1D496A63731AA.png",
             thumbnail: true,
             center: true,
             fluid: true,
