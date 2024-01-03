@@ -14,10 +14,11 @@
         <div class="part_Release part_en_announce">
           <div class="flex justify-between items-center">
             <div class="year_text tracking-widest">
-              <p class="text-2xl underline pl-4 xs-pl-initial">2023</p>
+              <p class="text-2xl underline pl-4 xs-pl-initial">2024</p>
             </div>
             <div class="year_chose flex items-center xs-letter-1em">
               <b-dropdown text="year" variant="outline-primary" class="m-2">
+                <b-dropdown-item href="#">2024</b-dropdown-item>
                 <b-dropdown-item href="#">2023</b-dropdown-item>
                 <b-dropdown-item href="#">2022</b-dropdown-item>
                 <b-dropdown-item href="#">2021</b-dropdown-item>
