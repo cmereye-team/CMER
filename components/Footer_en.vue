@@ -25,7 +25,7 @@
       </ul>
       <div class="footer_copyright">
         <div class="footer_privacy text-right"> <span v-for="item in foot_state" style="margin-right: 1em;"><b-link :href="item.url">{{item.name}}</b-link></span></div>
-        <div class="footer_cptext">© 2022 C-MER Eye Care Holdings Limited. All rights reserved.</div>
+        <div class="footer_cptext">© 2024 C-MER Eye Care Holdings Limited. All rights reserved.</div>
       </div>
     </div>
 </div>

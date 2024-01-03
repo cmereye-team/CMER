@@ -34,7 +34,7 @@
             >
           </div>
           <div class="footer_cptext">
-            © 2023 C-MER Eye Care Holdings Limited. All rights reserved.
+            © 2024 C-MER Eye Care Holdings Limited. All rights reserved.
           </div>
         </div>
       </div>
