@@ -32,7 +32,7 @@
         <h2 class="text-center mt-20 font-normal">Financial Information</h2>
 
         <img
-          src="/img/tongjitu_en.jpg"
+          src="https://static.cmereye.com/imgs/2024/01/73890803c424c452.png"
           class="img-fluid mx-auto mt-8 tongji-img"
           alt=""
         />
@@ -51,19 +51,19 @@
                 <div></div>
               </th>
               <th role="columnheader" scope="col" aria-colindex="2" class="">
-                <div>2017</div>
-              </th>
-              <th role="columnheader" scope="col" aria-colindex="3" class="">
                 <div>2018</div>
               </th>
-              <th role="columnheader" scope="col" aria-colindex="4" class="">
+              <th role="columnheader" scope="col" aria-colindex="3" class="">
                 <div>2019</div>
               </th>
-              <th role="columnheader" scope="col" aria-colindex="5" class="">
+              <th role="columnheader" scope="col" aria-colindex="4" class="">
                 <div>2020</div>
               </th>
-              <th role="columnheader" scope="col" aria-colindex="6" class="">
+              <th role="columnheader" scope="col" aria-colindex="5" class="">
                 <div>2021</div>
+              </th>
+              <th role="columnheader" scope="col" aria-colindex="6" class="">
+                <div>2022</div>
               </th>
             </tr>
           </thead>
@@ -73,19 +73,19 @@
               <td aria-colindex="1" role="cell" class="">
                 Total assets (HK$’000)
               </td>
-              <td aria-colindex="2" role="cell" class="">233,377</td>
-              <td aria-colindex="3" role="cell" class="">886,849</td>
-              <td aria-colindex="4" role="cell" class="">1,119,649</td>
-              <td aria-colindex="5" role="cell" class="">1,629,211</td>
-              <td aria-colindex="6" role="cell" class="">1,955,877</td>
+              <td aria-colindex="2" role="cell" class="">886,849</td>
+              <td aria-colindex="3" role="cell" class="">1,119,649</td>
+              <td aria-colindex="4" role="cell" class="">1,629,211</td>
+              <td aria-colindex="5" role="cell" class="">1,955,877</td>
+              <td aria-colindex="6" role="cell" class="">2,901,687</td>
             </tr>
             <tr role="row" class="">
               <td aria-colindex="1" role="cell" class="">Revenue (HK$’000)</td>
-              <td aria-colindex="2" role="cell" class="">311,228</td>
-              <td aria-colindex="3" role="cell" class="">429,374</td>
-              <td aria-colindex="4" role="cell" class="">576,209</td>
-              <td aria-colindex="5" role="cell" class="">699,545</td>
-              <td aria-colindex="6" role="cell" class="">1,112,577</td>
+              <td aria-colindex="2" role="cell" class="">429,374</td>
+              <td aria-colindex="3" role="cell" class="">576,209</td>
+              <td aria-colindex="4" role="cell" class="">699,545</td>
+              <td aria-colindex="5" role="cell" class="">1,112,577</td>
+              <td aria-colindex="6" role="cell" class="">1,731,903</td>
             </tr>
             <tr role="row" class="">
               <td aria-colindex="1" role="cell" class="">
