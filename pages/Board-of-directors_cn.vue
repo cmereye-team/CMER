@@ -73,7 +73,7 @@ export default {
     const aboutData = await axios.get(
       `https://admin.cmereye.com/wp-json/wp/v2/pages/273`
     );
-    console.log(aboutData.data);
+    // console.log(aboutData.data);
     return {
       AboutData: aboutData.data,
     };

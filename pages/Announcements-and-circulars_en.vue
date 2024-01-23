@@ -30,7 +30,7 @@
           </div>
           <table class="w-full mt-10" v-if="isOldData">
             <tbody>
-              <tr v-for="item in newList" :data-date="item.date | dateFormat('yyyy')">
+              <tr v-for="(item,index) in newList" :data-date="item.date | dateFormat('yyyy')" :key="index">
                 <td>{{ item.date | dateFormat("yyyy-MM-dd") }}</td>
                 <td>
                   <a class="table-cell" :href="item.acf.post_pdf_link" target="_blank" rel="nofollow">
@@ -42,7 +42,7 @@
           </table>
           <table class="w-full mt-10 tanslate_yin" v-else>
             <tbody>
-              <tr v-for="item in newList" :data-date="item.date | dateFormat('yyyy')">
+              <tr v-for="(item,index) in newList" :data-date="item.date | dateFormat('yyyy')" :key="index">
                 <td>{{ item.date | dateFormat("yyyy-MM-dd") }}</td>
                 <td>
                   <a class="table-cell" :href="item.acf.post_pdf_link" target="_blank" rel="nofollow">
@@ -1300,11 +1300,13 @@ export default {
       totalData: null, // 数据总数
       allPages: null, // 计算分多少页
       pageNum: 20, // 每页多少
-      page: 1 // 第一页
+      page: 1, // 第一页
+      storage:''
     };
   },
 
   mounted() {
+    this.storage = window.localStorage
     this.getNewsList();
     $(".dropdown-menu li .dropdown-item").click(function () {
       $(".part_Release").addClass("ff");
@@ -1335,7 +1337,7 @@ export default {
       getList({ categories: 13, page: 1, per_page: this.pageNum }).then((res) => {
         if (res.status === 200) {
           this.newList = res.data;
-          this.totalData = localStorage.getItem('total')
+          this.totalData = storage.getItem('total')
           this.allPages = Math.ceil(this.totalData / this.pageNum)
         }
       });
@@ -1345,7 +1347,7 @@ export default {
       getList({ categories: 13, page: i, per_page: this.pageNum }).then((res) => {
         if (res.status === 200) {
           this.newList = res.data;
-          this.totalData = localStorage.getItem('total')
+          this.totalData = storage.getItem('total')
           this.allPages = Math.ceil(this.totalData / this.pageNum)
         }
       });
