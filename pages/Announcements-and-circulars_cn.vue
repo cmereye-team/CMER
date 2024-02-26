@@ -6,7 +6,10 @@
         <p>公告及通函</p>
       </div>
     </div>
-    <div class="part_content_bg">
+    <div class="communication part_content_bg">
+      <div class="container-md">
+        <a href="/Communication-and-message_cn">发布企业通讯</a>
+      </div>
       <b-container fluid="md" class="content part_content part_content_Release">
         <div class="part_Release part_en_announce">
           <div class="flex justify-between items-center">
@@ -1457,6 +1460,16 @@ export default {
   align-items: center;
   cursor: pointer;
 }
+
+.communication {
+  padding-top:50px;
+  line-height: 2;
+  letter-spacing: 0.1em;
+  color: #005caf;
+  font-weight: 300;
+  font-size: 24px;
+}
+
 @media screen and (min-width: 992px) {
   .language_box .dropdown a {
     padding: 0.5rem 1rem;

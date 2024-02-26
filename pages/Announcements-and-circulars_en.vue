@@ -10,6 +10,9 @@
       </div>
     </div>
     <div class="part_content_bg tanslate_yin">
+      <div class="communication container-md">
+        <a href="/Communication-and-message_en">Dissemination of Corporate Communications</a>
+      </div>
       <b-container fluid="md" class="content part_content part_content_Release">
         <div class="part_Release part_en_announce">
           <div class="flex justify-between items-center">
@@ -30,7 +33,7 @@
           </div>
           <table class="w-full mt-10" v-if="isOldData">
             <tbody>
-              <tr v-for="(item,index) in newList" :data-date="item.date | dateFormat('yyyy')" :key="index">
+              <tr v-for="(item, index) in newList" :data-date="item.date | dateFormat('yyyy')" :key="index">
                 <td>{{ item.date | dateFormat("yyyy-MM-dd") }}</td>
                 <td>
                   <a class="table-cell" :href="item.acf.post_pdf_link" target="_blank" rel="nofollow">
@@ -42,7 +45,7 @@
           </table>
           <table class="w-full mt-10 tanslate_yin" v-else>
             <tbody>
-              <tr v-for="(item,index) in newList" :data-date="item.date | dateFormat('yyyy')" :key="index">
+              <tr v-for="(item, index) in newList" :data-date="item.date | dateFormat('yyyy')" :key="index">
                 <td>{{ item.date | dateFormat("yyyy-MM-dd") }}</td>
                 <td>
                   <a class="table-cell" :href="item.acf.post_pdf_link" target="_blank" rel="nofollow">
@@ -1301,7 +1304,7 @@ export default {
       allPages: null, // 计算分多少页
       pageNum: 20, // 每页多少
       page: 1, // 第一页
-      storage:''
+      storage: ''
     };
   },
 
@@ -1520,6 +1523,16 @@ export default {
   font-size: 18px;
 }
 
+.communication {
+  padding-top:50px;
+  line-height: 2;
+  letter-spacing: 0.1em;
+  color: #005caf;
+  font-weight: 300;
+  font-size: 24px;
+}
+
+
 @media screen and (min-width: 992px) {
   .part_Release table tr td:nth-child(1) {
     min-width: 144px;
@@ -1578,6 +1591,7 @@ export default {
   align-items: center;
   cursor: pointer;
 }
+
 @media screen and (max-width: 768px) {
 
   .part_Release table tr td:nth-child(1),

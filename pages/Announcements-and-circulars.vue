@@ -6,7 +6,10 @@
         <p>公告及通函</p>
       </div>
     </div>
-    <div class="part_content_bg">
+    <div class="communication part_content_bg">
+      <div class="container-md">
+        <a href="/Communication-and-message">發佈企業通訊</a>
+      </div>
       <b-container fluid="md" class="content part_content part_content_Release">
         <div class="part_Release part_en_announce">
           <div class="flex justify-between items-center">
@@ -1155,7 +1158,7 @@ export default {
       allPages: null, // 计算分多少页
       pageNum: 20, // 每页多少
       page: 1, // 第一页
-      storage:'',
+      storage: '',
     };
   },
 
@@ -1192,7 +1195,7 @@ export default {
       getList({ categories: 3, page: 1, per_page: this.pageNum }).then((res) => {
         if (res.status === 200) {
           this.newList = res.data;
-          this.totalData = storage.getItem('total')
+          this.totalData = localStorage.getItem('total')
           this.allPages = Math.ceil(this.totalData / this.pageNum)
         }
       });
@@ -1202,7 +1205,7 @@ export default {
       getList({ categories: 3, page: i, per_page: this.pageNum }).then((res) => {
         if (res.status === 200) {
           this.newList = res.data;
-          this.totalData = storage.getItem('total')
+          this.totalData = localStorage.getItem('total')
           this.allPages = Math.ceil(this.totalData / this.pageNum)
         }
       });
@@ -1421,6 +1424,15 @@ export default {
   justify-content: center;
   align-items: center;
   cursor: pointer;
+}
+
+.communication {
+  padding-top:50px;
+  line-height: 2;
+  letter-spacing: 0.1em;
+  color: #005caf;
+  font-weight: 300;
+  font-size: 24px;
 }
 
 @media screen and (min-width: 992px) {

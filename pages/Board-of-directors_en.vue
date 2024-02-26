@@ -74,7 +74,7 @@ export default {
   components: { Header, Footer },
   async asyncData({ app, req, query, params, store }) {
     const aboutData = await axios.get(
-      `https://admin.cmereye.com/wp-json/wp/v2/pages/222`
+      `https://admin.cmereye.com/wp-json/wp/v2/pages/222?t=8`
     );
     // console.log(aboutData.data);
     return {
