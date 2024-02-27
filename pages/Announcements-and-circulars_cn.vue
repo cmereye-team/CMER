@@ -1288,7 +1288,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .ff .f-hide {
   display: none;
 }

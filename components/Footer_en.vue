@@ -99,7 +99,7 @@ export default {
 
 </script>
 
-<style>
+<style scoped>
 
 .tanslate_yin body,.tanslate_yin div,.tanslate_yin tr,.tanslate_yin td,.tanslate_yin th,.tanslate_yin p,.tanslate_yin span,.tanslate_yin a,.tanslate_yin h1,.tanslate_yin h2,.tanslate_yin h3,.tanslate_yin h4,.tanslate_yin h5,.tanslate_yin h6{font-family:Arial !important}
 

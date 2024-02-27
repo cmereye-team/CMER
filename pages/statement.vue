@@ -17,7 +17,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
 @media screen and (min-width: 992px) {
   .language_box .dropdown a {
     padding: 0.5rem 1rem;

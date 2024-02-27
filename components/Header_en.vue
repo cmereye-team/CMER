@@ -147,7 +147,7 @@ $("#chose_color .dropdown-menu li").eq(1).click(function(){
 </script>
 
 
-<style>
+<style scoped>
 .bg-white{background-color: rgba(255,255,255, 0.75) !important;}
 .navbar-light .navbar-nav .nav-link{font-size: 18px; line-height: 22px; display: flex; align-items: center; letter-spacing: 0.1em; color: #005CAF; text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);}
 .navbar-light .navbar-nav .nav-link:hover{color: #FFFFFF; text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);}

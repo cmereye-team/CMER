@@ -22,7 +22,7 @@
     </template>
   </div>
 </template>
-<style>
+<style scoped>
 .part_content_about_culture .text-blue-culture {
   color: #005caf;
 }

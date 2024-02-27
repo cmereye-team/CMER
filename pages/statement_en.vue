@@ -31,7 +31,7 @@
    
 </template>
 
-<style>
+<style scoped>
 
   @media screen and (min-width:992px){
 
@@ -125,6 +125,6 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 
 </style>

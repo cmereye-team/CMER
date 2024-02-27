@@ -17,7 +17,7 @@
     <Footer />
   </div>
 </template>
-<style>
+<style scoped>
 .banner_about_board {
   background-image: url(https://static.cmereye.com/imgs/2023/01/3f6123157089cb84.jpg);
 }

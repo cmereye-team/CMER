@@ -277,7 +277,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .newsinfo p img {
   display: inline-block;
 }

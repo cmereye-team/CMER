@@ -31,7 +31,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
 .part_content_contact {
   font-size: 20px;
   height: 100vh;

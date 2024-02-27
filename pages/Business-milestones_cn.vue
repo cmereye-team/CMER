@@ -16,7 +16,7 @@
     </template>
   </div>
 </template>
-<style>
+<style scoped>
 .banner_History {
   background-image: url(https://static.cmereye.com/imgs/2023/01/4bbf73ca8d99d0d9.jpg);
 }

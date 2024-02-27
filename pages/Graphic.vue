@@ -146,7 +146,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 .banner_Graphic{background-image:url(/pic/banner_pc_Graphic.jpg) ;}
  
 .part_Graphic p{margin-bottom: 0;}

@@ -423,7 +423,7 @@
     </template>
   </div>
 </template>
-<style>
+<style scoped>
 .service_map_zh_table thead th {
   border-bottom: none;
   border-bottom-width: 0;

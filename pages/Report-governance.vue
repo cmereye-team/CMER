@@ -375,7 +375,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .banner_governance {
   background-image: url(https://static.cmereye.com/imgs/2023/01/303668741478f4aa.jpg);
 }

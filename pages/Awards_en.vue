@@ -614,7 +614,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
 .dark_blue,
 .part_content_Awards .font-normal {
   color: #005caf;
