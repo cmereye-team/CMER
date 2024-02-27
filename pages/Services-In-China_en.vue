@@ -508,7 +508,7 @@
     </template>
   </div>
 </template>
-<style scoped>
+<style>
 .service_map_zh_table thead th {
   border-bottom: none;
   border-bottom-width: 0;

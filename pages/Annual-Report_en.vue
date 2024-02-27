@@ -558,7 +558,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 .banner_about_about {
   background-image: url(https://static.cmereye.com/imgs/2023/01/97b63235cea3dada.jpg);
   background-size: cover;

@@ -240,7 +240,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 .text-red {
   /* color: brown; */
   /* font-weight: 800; */

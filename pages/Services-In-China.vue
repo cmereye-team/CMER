@@ -421,7 +421,7 @@
     <Footer />
   </div>
 </template>
-<style scoped>
+<style>
 p {
   font-size: 16px !important;
 }

@@ -443,7 +443,7 @@
   </div>
 </template>
 
-<style scoped>
+<style>
 .dark_blue,
 .part_content_Awards .font-normal {
   color: #005caf;

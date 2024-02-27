@@ -20,7 +20,7 @@
     </template>
   </div>
 </template>
-<style scoped>
+<style>
 .banner_about_social {
   background-image: url(https://static.cmereye.com/imgs/2023/01/910888e1aff0c85e.jpg) !important;
 }

@@ -14,7 +14,7 @@
       <b-container fluid="md" class="content part_content part_content_report">
         <b-row>
           <b-col md="6"
-          ><div class="part_governance flex justify-between">
+          ><div class="part_governance flex justify-between"></div>
             <a
               target="_blank"
               href="https://admin.cmereye.com/wp-content/uploads/2022/06/20220601cn.pdf"
@@ -430,7 +430,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 .banner_governance {
   background-image: url(https://static.cmereye.com/imgs/2023/01/303668741478f4aa.jpg);
 }

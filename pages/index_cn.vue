@@ -17,7 +17,7 @@
       <div class="part partone">
         <div class="flex items-center justify-center">
           <img src="/pic/index_part1.jpg" alt="" />
-          <div class="text_right">
+          <div class="text_right"></div>
             <div class="max_width max_en_width">
               <div class="title text-center">
                 <p>关于希玛</p>
@@ -204,7 +204,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 body,
 tr,
 td,

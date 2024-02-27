@@ -510,7 +510,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 .banner_Release {
   background-image: url(https://static.cmereye.com/imgs/2023/01/393b20d78a533ad1.jpg);
 }

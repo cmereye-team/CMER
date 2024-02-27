@@ -3,24 +3,24 @@
     <Header />
 
     <div class="banner_about banner_about_template banner_about_social">
-      <div class="banner_text"><p>社會責任</p></div>
+      <div class="banner_text">
+        <p>社會責任</p>
+      </div>
     </div>
 
     <div class="part_content_bg">
-      <b-container
-        fluid="md"
-        class="content part_content part_content_about_template text-justify"
-      >
+      <b-container fluid="md" class="content part_content part_content_about_template text-justify">
         <div class="app_info" v-html="AboutData.content.rendered"></div>
       </b-container>
     </div>
     <Footer />
   </div>
 </template>
-<style scoped>
+<style>
 .banner_about_social {
   background-image: url(https://static.cmereye.com/imgs/2023/01/910888e1aff0c85e.jpg) !important;
 }
+
 .part_content_about_template li p {
   display: inline;
 }
@@ -35,6 +35,7 @@
     align-items: center;
     letter-spacing: 0.1em;
   }
+
   .language_box .dropdown a:hover,
   .language_box .dropdown a:focus {
     background: #ffffff;

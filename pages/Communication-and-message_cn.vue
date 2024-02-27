@@ -8,91 +8,91 @@
     </div>
     <div class="parent">
       <div class="title_one">
-        <h4>香港股份過戶登記分處</h4>
-        <h4><strong>香港中央證券登記有限公司</strong></h4>
+        <h4>香港股份过户登记分处</h4>
+        <h4><strong>香港中央证券登记有限公司</strong></h4>
         <table>
           <tr>
             <th>地址：</th>
-            <th>香港灣仔皇后大道東183號合和中心17樓1712-1716號舖</th>
+            <th>香港湾仔皇后大道东183号合和中心17楼1712-1716号铺</th>
           </tr>
           <tr>
-            <th>電話：</th>
+            <th>电话：</th>
             <th>(852) 2862 8555</th>
           </tr>
           <tr>
-            <th>傳真：</th>
+            <th>传真：</th>
             <th>(852) 2865 0990 / (852) 2529 6087</th>
           </tr>
         </table>
       </div>
       <div class="content_one">
-        <h4><strong>有關公司通訊的要求</strong></h4>
-        <div>公司通訊指公司已發出或將予發出以供其任何證券持有人參照或採取行動的任何文件，其中包括但不限於董事會報告及年度賬目連同核數師報告、中期報告、會議通告、上市文件、通函及代表委任表格。</div>
-        <div class="a_link">公司的所有公司通訊之英文及中文版本同時載於
-          <a href="https://cmereye.com/Investor-Relationship" target="_blank">公司網站</a>
+        <h4><strong>有关公司通讯的要求</strong></h4>
+        <div>公司通讯指公司已发出或将予发出以供其任何证券持有人参照或采取行动的任何文件，其中包括但不限于董事会报告及年度账目连同核数师报告、中期报告、会议通告、上市文件、通函及代表委任表格。</div>
+        <div class="a_link">公司的所有公司通讯之英文及中文版本同时载于
+          <a href="https://cmereye.com/Investor-Relationship" target="_blank">公司网站</a>
           及
-          <a href="https://www.hkexnews.hk/index_c.htm" target="_blank">「披露易」網站</a>
-          。若股東及投資者擬於公司在
-          <a href="https://www.hkexnews.hk/index_c.htm" target="_blank">「披露易」網站</a>
-          刊發公司通訊時收到通知，可於
-          <a href="https://www.hkex.com.hk/chi/invest/user/login_c.aspx" target="_blank">香港交易所市場網站</a>
-          「市場數據」項下登記使用「訊息提示」服務。
+          <a href="https://www.hkexnews.hk/index_c.htm" target="_blank">「披露易」网站</a>
+          。若股东及投资者拟于公司在
+          <a href="https://www.hkexnews.hk/index_c.htm" target="_blank">「披露易」网站</a>
+          刊发公司通讯时收到通知，可于
+          <a href="https://www.hkex.com.hk/chi/invest/user/login_c.aspx" target="_blank">香港交易所市场网站</a>
+          「市场数据」项下登记使用「讯息提示」服务。
         </div>
-        <div class="a_link">根據
+        <div class="a_link">根据
           <a href="https://www.hkex.com.hk/Listing/Rules-and-Guidance/Listing-Rules?sc_lang=zh-HK"
-            target="_blank">《香港聯合交易所有限公司證券上市規則》、</a>
-          <a href="https://www.elegislation.gov.hk/" target="_blank">香港《公司條例》</a>
-          及公司的《組織章程細則》，公司透過
-          <a href="https://cmereye.com/Investor-Relationship" target="_blank">公司網站 </a>
+            target="_blank">《香港联合交易所有限公司证券上市规则》、</a>
+          <a href="https://www.elegislation.gov.hk/" target="_blank">香港《公司条例》</a>
+          及公司的《组织章程细则》，公司透过
+          <a href="https://cmereye.com/Investor-Relationship" target="_blank">公司网站</a>
           及
-          <a href="https://www.hkexnews.hk/index_c.htm" target="_blank">「披露易」網站</a>
-          以電子方式向股東提供公司通訊（可供採取行動的公司通訊除外）（「電子版本」）。
+          <a href="https://www.hkexnews.hk/index_c.htm" target="_blank">「披露易」网站</a>
+          以电子方式向股东提供公司通讯（可供采取行动的公司通讯除外）（「电子版本」）。
         </div>
         <div>
-          若公司刊發公司通訊是為尋求登記股東指示其擬如何行使其股東權利或以股東身份作出選擇（即屬「可供採取行動的公司通訊」），公司會將可供採取行動的公司通訊透過登記股東提供的電子郵件地址個別發送給登記股東，或者如果公司沒有收到登記股東有效的電子郵件地址，則可供採取行動的公司通訊，連同索取登記股東有效電子郵件地址的申請表（以便日後以電子方式發放可供採取行動的公司通訊），將以印刷形式郵寄至股東名冊中顯示的股東地址。為免生疑問，可供採取行動的公司通訊不包括股東大會的通告及代表委任表格。
+          若公司刊发公司通讯是为寻求登记股东指示其拟如何行使其股东权利或以股东身份作出选择（即属「可供采取行动的公司通讯」），公司会将可供采取行动的公司通讯透过登记股东提供的电子邮件地址个别发送给登记股东，或者如果公司没有收到登记股东有效的电子邮件地址，则可供采取行动的公司通讯，连同索取登记股东有效电子邮件地址的申请表（以便日后以电子方式发放可供采取行动的公司通讯），将以印刷形式邮寄至股东名册中显示的股东地址。为免生疑问，可供采取行动的公司通讯不包括股东大会的通告及代表委任表格。
         </div>
         <div>
-          公司將會向每名新登記股東尋求其有效的電子郵件地址收取日後所有公司通訊的電子版本。為促進以電子方式發放公司通訊，收取未來公司通訊印刷版之指示由收悉登記股東指示當日起計一年內有效，此後將過期。若登記股東希望繼續收到日後的企業通訊的印刷本，則需要在到期前向股份過戶處提出進一步書面請求。
+          公司将会向每名新登记股东寻求其有效的电子邮件地址收取日后所有公司通讯的电子版本。为促进以电子方式发放公司通讯，收取未来公司通讯印刷版之指示由收悉登记股东指示当日起计一年内有效，此后将过期。若登记股东希望继续收到日后的企业通讯的印刷本，则需要在到期前向股份过户处提出进一步书面请求。
         </div>
-        <div>為確保及時收到最新的公司通訊，公司建議登記股東透過掃描已寄給登記股東的回條（「回條」）上列印的登記股東專屬二維碼來提供登記股東的電子郵件地址。
-          或者，登記股東也可以簽署回條並交回公司的香港股份過戶登記處（「股份過戶處」）香港中央證券登記有限公司，地址為香港灣仔皇后大道東 183 號合和中心 17M 樓。 </div>
-        <div>若登記股東希望收取未來公司通訊之印刷版，請填妥回條並交回公司的香港中央證券登記有限公司，地址為香港灣仔皇后大道東 183 號合和中心 17M
-          樓或發送電子郵件至cmereye.ecom@computershare.com.hk，並註明登記股東的姓名、地址以及收取公司通訊印刷版的要求。請注意，收取未來公司通訊印刷版之指示由收到指示當日起計一年內有效，此後將過期。若登記股東希望繼續收到日後的企業通訊的印刷本，則需要在到期前向股份過戶處提出進一步書面請求。
+        <div>为确保及时收到最新的公司通讯，公司建议登记股东透过扫描已寄给登记股东的回条（「回条」）上打印的登记股东专属二维码来提供登记股东的电子邮件地址。
+          或者，登记股东也可以签署回条并交回公司的香港股份过户登记处（「股份过户处」）香港中央证券登记有限公司，地址为香港湾仔皇后大道东 183 号合和中心 17M 楼。 </div>
+        <div>若登记股东希望收取未来公司通讯之印刷版，请填妥回条并交回公司的香港中央证券登记有限公司，地址为香港湾仔皇后大道东 183 号合和中心 17M
+          楼或发送电子邮件至cmereye.ecom@computershare.com.hk，并注明登记股东的姓名、地址以及收取公司通讯印刷版的要求。请注意，收取未来公司通讯印刷版之指示由收到指示当日起计一年内有效，此后将过期。若登记股东希望继续收到日后的企业通讯的印刷本，则需要在到期前向股份过户处提出进一步书面请求。
         </div>
-        <div>非登記股東亦可要求收取公司刊發的公司通訊之印刷本透過填妥回條並交回公司的股份過戶處，香港中央證券登記有限公司，地址為香港灣仔皇后大道東 183 號合和中心 17M
-          樓或發送電子郵件至cmereye.ecom@computershare.com.hk，並註明非登記股東的姓名、地址以及收取公司通訊印刷版的要求。</div>
+        <div>非登记股东亦可要求收取公司刊发的公司通讯之印刷本透过填妥回条并交回公司的股份过户处，香港中央证券登记有限公司，地址为香港湾仔皇后大道东 183 号合和中心 17M
+          楼或发送电子邮件至cmereye.ecom@computershare.com.hk，并注明非登记股东的姓名、地址以及收取公司通讯印刷版的要求。</div>
       </div>
       <div class="content_two">
-        <h4 class="a_link">當公司在<a href="https://cmereye.com/Investor-Relationship" target="_blank">公司網站</a>刊發公司通訊時:</h4>
+        <h4 class="a_link">当公司在<a href="https://cmereye.com/Investor-Relationship" target="_blank">公司网站</a>刊发公司通讯时:</h4>
         <ul>
-          <li>公司將會在以下情況發送公司通訊的印刷本至登記股東的地址︰根據登記股東提出的要求，又或如該公司通訊屬可供採取行動的公司通訊而公司沒有收到登記股東的有效電子郵件地址；</li>
-          <li>有關發佈公司通訊的通知將透過電子郵件發送給已提供有效電子郵件地址的登記股東；</li>
-          <li>有關發佈公司通訊的通知將透過電子郵件發送給已提供有效電子郵件地址的非登記股東。</li>
+          <li>公司将会在以下情况发送公司通讯的印刷本至登记股东的地址︰根据登记股东提出的要求，又或如该公司通讯属可供采取行动的公司通讯而公司没有收到登记股东的有效电子邮件地址；</li>
+          <li>有关发布公司通讯的通知将透过电子邮件发送给已提供有效电子邮件地址的登记股东；</li>
+          <li>有关发布公司通讯的通知将透过电子邮件发送给已提供有效电子邮件地址的非登记股东。</li>
         </ul>
-        <div>如股東對及收取方式有任何疑問，可以於辦公時間內（星期一至五上午 9 時至下午 6 時，香港公眾假期除外）致電公司股份過戶登記處的查詢熱線 (852) 2862 8688查詢。</div>
+        <div>如股东对及收取方式有任何疑问，可以于办公时间内（星期一至五上午 9 时至下午 6 时，香港公众假期除外）致电公司股份过户登记处的查询热线 (852) 2862 8688查询。</div>
       </div>
       <div class="content_one">
-        <h4><strong>選擇公司通訊之收取方式</strong></h4>
-        <div style="">在公司於
-          <a href="https://cmereye.com/Investor-Relationship" target="_blank">公司網站</a>
-          刊發公司通訊後，如登記股東或非登記股東擬收取相關公司通訊的印刷本，可填寫並向公司股份過戶登記處提交相關申請表格（見下文）（郵寄至香港灣仔皇后大道東183號合和中心
-          17M樓或電郵至cmereye.ecom@computershare.com.hk）。
+        <h4><strong>选择公司通讯之收取方式</strong></h4>
+        <div style="">在公司于
+          <a href="https://cmereye.com/Investor-Relationship" target="_blank">公司网站</a>
+          刊发公司通讯后，如登记股东或非登记股东拟收取相关公司通讯的印刷本，可填写并向公司股份过户登记处提交相关申请表格（见下文）（邮寄至香港湾仔皇后大道东183号合和中心
+          17M楼或电邮至cmereye.ecom@computershare.com.hk）。
         </div>
         <div>
-          登記股東或非登記股東可以在任何時候透過填寫並提交相關申請表格（見下文）向公司股份過戶登記處發出不少於七天的書面通知（郵寄至上述地址或電郵至cmereye.ecom@computershare.com.hk），更改選取公司通訊之收取方式。相關更改要求適用於公司下一次及日後刊發的公司通訊。
+          登记股东或非登记股东可以在任何时候透过填写并提交相关申请表格（见下文）向公司股份过户登记处发出不少于七天的书面通知（邮寄至上述地址或电邮至cmereye.ecom@computershare.com.hk），更改选取公司通讯之收取方式。相关更改要求适用于公司下一次及日后刊发的公司通讯。
         </div>
-        <div>如股東要求收取公司刊發日後公司通訊之印刷本（詳情見上文「有關公司通訊的要求」），有關要求將一直維持有效，直至該指示被撤銷或取代，或直至自收到指示日期起一年屆滿後（以較早者為準）。</div>
-        <div>股東可填寫並向公司股份過戶登記處提交相關申請回條（見下文） （郵寄至上述地址或電郵至cmereye.ecom@computershare.com.hk）。</div>
+        <div>如股东要求收取公司刊发日后公司通讯之印刷本（详情见上文「有关公司通讯的要求」），有关要求将一直维持有效，直至该指示被撤销或取代，或直至自收到指示日期起一年届满后（以较早者为准）。</div>
+        <div>股东可填写并向公司股份过户登记处提交相关申请回条（见下文） （邮寄至上述地址或电邮至cmereye.ecom@computershare.com.hk）。</div>
       </div>
       <div class="content_three">
-        <div>供登記股東和非登記股東用作更改選取公司通訊之收取方式及/或要求印刷本的回條可在以下下載：</div>
+        <div>供登记股东和非登记股东用作更改选取公司通讯之收取方式及/或要求印刷本的回条可在以下下载：</div>
         <div class="a_link_last_div">
           <a href="https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0129/2024012900355.pdf"
-            target="_blank">- 致非登記股東之通知信函 - 以電子方式發佈公司通訊之安排及回條</a>
+            target="_blank">- 致非登记股东之通知信函 - 以电子方式发布公司通讯之安排及回条</a>
         </div>
         <div class="a_link_last_div">
           <a href="https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0129/2024012900367.pdf"
-            target="_blank">- 致登記股東之通知信函 - 以電子方式發佈公司通訊之安排及回條</a>
+            target="_blank">- 致登记股东之通知信函 - 以电子方式发布公司通讯之安排及回条</a>
         </div>
       </div>
     </div>
@@ -107,7 +107,22 @@ export default {
     Header,
     Footer
   },
-  name: 'Communication-and-message',
+  name: "Announcements-and-circulars",
+  head: {
+    title: "公告及通函",
+    meta: [
+      { charset: "utf-8" },
+      { name: "viewport", content: "width=device-width, initial-scale=1" },
+      {
+        name: "description",
+        content: "希玛眼科医疗控股有限公司 ",
+      },
+      {
+        name: "keywords",
+        content: "公告 通函 公告及通函",
+      },
+    ],
+  },
   data() {
     return {
 
@@ -214,8 +229,18 @@ export default {
     padding-left: 24px;
   }
 }
-
 @media screen and (max-width: 767px) {
+  * {
+    color: #034a6e;
+  }
+  .banner_about {
+    height: 60vh;
+    background-size: auto 100%;
+  }
+  .banner_Release {
+    background-image: url(https://static.cmereye.com/imgs/2023/01/393b20d78a533ad1.jpg);
+  }
+
 
   .parent {
     width: 80%;
@@ -223,6 +248,88 @@ export default {
     margin: auto;
     margin-top: 60px;
   }
+  table {
+    width: 100%;
+    /* 设置表格宽度为100% */
+    border-collapse: collapse;
+    /* 合并单元格边框 */
+  }
 
+  th,
+  td {
+    border: 1px solid black;
+    /* 设置单元格边框为1像素的黑色实线 */
+    padding: 8px;
+    /* 设置单元格内边距 */
+    text-align: left;
+    /* 设置文本左对齐 */
+  }
+  tr > th:nth-child(1) {
+    width: 70px;
+  }
+  .parent > div {
+    margin-bottom: 40px;
+  }
+
+  .a_link a {
+    color: #0174cc;
+  }
+
+  .a_link_last_div a {
+    color: #0038f9;
+  }
+
+
+  ul {
+    list-style: disc;
+    padding-left: 20px;
+  }
+
+  .title_one>h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .content_one h4 {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+
+  .content_one {
+    font-size: 14px;
+  }
+
+  .content_one>div {
+    margin-bottom: 10px;
+    line-height: 200%;
+  }
+
+
+  .content_two h4 {
+    margin-bottom: 30px;
+    font-size: 16px;
+  }
+
+  .content_two {
+    font-size: 12px;
+  }
+
+  .content_two>div {
+    margin-bottom: 10px;
+    line-height: 140%;
+  }
+
+  .content_two>ul>li {
+    margin-bottom: 10px;
+    line-height: 140%;
+    font-size: 14px;
+  }
+
+  .content_three>div {
+    margin-bottom: 10px;
+  }
+
+  .content_three>div:nth-child(1) {
+    margin-bottom: 10px;
+  }
 }
 </style>

@@ -373,7 +373,7 @@
   </div>
 </template>
 
-<style scoped>
+<style>
 .tablehead {
   padding: 15px 30px;
   background: #51a8dd;

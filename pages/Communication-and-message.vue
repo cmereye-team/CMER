@@ -108,9 +108,23 @@ export default {
     Header,
     Footer,
   },
+  head: {
+    title: "公告及通函",
+    meta: [
+      { charset: "utf-8" },
+      { name: "viewport", content: "width=device-width, initial-scale=1" },
+      {
+        name: "description",
+        content: "希瑪眼科醫療控股有限公司 ",
+      },
+      {
+        name: "keywords",
+        content: "公告 通函 公告及通函",
+      },
+    ],
+  },
   data() {
     return {
-
     };
   },
   methods: {}
@@ -216,6 +230,9 @@ export default {
 }
 
 @media screen and (max-width: 767px) {
+  * {
+    color: #034a6e;
+  }
   .banner_about {
     height: 60vh;
     background-size: auto 100%;
@@ -231,7 +248,89 @@ export default {
     margin: auto;
     margin-top: 60px;
   }
+  table {
+    width: 100%;
+    /* 设置表格宽度为100% */
+    border-collapse: collapse;
+    /* 合并单元格边框 */
+  }
 
+  th,
+  td {
+    border: 1px solid black;
+    /* 设置单元格边框为1像素的黑色实线 */
+    padding: 8px;
+    /* 设置单元格内边距 */
+    text-align: left;
+    /* 设置文本左对齐 */
+  }
+  tr > th:nth-child(1) {
+    width: 70px;
+  }
+  .parent > div {
+    margin-bottom: 40px;
+  }
+
+  .a_link a {
+    color: #0174cc;
+  }
+
+  .a_link_last_div a {
+    color: #0038f9;
+  }
+
+
+  ul {
+    list-style: disc;
+    padding-left: 20px;
+  }
+
+  .title_one>h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .content_one h4 {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+
+  .content_one {
+    font-size: 14px;
+  }
+
+  .content_one>div {
+    margin-bottom: 10px;
+    line-height: 200%;
+  }
+
+
+  .content_two h4 {
+    margin-bottom: 30px;
+    font-size: 16px;
+  }
+
+  .content_two {
+    font-size: 12px;
+  }
+
+  .content_two>div {
+    margin-bottom: 10px;
+    line-height: 140%;
+  }
+
+  .content_two>ul>li {
+    margin-bottom: 10px;
+    line-height: 140%;
+    font-size: 14px;
+  }
+
+  .content_three>div {
+    margin-bottom: 10px;
+  }
+
+  .content_three>div:nth-child(1) {
+    margin-bottom: 10px;
+  }
 }
 </style>
 

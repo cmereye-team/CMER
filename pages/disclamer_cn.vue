@@ -26,7 +26,7 @@
    
 </template>
 
-<style scoped>
+<style>
 
 @media screen and (min-width:992px){
 

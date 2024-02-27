@@ -4,23 +4,15 @@
       <Header />
     </template>
 
-    <div
-      class="banner_about banner_about_template banner_about_social tanslate_yin"
-    >
+    <div class="banner_about banner_about_template banner_about_social tanslate_yin">
       <div class="banner_text xs_banner_en_text">
         <p>Social Responsibility</p>
       </div>
     </div>
 
     <div class="part_content_bg tanslate_yin social_en_left">
-      <b-container
-        fluid="md"
-        class="content part_content part_content_about_template text-justify"
-      >
-        <div
-          class="app_info xs_en_part_line1-6"
-          v-html="AboutData.content.rendered"
-        ></div>
+      <b-container fluid="md" class="content part_content part_content_about_template text-justify">
+        <div class="app_info xs_en_part_line1-6" v-html="AboutData.content.rendered"></div>
       </b-container>
     </div>
 
@@ -29,13 +21,15 @@
     </template>
   </div>
 </template>
-<style scoped>
+<style>
 .banner_about_social {
   background-image: url(https://static.cmereye.com/imgs/2023/01/910888e1aff0c85e.jpg) !important;
 }
+
 .part_content_about_template li p {
   display: inline;
 }
+
 .part_content_about_template h2 {
   letter-spacing: 5px;
 }
@@ -44,6 +38,7 @@
   .social-1-lette {
     letter-spacing: 0.1em !important;
   }
+
   .language_box .dropdown a {
     padding: 0.5rem 1rem;
     color: #ffffff;
@@ -53,6 +48,7 @@
     align-items: center;
     letter-spacing: 0.1em;
   }
+
   .language_box .dropdown a:hover,
   .language_box .dropdown a:focus {
     background: #ffffff;
@@ -64,6 +60,7 @@
   .part_content_about_template .xs-letter-initial {
     letter-spacing: initial !important;
   }
+
   .social_en_left .part_content_about_template p {
     text-align: left;
   }

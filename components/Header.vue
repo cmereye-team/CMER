@@ -199,7 +199,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 .bg-white {
   background-color: rgba(255, 255, 255, 0.75) !important;
 }

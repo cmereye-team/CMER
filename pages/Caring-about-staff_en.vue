@@ -25,7 +25,7 @@
     </template>
   </div>
 </template>
-<style scoped>
+<style>
 .banner_about_template {
   background-image: url(https://static.cmereye.com/imgs/2023/01/52312c05d7f437ac.jpg);
 }

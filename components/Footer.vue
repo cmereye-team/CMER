@@ -110,7 +110,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 .zh_an body,
 .zh_an tr,
 .zh_an td,
