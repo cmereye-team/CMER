@@ -13,12 +13,9 @@
     <div class="part_content_bg">
       <b-container fluid="md" class="content part_content part_content_report">
         <b-row>
-          <b-col md="6"
-          ><div class="part_governance flex justify-between"></div>
-            <a
-              target="_blank"
-              href="https://admin.cmereye.com/wp-content/uploads/2022/06/20220601cn.pdf"
-            >
+          <b-col md="6">
+            <div class="part_governance flex justify-between"></div>
+            <a target="_blank" href="https://admin.cmereye.com/wp-content/uploads/2022/06/20220601cn.pdf">
               <div class="book">
                 <div class="back"></div>
                 <div class="page6">
@@ -46,65 +43,15 @@
             </a>
             <div class="desc flex justify-between flex-col">
               <h2>2022</h2>
-              <a
-                class="more text-right"
-                target="_blank"
-                href="https://admin.cmereye.com/wp-content/uploads/2023/04/20230420013331.pdf"
-              >VIEW NOW</a
-              >
+              <a class="more text-right" target="_blank"
+                href="https://admin.cmereye.com/wp-content/uploads/2023/04/20230420013331.pdf">VIEW NOW</a>
             </div>
-          </div></b-col
-          >
-<!--          <b-col md="6"-->
-<!--          ><div class="part_governance flex justify-between">-->
-<!--            <a-->
-<!--              target="_blank"-->
-<!--              href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309%20ESG20.pdf"-->
-<!--            >-->
-<!--              <div class="book">-->
-<!--                <div class="back"></div>-->
-<!--                <div class="page6">-->
-<!--                  <img src="/pic/book2.jpg" alt="" srcset="" />-->
-<!--                </div>-->
-<!--                <div class="page5">-->
-<!--                  <img src="/pic/book3.jpg" alt="" srcset="" />-->
-<!--                </div>-->
-<!--                <div class="page4">-->
-<!--                  <img src="/pic/book3.jpg" alt="" srcset="" />-->
-<!--                </div>-->
-<!--                <div class="page3">-->
-<!--                  <img src="/pic/book2.jpg" alt="" srcset="" />-->
-<!--                </div>-->
-<!--                <div class="page2">-->
-<!--                  <img src="/pic/book2.jpg" alt="" srcset="" />-->
-<!--                </div>-->
-<!--                <div class="page1">-->
-<!--                  <img src="/pic/book3.jpg" alt="" srcset="" />-->
-<!--                </div>-->
-<!--                <div class="front">-->
-<!--                  <img src="/pic/book18.jpg" alt="" srcset="" />-->
-<!--                </div>-->
-<!--              </div>-->
-<!--            </a>-->
-<!--            <div class="desc flex justify-between flex-col">-->
-<!--              <h2>2020</h2>-->
-<!--              <a-->
-<!--                class="more text-right"-->
-<!--                target="_blank"-->
-<!--                href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309%20ESG20.pdf"-->
-<!--              >VIEW NOW</a-->
-<!--              >-->
-<!--            </div>-->
-<!--          </div></b-col-->
-<!--          >-->
+          </b-col>
         </b-row>
         <b-row class="mt-40">
-          <b-col md="6"
-            ><div class="part_governance flex justify-between">
-              <a
-                target="_blank"
-                href="https://admin.cmereye.com/wp-content/uploads/2022/06/20220601cn.pdf"
-              >
+          <b-col md="6">
+            <div class="part_governance flex justify-between">
+              <a target="_blank" href="https://admin.cmereye.com/wp-content/uploads/2022/06/20220601cn.pdf">
                 <div class="book">
                   <div class="back"></div>
                   <div class="page6">
@@ -132,21 +79,15 @@
               </a>
               <div class="desc flex justify-between flex-col">
                 <h2>2021</h2>
-                <a
-                  class="more text-right"
-                  target="_blank"
-                  href="https://admin.cmereye.com/wp-content/uploads/2022/06/20220601cn.pdf"
-                  >VIEW NOW</a
-                >
+                <a class="more text-right" target="_blank"
+                  href="https://admin.cmereye.com/wp-content/uploads/2022/06/20220601cn.pdf">VIEW NOW</a>
               </div>
-            </div></b-col
-          >
-          <b-col md="6"
-            ><div class="part_governance flex justify-between">
-              <a
-                target="_blank"
-                href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309%20ESG20.pdf"
-              >
+            </div>
+          </b-col>
+          <b-col md="6">
+            <div class="part_governance flex justify-between">
+              <a target="_blank"
+                href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309%20ESG20.pdf">
                 <div class="book">
                   <div class="back"></div>
                   <div class="page6">
@@ -174,23 +115,18 @@
               </a>
               <div class="desc flex justify-between flex-col">
                 <h2>2020</h2>
-                <a
-                  class="more text-right"
-                  target="_blank"
-                  href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309%20ESG20.pdf"
-                  >VIEW NOW</a
-                >
+                <a class="more text-right" target="_blank"
+                  href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/EW03309%20ESG20.pdf">VIEW
+                  NOW</a>
               </div>
-            </div></b-col
-          >
+            </div>
+          </b-col>
         </b-row>
         <b-row class="mt-40">
-          <b-col md="6"
-            ><div class="part_governance flex justify-between">
-              <a
-                target="_blank"
-                href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020062300660_c.pdf"
-              >
+          <b-col md="6">
+            <div class="part_governance flex justify-between">
+              <a target="_blank"
+                href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020062300660_c.pdf">
                 <div class="book">
                   <div class="back"></div>
                   <div class="page6">
@@ -218,21 +154,16 @@
               </a>
               <div class="desc flex justify-between flex-col">
                 <h2>2019</h2>
-                <a
-                  class="more text-right"
-                  target="_blank"
-                  href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020062300660_c.pdf"
-                  >VIEW NOW</a
-                >
+                <a class="more text-right" target="_blank"
+                  href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020062300660_c.pdf">VIEW
+                  NOW</a>
               </div>
-            </div></b-col
-          >
-          <b-col md="6"
-            ><div class="part_governance flex justify-between">
-              <a
-                target="_blank"
-                href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/ltn20190723548.pdf"
-              >
+            </div>
+          </b-col>
+          <b-col md="6">
+            <div class="part_governance flex justify-between">
+              <a target="_blank"
+                href="http://us.cmereye.com/themes/grouptemplate_en-us/Public/assets/pdf/ltn20190723548.pdf">
                 <div class="book">
                   <div class="back"></div>
                   <div class="page6">
@@ -260,15 +191,12 @@
               </a>
               <div class="desc flex justify-between flex-col">
                 <h2>2018</h2>
-                <a
-                  class="more text-right"
-                  target="_blank"
-                  href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/ltn20190723549_c.pdf"
-                  >VIEW NOW</a
-                >
+                <a class="more text-right" target="_blank"
+                  href="https://admin.cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/ltn20190723549_c.pdf">VIEW
+                  NOW</a>
               </div>
-            </div></b-col
-          >
+            </div>
+          </b-col>
         </b-row>
       </b-container>
     </div>
@@ -286,13 +214,13 @@ import axios from "axios";
 export default {
   components: { Header, Footer },
   /*  async asyncData({ app, req, query, params,store}){
-		  const  aboutData = await axios.get(`https://admin.cmereye.com/wp-json/wp/v2/pages/2`);
+      const  aboutData = await axios.get(`https://admin.cmereye.com/wp-json/wp/v2/pages/2`);
       console.log( aboutData.data);
-		  return {
-		    AboutData: aboutData.data,
-		  };
+      return {
+        AboutData: aboutData.data,
+      };
 
-	},  */
+  },  */
   name: "Report-governance",
   data() {
     return {
@@ -434,24 +362,29 @@ export default {
 .banner_governance {
   background-image: url(https://static.cmereye.com/imgs/2023/01/303668741478f4aa.jpg);
 }
+
 .part_content_report p {
   color: #005caf;
   line-height: 2;
   letter-spacing: 0.1em;
   margin-bottom: 60px;
 }
+
 .desc {
   width: 65%;
   padding-left: 10%;
 }
+
 .desc h2 {
   font-size: 30px;
   font-weight: bold;
   line-height: 36px;
   letter-spacing: 0.2em;
-  text-transform: uppercase; /* 群青 */
+  text-transform: uppercase;
+  /* 群青 */
   color: #51a8dd;
 }
+
 .desc .more {
   color: #005caf;
   letter-spacing: 0.5em;
@@ -464,6 +397,7 @@ export default {
   border-bottom: 2px solid;
   position: relative;
 }
+
 .desc .more::after {
   position: absolute;
   content: "";
@@ -488,6 +422,7 @@ export default {
   backface-visibility: visible;
   z-index: 999;
 }
+
 .book::after {
   position: absolute;
   content: "";
@@ -498,16 +433,20 @@ export default {
   right: -10px;
   bottom: -10px;
 }
+
 .book .front {
   position: relative;
 }
+
 .book .front img {
   display: block;
 }
+
 .row .book {
   width: auto;
   height: auto;
 }
+
 .row .book .front {
   position: relative;
 }
@@ -530,61 +469,77 @@ export default {
   transition: transform 0.5s ease-in-out, box-shadow 0.35s ease-in-out;
   z-index: 999;
 }
+
 .front,
 .back {
   background: rgb(90, 185, 234);
   overflow: hidden;
 }
+
 .front img,
 .back img {
   object-fit: cover;
 }
+
 .page1 {
   background: #efefef;
 }
+
 .page2 {
   background: #efefef;
 }
+
 .page3 {
   background: #f5f5f5;
 }
+
 .page4 {
   background: #f5f5f5;
 }
+
 .page5 {
   background: #fafafa;
 }
+
 .page6 {
   background: #fdfdfd;
 }
+
 .book:hover .front {
   transform: rotateY(-160deg) scale(1.1);
   box-shadow: 0 1em 3em 0 rgba(0, 0, 0, 0.2);
 }
+
 .book:hover .page1 {
   transform: rotateY(-150deg) scale(1.1);
   box-shadow: 0 1em 3em 0 rgba(0, 0, 0, 0.2);
 }
+
 .book:hover .page2 {
   transform: rotateY(-30deg) scale(1.1);
   box-shadow: 0 1em 3em 0 rgba(0, 0, 0, 0.2);
 }
+
 .book:hover .page3 {
   transform: rotateY(-140deg) scale(1.1);
   box-shadow: 0 1em 3em 0 rgba(0, 0, 0, 0.2);
 }
+
 .book:hover .page4 {
   transform: rotateY(-40deg) scale(1.1);
   box-shadow: 0 1em 3em 0 rgba(0, 0, 0, 0.2);
 }
+
 .book:hover .page5 {
   transform: rotateY(-130deg) scale(1.1);
   box-shadow: 0 1em 3em 0 rgba(0, 0, 0, 0.2);
 }
+
 .book:hover .page6 {
   transform: rotateY(-50deg) scale(1.1);
   box-shadow: 0 1em 3em 0 rgba(0, 0, 0, 0.2);
 }
+
 .book:hover .back {
   transform: rotateY(-20deg) scale(1.1);
 }
@@ -603,6 +558,7 @@ export default {
     align-items: center;
     letter-spacing: 0.1em;
   }
+
   .language_box .dropdown a:hover,
   .language_box .dropdown a:focus {
     background: #ffffff;
@@ -611,18 +567,22 @@ export default {
 }
 
 @media screen and (max-width: 768px) {
-  .part_governance > a {
+  .part_governance>a {
     max-width: 46%;
   }
+
   .part_governance .desc .more {
     font-size: 12px;
   }
+
   .part_content_report .row.mt-40 {
     margin-top: 40px !important;
   }
-  .part_content_report .row > div {
+
+  .part_content_report .row>div {
     margin-bottom: 40px;
   }
+
   .part_content_report .desc h2 {
     font-size: 24px;
   }

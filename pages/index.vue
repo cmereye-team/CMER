@@ -19,62 +19,52 @@
           <img src="/pic/index_part1.jpg" alt="" />
           <div class="text_right">
             <div class="max_width max_en_width"></div>
-              <div class="title text-center">
-                <p>關於希瑪</p>
-              </div>
-              <p class="text_info">
-                希瑪由林順潮醫生於2012年創立，是香港和大灣區領先的連鎖眼科醫療集團，並於2018年成功在香港聯合交易所主板上市。自2021年開始，希瑪憑藉其超著聲譽及規模效益，將集團業務逐步擴展至包括牙科、整型外科／醫學美容、家庭醫學和腫瘤科等多個專科服務。本集團現時於香港、深圳和廣州等大灣區多個城市、北京和上海等地合共有70家醫療機構，秉承「以病人為中心」的理念，致力提供專業優質、便捷和價格合理的醫療服務。
-              </p>
+            <div class="title text-center">
+              <p>關於希瑪</p>
             </div>
+            <p class="text_info">
+              希瑪由林順潮醫生於2012年創立，是香港和大灣區領先的連鎖眼科醫療集團，並於2018年成功在香港聯合交易所主板上市。自2021年開始，希瑪憑藉其超著聲譽及規模效益，將集團業務逐步擴展至包括牙科、整型外科／醫學美容、家庭醫學和腫瘤科等多個專科服務。本集團現時於香港、深圳和廣州等大灣區多個城市、北京和上海等地合共有70家醫療機構，秉承「以病人為中心」的理念，致力提供專業優質、便捷和價格合理的醫療服務。
+            </p>
           </div>
         </div>
       </div>
-
-      <!-- parttwo  -->
-      <div class="part parttwo">
-        <!-- <div class="fang"></div> -->
-        <div class="cricle"></div>
-        <div class="title text-center">
-          <h4>OUR Features</h4>
-          <p>我們的特點</p>
-          <p class="fixed_text">Features</p>
-        </div>
-        <div class="container">
-          <div class="flex flex-wrap justify-center">
-            <div
-              class="index_card"
-              v-for="(item, idx) in index_card"
-              :key="idx"
-            >
-              <div class="flex items-center justify-center">
-                <img :src="item.pic" alt="" />
-                <p class="text-gray-500">{{ item.title }}</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- parttwo end -->
-      <!-- partthree -->
-      <div class="part partthree">
-        <div class="fang"></div>
-        <b-container fluid="md" class="brand_box flex items-center flex-wrap">
-          <b-row class="w-full justify-between">
-            <b-col
-              class="brand_card"
-              v-for="(item, idx) in foot_logo"
-              :key="idx"
-              :class="idx > 6 ? 'mt-5' : idx < 4 ? 'mt-20' : 'mt-10'"
-            >
-              <a :href="item.link" target="_blank" rel="noopener noreferrer">
-                <img class="mx-auto" :src="item.pic" alt="" srcset=""
-              /></a>
-            </b-col>
-          </b-row>
-        </b-container>
-      </div>
-      <!-- partthree end -->
     </div>
+
+    <!-- parttwo  -->
+    <div class="part parttwo">
+      <!-- <div class="fang"></div> -->
+      <div class="cricle"></div>
+      <div class="title text-center">
+        <h4>OUR Features</h4>
+        <p>我們的特點</p>
+        <p class="fixed_text">Features</p>
+      </div>
+      <div class="container">
+        <div class="flex flex-wrap justify-center">
+          <div class="index_card" v-for="(item, idx) in index_card" :key="idx">
+            <div class="flex items-center justify-center">
+              <img :src="item.pic" alt="" />
+              <p class="text-gray-500">{{ item.title }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- parttwo end -->
+    <!-- partthree -->
+    <div class="part partthree">
+      <div class="fang"></div>
+      <b-container fluid="md" class="brand_box flex items-center flex-wrap">
+        <b-row class="w-full justify-between">
+          <b-col class="brand_card" v-for="(item, idx) in foot_logo" :key="idx"
+            :class="idx > 6 ? 'mt-5' : idx < 4 ? 'mt-20' : 'mt-10'">
+            <a :href="item.link" target="_blank" rel="noopener noreferrer">
+              <img class="mx-auto" :src="item.pic" alt="" srcset="" /></a>
+          </b-col>
+        </b-row>
+      </b-container>
+    </div>
+    <!-- partthree end -->
     <Footer />
   </div>
 </template>
@@ -190,6 +180,7 @@ h5,
 h6 {
   font-family: "Noto Sans CJK TC", serif;
 }
+
 .title h4,
 .title p {
   font-size: 24px;
@@ -198,14 +189,17 @@ h6 {
   line-height: 40px;
   letter-spacing: 0.5em;
 }
+
 .title h4 {
   text-transform: uppercase;
   font-family: "Noto Sans CJK TC", serif;
   font-weight: 700;
 }
+
 .title p {
   font-weight: normal;
 }
+
 .title p.fixed_text {
   font-weight: bold;
   font-size: 100px;
@@ -217,10 +211,12 @@ h6 {
   opacity: 0.5;
   text-align: center;
 }
+
 .title.title_blue h4,
 .title.title_blue p {
   color: #51a8dd;
 }
+
 .title.title_blue p.fixed_text {
   color: #c4c4c4;
   opacity: 0.1;
@@ -233,16 +229,19 @@ h6 {
   background-size: cover;
   background-position: bottom right;
 }
+
 .banner_bar {
   background: linear-gradient(110.25deg, #85cefa 5.86%, #51a8dd 100%);
   height: 15px;
   width: 100%;
 }
+
 .banner_text_index {
   position: absolute;
   right: 6vw;
   bottom: 20px;
 }
+
 .banner_text_index h1 {
   font-family: "Roboto" !important;
   font-style: normal;
@@ -253,16 +252,19 @@ h6 {
   color: #ffffff;
   text-shadow: 0px 5.33333px 5.33333px rgba(0, 0, 0, 0.25);
 }
+
 .banner_text_index p:nth-child(3) {
   font-family: "Avenir" !important;
   font-style: normal;
   font-weight: 350;
   font-size: 57.3333px;
-  line-height: 10px; /* 瑠璃 */
+  line-height: 10px;
+  /* 瑠璃 */
   color: #005caf;
   display: inline-block;
   vertical-align: super;
 }
+
 .banner_text_index p:nth-child(4) {
   font-family: "Avenir" !important;
   font-style: normal;
@@ -277,12 +279,15 @@ h6 {
   max-width: 1920px;
   margin: auto;
 }
+
 .partone .flex img {
   width: 48%;
 }
+
 .partone .flex {
   position: relative;
 }
+
 .partone .flex::after {
   position: absolute;
   content: "";
@@ -294,28 +299,30 @@ h6 {
   height: 21vw;
   max-width: 395px;
   max-height: 395px;
-  background: conic-gradient(
-    from 133.66deg at 52.34% 54.52%,
-    #51a8dd 0deg,
-    #54aade 9deg,
-    #85cefa 173.77deg,
-    #51a8dd 360deg
-  );
+  background: conic-gradient(from 133.66deg at 52.34% 54.52%,
+      #51a8dd 0deg,
+      #54aade 9deg,
+      #85cefa 173.77deg,
+      #51a8dd 360deg);
   opacity: 0.2;
   border-radius: 50%;
   z-index: -1;
 }
+
 .partone .text_right {
   padding: 120px 100px 100px;
   background: linear-gradient(110.25deg, #85cefa 5.86%, #51a8dd 100%);
   width: 52%;
 }
+
 .partone .text_right .max_width {
   max-width: 100%;
 }
+
 .partone .text_right .max_en_width {
   max-width: 100% !important;
 }
+
 .partone .text_right h4,
 .partone .text_right .title p {
   font-size: 24px;
@@ -324,6 +331,7 @@ h6 {
   line-height: 40px;
   letter-spacing: 0.5em;
 }
+
 .partone .text_right .text_info {
   font-size: 18px;
   line-height: 200%;
@@ -333,6 +341,7 @@ h6 {
   padding-top: 40px;
   position: relative;
 }
+
 .partone .text_right .text_info::before {
   position: absolute;
   top: -38px;
@@ -354,6 +363,7 @@ h6 {
   margin-top: 0;
   padding-top: 0;
 }
+
 .part_vision .tracking-widest {
   margin-top: -40px;
 }
@@ -364,14 +374,17 @@ h6 {
   width: 100%;
   overflow: hidden;
 }
+
 .parttwo .title h4,
 .parttwo .title p {
   color: #005caf;
 }
+
 .parttwo .title .fixed_text {
   color: #ffffff;
   line-height: 0.8;
 }
+
 .parttwo .flex .index_card {
   width: 17.6vw;
   height: 17.6vw;
@@ -383,6 +396,7 @@ h6 {
   position: relative;
   overflow: hidden;
 }
+
 .parttwo .flex .index_card .flex {
   width: 100%;
   height: 100%;
@@ -390,9 +404,11 @@ h6 {
   flex-flow: column;
   justify-content: space-evenly;
 }
+
 .parttwo .flex .index_card .flex p {
   font-size: 20px;
 }
+
 .parttwo .flex .index_card::before {
   position: absolute;
   font-family: fantasy;
@@ -403,34 +419,41 @@ h6 {
   opacity: 0.2;
   line-height: 1;
 }
+
 .parttwo .flex .index_card:nth-child(1)::before {
   content: "70";
   top: 0;
   left: 3px;
 }
+
 .parttwo .flex .index_card:nth-child(2)::before {
   content: "11";
   bottom: 0;
   left: -14px;
 }
+
 .parttwo .flex .index_card:nth-child(3)::before {
   content: "11";
   top: 0;
   right: -14px;
 }
+
 .parttwo .flex .index_card:nth-child(4)::before {
   content: "1000";
   bottom: 70px;
   font-size: 8vw;
 }
-.parttwo .container > .flex.flex-wrap {
+
+.parttwo .container>.flex.flex-wrap {
   max-width: 54vw;
   margin: auto;
 }
+
 .parttwo .flex .index_card:hover {
   box-shadow: 7px 7px 0 #5ab9ea;
   transform: translate(-7px, -7px);
 }
+
 .fang {
   position: absolute;
   content: "";
@@ -446,11 +469,13 @@ h6 {
   opacity: 0.3;
   transition: all 0.3s ease-in;
 }
+
 .fang:hover {
   transform: rotate(90deg);
   border-radius: 50%;
   border-color: #005caf;
 }
+
 .parttwo .cricle {
   position: absolute;
   content: "";
@@ -465,6 +490,7 @@ h6 {
   transition: all 0.3s ease-in;
   border-radius: 50%;
 }
+
 .parttwo .cricle:hover {
   transform: rotate(135deg);
   border-radius: 0%;
@@ -476,19 +502,23 @@ h6 {
   width: 100%;
   overflow: hidden;
 }
+
 .index .brand_box .row {
   align-items: center;
 }
+
 .index .brand_box .brand_card {
   flex-basis: unset;
   width: 27%;
 }
+
 .index .brand_box .brand_card:nth-child(1),
 .index .brand_box .brand_card:nth-child(2),
 .index .brand_box .brand_card:nth-child(3),
 .index .brand_box .brand_card:nth-child(4) {
   width: 25%;
 }
+
 .index .brand_box .brand_card:nth-child(5),
 .index .brand_box .brand_card:nth-child(6),
 .index .brand_box .brand_card:nth-child(7),
@@ -503,21 +533,27 @@ h6 {
 .index .brand_box .brand_card:nth-child(14) {
   width: 24.3%;
 }
+
 .brand_card:nth-child(8) img {
   max-height: unset;
 }
+
 .brand_card:nth-child(9) img {
   margin-right: 37% !important;
 }
+
 .brand_card:nth-child(11) img {
   max-height: 49px;
 }
+
 .brand_card:nth-child(12) img {
   max-height: unset;
 }
+
 .brand_card:nth-child(14) img {
   max-height: unset;
 }
+
 .index .brand_box .brand_card:nth-child(5) img {
   max-height: 50px !important;
 }
@@ -526,9 +562,11 @@ h6 {
   .partone .text_right .title p {
     font-size: 40px;
   }
+
   .parttwo .title p {
     font-size: 40px;
   }
+
   .max_en_width .text_info {
     letter-spacing: 0.1em !important;
     text-align: left !important;
@@ -539,10 +577,12 @@ h6 {
   .partone .flex {
     align-items: normal;
   }
+
   .partone .flex img {
     object-fit: cover;
     width: 40%;
   }
+
   .partone .text_right {
     width: 60%;
   }
@@ -555,70 +595,88 @@ h6 {
     background-size: cover !important;
     position: relative;
   }
+
   .index .banner_bar {
     height: 7px;
   }
+
   .index .banner .banner_text_index {
     position: absolute;
     right: 0;
     bottom: 20px;
     max-width: 45vw;
   }
+
   .index .banner_text_index h1 {
     font-size: 16px;
     letter-spacing: 2px;
   }
+
   .index .banner_text_index p:nth-child(3) {
     font-size: 14px;
     line-height: 30px;
   }
+
   .index .banner_text_index p:nth-child(4) {
     font-size: 15px;
     line-height: 30px;
   }
+
   .index .banner_text_index p {
     margin-bottom: 0 !important;
     line-height: 1 !important;
   }
+
   .index .partone {
     padding-bottom: 0;
     padding-top: 0;
   }
+
   .index .partone .flex {
     display: block;
   }
+
   .index .partone .flex img,
   .partone .text_right {
     width: 100%;
   }
+
   .index .partone .flex img {
     display: none !important;
   }
+
   .index .partone .text_right .text_info::before {
     font-size: 12vw !important;
     top: -10px;
   }
+
   .index .partone .text_right .text_info {
     padding-top: 20px;
   }
+
   .index .partone .text_right h4,
   .partone .text_right .title p {
     font-size: 22px;
   }
+
   .index .partone .text_right {
     padding-left: 30px;
     padding-right: 30px;
   }
+
   .index .part_vision {
     padding-top: 100px;
   }
+
   .index .part_vision .tracking-widest {
     font-size: 14px;
     margin-top: -15px;
   }
+
   .index .part_vision .title p.fixed_text {
     font-size: 12vw;
   }
+
   .index .parttwo .cricle {
     width: 48vw;
     height: 48vw;
@@ -627,27 +685,34 @@ h6 {
     right: -24vw;
     border-width: 15px;
   }
+
   .index .parttwo .title .fixed_text {
     font-size: 10vw;
   }
+
   .index .parttwo .flex .index_card {
     width: 44vw;
     height: 44vw;
   }
-  .index .parttwo .container > .flex.flex-wrap {
+
+  .index .parttwo .container>.flex.flex-wrap {
     max-width: 100vw;
   }
+
   .index .parttwo .flex .index_card::before {
     font-size: 29vw;
   }
+
   .index .parttwo .flex .index_card:nth-child(4)::before {
     font-size: 20vw;
     bottom: 0;
   }
+
   .index .parttwo .flex .index_card .flex img {
     max-width: 60%;
     height: 17vw;
   }
+
   .index .parttwo .flex .index_card .flex p {
     font-size: 16px;
     text-align: center;
@@ -661,9 +726,11 @@ h6 {
     border-width: 30px;
     z-index: 99;
   }
+
   .brand_box .row {
     margin-left: 0;
   }
+
   .brand_box .row .brand_card {
     margin-top: 3rem;
   }

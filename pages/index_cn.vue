@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Header_cn />
+    <HeaderCn />
     <div class="index">
       <div class="banner">
         <div class="banner_text_index">
@@ -73,17 +73,13 @@
         </b-container>
       </div>
       <!-- partthree end -->
-    </div>
-
-    <template>
-      <Footer_cn />
-    </template>
+    <FooterCn />
   </div>
 </template>
 
 <script>
-import Header_cn from "../components/Header_cn.vue";
-import Footer_cn from "../components/Footer_cn.vue";
+import HeaderCn from "../components/Header_cn.vue";
+import FooterCn from "../components/Footer_cn.vue";
 import axios from "axios";
 
 import Vue from "vue";
@@ -100,7 +96,7 @@ const messages = {
 };
 
 export default {
-  components: { Header_cn, Footer_cn },
+  components: { HeaderCn, FooterCn },
   name: "Index",
   data() {
     return {
