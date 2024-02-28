@@ -54,15 +54,20 @@
     <!-- partthree -->
     <div class="part partthree">
       <div class="fang"></div>
-      <b-container fluid="md" class="brand_box flex items-center flex-wrap">
+      <div class="container-md logo_box">
+        <div v-for="(item, idx) in foot_logo" :key="idx">
+          <a :href="item.link" target="_blank" rel="noopener noreferrer">
+            <img :src="item.pic" alt="" srcset="" /></a>
+        </div>
+      </div>
+      <!-- <b-container fluid="md" class="brand_box flex items-center flex-wrap">
         <b-row class="w-full justify-between">
-          <b-col class="brand_card" v-for="(item, idx) in foot_logo" :key="idx"
-            :class="idx > 6 ? 'mt-5' : idx < 4 ? 'mt-20' : 'mt-10'">
+          <b-col v-for="(item, idx) in foot_logo" :key="idx">
             <a :href="item.link" target="_blank" rel="noopener noreferrer">
-              <img class="mx-auto" :src="item.pic" alt="" srcset="" /></a>
+              <img :src="item.pic" alt="" srcset="" /></a>
           </b-col>
         </b-row>
-      </b-container>
+      </b-container> -->
     </div>
     <!-- partthree end -->
     <Footer />
@@ -460,7 +465,7 @@ h6 {
   left: -200px;
   width: 300px;
   height: 300px;
-  bottom: 0;
+  bottom: 140px;
   margin: auto;
   border: 31px solid;
   border-color: #51a8dd;
@@ -558,6 +563,22 @@ h6 {
   max-height: 50px !important;
 }
 
+.logo_box {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  /* 创建4列，每列宽度相等 */
+  grid-auto-rows: auto;
+  /* 自动行高 */
+  grid-gap: 20px 10px;
+  /* 可选：设置网格间隙 */
+}
+
+.logo_box>div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 @media screen and (min-width: 992px) {
   .partone .text_right .title p {
     font-size: 40px;
@@ -589,6 +610,16 @@ h6 {
 }
 
 @media screen and (max-width: 768px) {
+  .parttwo .container>.flex.flex-wrap {
+    max-width: 100%;
+    margin: auto;
+  }
+
+  .index_card {
+    width: 27.6vw;
+    height: 27.6vw;
+  }
+
   .index .banner {
     height: 60vh !important;
     background-position: 71% !important;
@@ -686,11 +717,11 @@ h6 {
     border-width: 15px;
   }
 
-  .index .parttwo .title .fixed_text {
+  .parttwo .title .fixed_text {
     font-size: 10vw;
   }
 
-  .index .parttwo .flex .index_card {
+  .parttwo .flex .index_card {
     width: 44vw;
     height: 44vw;
   }
@@ -699,21 +730,21 @@ h6 {
     max-width: 100vw;
   }
 
-  .index .parttwo .flex .index_card::before {
+  .parttwo .flex .index_card::before {
     font-size: 29vw;
   }
 
-  .index .parttwo .flex .index_card:nth-child(4)::before {
+  .parttwo .flex .index_card:nth-child(4)::before {
     font-size: 20vw;
     bottom: 0;
   }
 
-  .index .parttwo .flex .index_card .flex img {
+  .parttwo .flex .index_card .flex img {
     max-width: 60%;
     height: 17vw;
   }
 
-  .index .parttwo .flex .index_card .flex p {
+  .parttwo .flex .index_card .flex p {
     font-size: 16px;
     text-align: center;
     padding: 0 10px;
@@ -723,8 +754,20 @@ h6 {
     left: -20vw;
     width: 40vw;
     height: 40vw;
+    bottom: 40vw;
     border-width: 30px;
     z-index: 99;
+  }
+
+  .logo_box {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    /* 创建4列，每列宽度相等 */
+    grid-auto-rows: auto;
+    /* 自动行高 */
+    grid-gap: 20px;
+    /* 可选：设置网格间隙 */
+    padding: 30px 20px;
   }
 
   .brand_box .row {
