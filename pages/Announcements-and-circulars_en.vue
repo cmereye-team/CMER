@@ -10,9 +10,9 @@
       </div>
     </div>
     <div class="part_content_bg tanslate_yin">
-      <div class="communication container-md">
+      <!-- <div class="communication container-md">
         <a href="/Communication-and-message_en">Dissemination of Corporate Communications</a>
-      </div>
+      </div> -->
       <b-container fluid="md" class="content part_content part_content_Release">
         <div class="part_Release part_en_announce">
           <div class="flex justify-between items-center">

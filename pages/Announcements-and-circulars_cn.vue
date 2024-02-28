@@ -7,9 +7,9 @@
       </div>
     </div>
     <div class="communication part_content_bg">
-      <div class="container-md">
+      <!-- <div class="container-md">
         <a href="/Communication-and-message_cn">发布企业通讯</a>
-      </div>
+      </div> -->
       <b-container fluid="md" class="content part_content part_content_Release">
         <div class="part_Release part_en_announce">
           <div class="flex justify-between items-center">
