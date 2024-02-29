@@ -163,6 +163,7 @@ export default {
   th,
   td {
     text-align: left;
+    font-weight: 500;
     /* 设置文本左对齐 */
   }
 
@@ -177,7 +178,7 @@ export default {
   }
 
   .content_one {
-    font-size: 20px;
+    font-size: 16px;
   }
 
   .content_one>div {
@@ -279,8 +280,8 @@ export default {
 
   th,
   td {
-    /* 设置单元格内边距 */
     text-align: left;
+    font-weight: 400;
     /* 设置文本左对齐 */
   }
 

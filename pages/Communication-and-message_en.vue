@@ -194,7 +194,7 @@ export default {
   .title_one>h4 {
     margin-bottom: 14px;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 16px;
   }
 
   table {
@@ -207,6 +207,7 @@ export default {
   th,
   td {
     text-align: left;
+    font-weight: 400;
     /* 设置文本左对齐 */
   }
   tr > td:nth-child(1),
@@ -217,23 +218,23 @@ export default {
   .content_one h4 {
     font-weight: 500;
     margin-bottom: 14px;
-    font-size: 20px;
+    font-size: 16px;
   }
   .content_one > h4 {
-    font-size: 20px;
+    font-size: 16px;
   }
 
   .content_one>div {
-    margin-bottom: 20px;
+    margin-bottom: 14px;
     line-height: 1.8;
     text-align: justify;
   }
 
 
   .content_two h4 {
-    margin-bottom: 30px;
+    margin-bottom: 14px;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 16px;
   }
 
   .content_two>div {
@@ -317,6 +318,7 @@ export default {
   td {
     padding:  5px 0;
     text-align: left;
+    font-weight: 400;
     /* 设置文本左对齐 */
   }
 
@@ -360,7 +362,7 @@ export default {
 
   .content_one {
     margin-top: 25px;
-    font-size: 14px;
+    font-size: 16px;
   }
 
   .content_one>div {
@@ -376,7 +378,7 @@ export default {
   }
 
   .content_two {
-    font-size: 12px;
+    font-size: 16px;
   }
 
   .content_two>div {

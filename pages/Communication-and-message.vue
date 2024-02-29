@@ -1,6 +1,6 @@
 <template>
   <div class="theme-blue">
-    <Header />
+    <HeaderBox />
     <div class="banner_about banner_Release">
       <div class="banner_text">
         <p>發佈企業通訊</p>
@@ -96,17 +96,17 @@
         </div>
       </div>
     </div>
-    <Footer />
+    <FooterBox />
   </div>
 </template>
 <script>
-import Header from "../components/header.vue";
-import Footer from "../components/Footer.vue";
+import HeaderBox from "../components/Header.vue"; 
+import FooterBox from "../components/Footer.vue";
 export default {
   name: 'Communication-and-message',
   components: {
-    Header,
-    Footer,
+    HeaderBox,
+    FooterBox,
   },
   head: {
     title: "公告及通函",
@@ -162,6 +162,7 @@ export default {
   th,
   td {
     text-align: left;
+    font-weight: 500;
     /* 设置文本左对齐 */
   }
 
@@ -176,7 +177,7 @@ export default {
   }
 
   .content_one {
-    font-size: 20px;
+    font-size: 16px;
   }
 
   .content_one>div {
@@ -278,8 +279,8 @@ export default {
 
   th,
   td {
-    /* 设置单元格内边距 */
     text-align: left;
+    font-weight: 400;
     /* 设置文本左对齐 */
   }
 
