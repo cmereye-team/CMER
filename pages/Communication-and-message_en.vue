@@ -33,22 +33,22 @@
           document, a circular and a proxy form.</div>
         <div class="a_link">The English and Chinese versions of all the Company Corporate Communications are available on
           the
-          <a href="https://cmereye.com/Investor-Relationship" target="_blank">website of the Company</a>
+          <a href="https://cmereye.com/Investor-Relationship_en" target="_blank">website of the Company</a>
           and the
-          <a href="https://www.hkexnews.hk/index_c.htm" target="_blank">HKEXnews website.</a>
+          <a href="https://www.hkexnews.hk/index.htm" target="_blank">HKEXnews website.</a>
           Shareholders and investors who would like to be notified when the Company publishes its Corporate Communications
           on the
-          <a href="https://www.hkexnews.hk/index_c.htm" target="_blank">HKEXnews website</a>
+          <a href="https://www.hkexnews.hk/index.htm" target="_blank">HKEXnews website</a>
           can register for the News Alerts service in the Market Data section of the
-          <a href="https://www.hkex.com.hk/chi/invest/user/login_c.aspx" target="_blank">HKEX Market website.</a>
+          <a href="https://www.hkex.com.hk/eng/invest/user/login_e.aspx" target="_blank">HKEX Market website.</a>
         </div>
         <div class="a_link">Pursuant to the
-          <a href="https://www.hkex.com.hk/Listing/Rules-and-Guidance/Listing-Rules?sc_lang=zh-HK" target="_blank">Rules
+          <a href="https://www.hkex.com.hk/Listing/Rules-and-Guidance/Listing-Rules?sc_lang=en" target="_blank">Rules
             Governing the Listing of Securities on The Stock Exchange of Hong Kong Limited,</a>
           the <a href="https://www.elegislation.gov.hk/" target="_blank">Hong Kong Companies Ordinance</a>
           and the Company’s Articles of Association, the Company supplies Corporate Communications (other than Actionable
           Corporate Communication) to shareholders by electronic means through the website of the Company and the
-          <a href="https://www.hkexnews.hk/index_c.htm" target="_blank">HKEXnews website</a>
+          <a href="https://www.hkexnews.hk/index.htm" target="_blank">HKEXnews website</a>
           (“Electronic Version”).
         </div>
         <div>
@@ -92,7 +92,7 @@
       </div>
       <div class="content_two">
         <h4 class="a_link">Upon posting of Corporate Communication(s) on the <a
-            href="https://cmereye.com/Investor-Relationship" target="_blank">website of the Company,</a></h4>
+            href="https://cmereye.com/Investor-Relationship_en" target="_blank">website of the Company,</a></h4>
         <ul>
           <li>the Company will dispatch the Printed Version of the Corporate Communication(s) to the registered
             shareholders' addresses pursuant to their request, or if the Corporate Communication(s) is/are Actionable
@@ -110,7 +110,7 @@
       <div class="content_one">
         <h4><strong>Election of Means of Receipt of Corporate Communications</strong></h4>
         <div class="a_link">Upon publication of Corporate Communication(s) by the Company on the
-          <a href="https://cmereye.com/Investor-Relationship" target="_blank">website of the Company</a>, a registered
+          <a href="https://cmereye.com/Investor-Relationship_en" target="_blank">website of the Company</a>, a registered
           shareholder/non-registered shareholder, who wishes to receive the relevant Corporate Communication(s) in printed
           form may complete and submit the relevant Reply Form (see below) to the Company's registrar by post to 17M
           Floor, Hopewell Centre, 183 Queen's Road East, Wan Chai, Hong Kong, or by email to
