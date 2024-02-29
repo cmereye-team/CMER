@@ -8,8 +8,8 @@
     </div>
     <div class="parent">
       <div class="title_one">
-        <h4>香港股份过户登记分处</h4>
-        <h4><strong>香港中央证券登记有限公司</strong></h4>
+        <h4><strong>香港股份过户登记分处</strong></h4>
+        <h3><strong>香港中央证券登记有限公司</strong></h3>
         <table>
           <tr>
             <th>地址：</th>
@@ -88,11 +88,11 @@
         <div>供登记股东和非登记股东用作更改选取公司通讯之收取方式及/或要求印刷本的回条可在以下下载：</div>
         <div class="a_link_last_div">
           <a href="https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0129/2024012900355.pdf"
-            target="_blank">- 致非登记股东之通知信函 - 以电子方式发布公司通讯之安排及回条</a>
+            target="_blank">致非登记股东之通知信函 - 以电子方式发布公司通讯之安排及回条</a>
         </div>
         <div class="a_link_last_div">
           <a href="https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0129/2024012900367.pdf"
-            target="_blank">- 致登记股东之通知信函 - 以电子方式发布公司通讯之安排及回条</a>
+            target="_blank">致登记股东之通知信函 - 以电子方式发布公司通讯之安排及回条</a>
         </div>
       </div>
     </div>
@@ -135,6 +135,7 @@ export default {
 @media screen and (min-width: 768px) {
   * {
     color: #034a6e;
+    line-height: 1.8;
   }
 
   .banner_Release {
@@ -142,9 +143,15 @@ export default {
   }
 
   .title_one>h4 {
-    font-size: 24px;
+    font-size: 16px;
     margin-bottom: 20px;
   }
+
+  .title_one>h3 {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+
 
   table {
     width: 100%;
@@ -155,17 +162,18 @@ export default {
 
   th,
   td {
-    border: 1px solid black;
-    /* 设置单元格边框为1像素的黑色实线 */
-    padding: 8px;
-    /* 设置单元格内边距 */
     text-align: left;
     /* 设置文本左对齐 */
   }
 
+  tr>th:nth-child(1),
+  tr>td:nth-child(1) {
+    width: 50px;
+  }
+
   .content_one h4 {
-    margin-bottom: 30px;
-    font-size: 24px;
+    margin-bottom: 3px;
+    font-size: 16px;
   }
 
   .content_one {
@@ -173,54 +181,59 @@ export default {
   }
 
   .content_one>div {
-    margin-bottom: 20px;
-    line-height: 200%;
+    margin-bottom: 14px;
+    line-height: 1.8;
+    font-size: 16px;
   }
 
 
   .content_two h4 {
-    margin-bottom: 30px;
-    font-size: 24px;
+    margin-bottom: 3px;
+    font-size: 16px;
   }
 
   .content_two {
-    font-size: 20px;
+    font-size: 16px;
   }
 
   .content_two>div {
-    margin-bottom: 20px;
-    line-height: 200%;
+    margin-bottom: 3px;
+    line-height: 1.8;
   }
 
   .content_two>ul>li {
-    margin-bottom: 10px;
-    line-height: 200%;
+    margin-bottom: 3px;
+    line-height: 1.8;
+    text-align: justify;
   }
 
   .content_three>div {
-    margin-bottom: 10px;
+    margin-bottom: 3px;
   }
 
   .content_three>div:nth-child(1) {
-    margin-bottom: 20px;
+    margin-bottom: 3px;
   }
 
   .parent {
     max-width: 1140px;
     margin: auto;
     margin-top: 60px;
+    padding-right: 230px;
   }
 
   .parent>div {
-    margin-bottom: 60px;
+    margin-bottom: 14px;
   }
 
   .a_link a {
     color: #0174cc;
+    text-decoration: underline;
   }
 
   .a_link_last_div a {
     color: #0038f9;
+    text-decoration: underline;
   }
 
 
@@ -228,15 +241,23 @@ export default {
     list-style: disc;
     padding-left: 24px;
   }
+
+  strong {
+    font-weight: 700;
+  }
 }
+
 @media screen and (max-width: 767px) {
   * {
     color: #034a6e;
+    font-size: 16px;
   }
+
   .banner_about {
     height: 60vh;
     background-size: auto 100%;
   }
+
   .banner_Release {
     background-image: url(https://static.cmereye.com/imgs/2023/01/393b20d78a533ad1.jpg);
   }
@@ -248,6 +269,7 @@ export default {
     margin: auto;
     margin-top: 60px;
   }
+
   table {
     width: 100%;
     /* 设置表格宽度为100% */
@@ -257,26 +279,31 @@ export default {
 
   th,
   td {
-    border: 1px solid black;
-    /* 设置单元格边框为1像素的黑色实线 */
-    padding: 8px;
     /* 设置单元格内边距 */
     text-align: left;
     /* 设置文本左对齐 */
   }
-  tr > th:nth-child(1) {
-    width: 70px;
+
+  tr {
+    padding: 5px 0;
   }
-  .parent > div {
-    margin-bottom: 40px;
+
+  tr>th:nth-child(1) {
+    width: 50px;
+  }
+
+  .parent>div {
+    margin-bottom: 14px;
   }
 
   .a_link a {
     color: #0174cc;
+    text-decoration: underline;
   }
 
   .a_link_last_div a {
     color: #0038f9;
+    text-decoration: underline;
   }
 
 
@@ -286,42 +313,43 @@ export default {
   }
 
   .title_one>h4 {
-    font-size: 16px;
     margin-bottom: 10px;
   }
+
+  .title_one h4 {
+    margin-bottom: 40px;
+  }
+
+  .title_one h3 {
+    margin-bottom: 5px;
+  }
+
   .content_one h4 {
     margin-bottom: 10px;
-    font-size: 16px;
   }
 
   .content_one {
-    font-size: 14px;
+    font-size: 16px;
   }
 
   .content_one>div {
     margin-bottom: 10px;
-    line-height: 200%;
-  }
-
-
-  .content_two h4 {
-    margin-bottom: 30px;
-    font-size: 16px;
+    line-height: 1.8;
   }
 
   .content_two {
-    font-size: 12px;
+    font-size: 16px;
   }
 
   .content_two>div {
     margin-bottom: 10px;
-    line-height: 140%;
+    line-height: 1.8;
   }
 
   .content_two>ul>li {
     margin-bottom: 10px;
-    line-height: 140%;
-    font-size: 14px;
+    line-height: 1.8;
+    font-size: 16px;
   }
 
   .content_three>div {
@@ -331,5 +359,10 @@ export default {
   .content_three>div:nth-child(1) {
     margin-bottom: 10px;
   }
+
+  strong {
+    font-weight: 700;
+  }
 }
 </style>
+

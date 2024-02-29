@@ -8,19 +8,19 @@
     </div>
     <div class="parent">
       <div class="title_one">
-        <h4>THE HONG KONG BRANCH SHARE REGISTRAR </h4>
-        <h4><strong>Computershare Hong Kong Investor Services Limited</strong></h4>
+        <h4><strong>THE HONG KONG BRANCH SHARE REGISTRAR</strong></h4>
+        <h3><strong>Computershare Hong Kong Investor Services Limited</strong></h3>
         <table>
           <tr>
-            <th>Address:</th>
+            <th>Address：</th>
             <th>Shops 1712-1716, 17th Floor, Hopewell Centre, 183 Queen's Road East, Wan Chai, Hong Kong</th>
           </tr>
           <tr>
-            <th>Tel: </th>
+            <th>Tel：</th>
             <th>(852) 2862 8555</th>
           </tr>
           <tr>
-            <th>Fax: </th>
+            <th>Fax：</th>
             <th>(852) 2865 0990 / (852) 2529 6087</th>
           </tr>
         </table>
@@ -45,7 +45,7 @@
         <div class="a_link">Pursuant to the
           <a href="https://www.hkex.com.hk/Listing/Rules-and-Guidance/Listing-Rules?sc_lang=zh-HK" target="_blank">Rules
             Governing the Listing of Securities on The Stock Exchange of Hong Kong Limited,</a>
-          the<a href="https://www.elegislation.gov.hk/" target="_blank">Hong Kong Companies Ordinance</a>
+          the <a href="https://www.elegislation.gov.hk/" target="_blank">Hong Kong Companies Ordinance</a>
           and the Company’s Articles of Association, the Company supplies Corporate Communications (other than Actionable
           Corporate Communication) to shareholders by electronic means through the website of the Company and the
           <a href="https://www.hkexnews.hk/index_c.htm" target="_blank">HKEXnews website</a>
@@ -91,7 +91,7 @@
           request to receive the Corporate Communications in printed form. </div>
       </div>
       <div class="content_two">
-        <h4 class="a_link">Upon posting of Corporate Communication(s) on the<a
+        <h4 class="a_link">Upon posting of Corporate Communication(s) on the <a
             href="https://cmereye.com/Investor-Relationship" target="_blank">website of the Company,</a></h4>
         <ul>
           <li>the Company will dispatch the Printed Version of the Corporate Communication(s) to the registered
@@ -109,8 +109,8 @@
       </div>
       <div class="content_one">
         <h4><strong>Election of Means of Receipt of Corporate Communications</strong></h4>
-        <div style="">Upon publication of Corporate Communication(s) by the Company on the
-          <a href="https://cmereye.com/Investor-Relationship" target="_blank">website of the Company</a>,a registered
+        <div class="a_link">Upon publication of Corporate Communication(s) by the Company on the
+          <a href="https://cmereye.com/Investor-Relationship" target="_blank">website of the Company</a>, a registered
           shareholder/non-registered shareholder, who wishes to receive the relevant Corporate Communication(s) in printed
           form may complete and submit the relevant Reply Form (see below) to the Company's registrar by post to 17M
           Floor, Hopewell Centre, 183 Queen's Road East, Wan Chai, Hong Kong, or by email to
@@ -120,21 +120,28 @@
           A registered shareholder/non-registered shareholder may from time to time change his/her choice of means of
           receiving Corporate Communications with not less than seven days’ notice in writing to the Company's registrar
           by completing and submitting the relevant Reply Form (see below) by post to the above address, or by email to
-          cmereye.ecom@computershare.com.hk.  The change request will apply to the next and subsequent Corporate
+          cmereye.ecom@computershare.com.hk. The change request will apply to the next and subsequent Corporate
           Communications issued by the Company.  
         </div>
-        <div>A shareholder’s request for the Printed Version of future Corporate Communications issued by the Company (see “Corporate Communication Requests” above for details) will remain valid until the instruction has been revoked or superseded or upon expiry of one year starting from the receipt date of the instruction (whichever is earlier).  </div>
-        <div>A shareholder may complete and submit the relevant Reply Form (see below) to the Company's registrar by post to the above address, or by email to cmereye.ecom@computershare.com.hk.  </div>
+        <div>A shareholder’s request for the Printed Version of future Corporate Communications issued by the Company (see
+          “Corporate Communication Requests” above for details) will remain valid until the instruction has been revoked
+          or superseded or upon expiry of one year starting from the receipt date of the instruction (whichever is
+          earlier).  </div>
+        <div>A shareholder may complete and submit the relevant Reply Form (see below) to the Company's registrar by post
+          to the above address, or by email to cmereye.ecom@computershare.com.hk.  </div>
       </div>
       <div class="content_three">
-        <div>Reply Forms for registered shareholders and non-registered shareholders to change their means of receiving Corporate Communications and/or to request the Printed Version are available for download below:</div>
+        <div>Reply Forms for registered shareholders and non-registered shareholders to change their means of receiving
+          Corporate Communications and/or to request the Printed Version are available for download below:</div>
         <div class="a_link_last_div">
           <a href="https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0129/2024012900355.pdf"
-            target="_blank">- Notification Letter to Non-Registered Holder - Arrangement of Electronic Dissemination of Corporate Communications and Reply Form</a>
+            target="_blank">Notification Letter to Non-Registered Holder - Arrangement of Electronic Dissemination of
+            Corporate Communications and Reply Form</a>
         </div>
         <div class="a_link_last_div">
           <a href="https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0129/2024012900367.pdf"
-            target="_blank">- Notification Letter to Registered Holder - Arrangement of Electronic Dissemination of Corporate Communications and Reply Form</a>
+            target="_blank">Notification Letter to Registered Holder - Arrangement of Electronic Dissemination of
+            Corporate Communications and Reply Form</a>
         </div>
       </div>
     </div>
@@ -177,6 +184,7 @@ export default {
 @media screen and (min-width: 768px) {
   * {
     color: #034a6e;
+    font-size: 16px;
   }
 
   .banner_Release {
@@ -184,8 +192,9 @@ export default {
   }
 
   .title_one>h4 {
-    font-size: 24px;
-    margin-bottom: 20px;
+    margin-bottom: 14px;
+    font-weight: 500;
+    font-size: 20px;
   }
 
   table {
@@ -197,72 +206,74 @@ export default {
 
   th,
   td {
-    border: 1px solid black;
-    /* 设置单元格边框为1像素的黑色实线 */
-    padding: 8px;
-    /* 设置单元格内边距 */
     text-align: left;
     /* 设置文本左对齐 */
   }
-
-  .content_one h4 {
-    margin-bottom: 30px;
-    font-size: 24px;
+  tr > td:nth-child(1),
+  tr > th:nth-child(1) { 
+    width: 60px;
   }
 
-  .content_one {
+  .content_one h4 {
+    font-weight: 500;
+    margin-bottom: 14px;
+    font-size: 20px;
+  }
+  .content_one > h4 {
     font-size: 20px;
   }
 
   .content_one>div {
     margin-bottom: 20px;
-    line-height: 200%;
+    line-height: 1.8;
+    text-align: justify;
   }
 
 
   .content_two h4 {
     margin-bottom: 30px;
-    font-size: 24px;
-  }
-
-  .content_two {
+    font-weight: 500;
     font-size: 20px;
   }
 
   .content_two>div {
     margin-bottom: 20px;
-    line-height: 200%;
+    line-height: 1.8;
   }
 
   .content_two>ul>li {
     margin-bottom: 10px;
-    line-height: 200%;
+    line-height: 1.8;
   }
 
   .content_three>div {
-    margin-bottom: 10px;
+    margin-bottom: 5px;
   }
 
   .content_three>div:nth-child(1) {
-    margin-bottom: 20px;
+    margin-bottom: 14px;
   }
 
   .parent {
     max-width: 1140px;
     margin: auto;
     margin-top: 60px;
+    margin-bottom: 60px;
+    padding-right: 230px;
   }
 
   .parent>div {
-    margin-bottom: 60px;
+    margin-bottom: 14px;
   }
 
   .a_link a {
     color: #0174cc;
+    text-decoration: underline;
   }
 
   .a_link_last_div a {
     color: #0038f9;
+    text-decoration: underline;
   }
 
 
@@ -275,11 +286,14 @@ export default {
 @media screen and (max-width: 767px) {
   * {
     color: #034a6e;
+    font-size: 16px;
   }
+
   .banner_about {
     height: 60vh;
     background-size: auto 100%;
   }
+
   .banner_Release {
     background-image: url(https://static.cmereye.com/imgs/2023/01/393b20d78a533ad1.jpg);
   }
@@ -291,6 +305,7 @@ export default {
     margin: auto;
     margin-top: 60px;
   }
+
   table {
     width: 100%;
     /* 设置表格宽度为100% */
@@ -300,26 +315,27 @@ export default {
 
   th,
   td {
-    border: 1px solid black;
-    /* 设置单元格边框为1像素的黑色实线 */
-    padding: 8px;
-    /* 设置单元格内边距 */
+    padding:  5px 0;
     text-align: left;
     /* 设置文本左对齐 */
   }
-  tr > th:nth-child(1) {
+
+  tr>th:nth-child(1) {
     width: 70px;
   }
-  .parent > div {
-    margin-bottom: 40px;
+
+  .parent>div {
+    margin-bottom: 14px;
   }
 
   .a_link a {
     color: #0174cc;
+    text-decoration: underline;
   }
 
   .a_link_last_div a {
     color: #0038f9;
+    text-decoration: underline;
   }
 
 
@@ -327,28 +343,35 @@ export default {
     list-style: disc;
     padding-left: 20px;
   }
-
   .title_one>h4 {
     font-size: 16px;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
   }
+
+  .title_one>h3{
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+
   .content_one h4 {
     margin-bottom: 10px;
     font-size: 16px;
   }
 
   .content_one {
+    margin-top: 25px;
     font-size: 14px;
   }
 
   .content_one>div {
     margin-bottom: 10px;
-    line-height: 200%;
+    line-height: 1.8;
+    text-align: justify;
   }
 
 
   .content_two h4 {
-    margin-bottom: 30px;
+    margin-bottom: 14px;
     font-size: 16px;
   }
 
@@ -358,13 +381,13 @@ export default {
 
   .content_two>div {
     margin-bottom: 10px;
-    line-height: 140%;
+    line-height: 1.8;
   }
 
   .content_two>ul>li {
     margin-bottom: 10px;
-    line-height: 140%;
-    font-size: 14px;
+    line-height: 1.8;
+    text-align: justify;
   }
 
   .content_three>div {
