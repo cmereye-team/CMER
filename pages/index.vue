@@ -106,8 +106,8 @@ export default {
         { pic: "/img/index_part2_6.png", title: "醫生創辦和管理的醫療集團" },
       ],
       foot_logo: [
-        { pic: "/img/index_footlogo.svg", link: "https://www.hkcmereye.com/" },
-        { pic: "/img/Asset-1.svg", link: "https://smile.hkcmereye.com/" },
+        { pic: "https://static.cmereye.com/imgs/2024/02/1bd2d4c59dcf5230.jpg", link: "https://www.hkcmereye.com/" },
+        { pic: "https://smile.hkcmereye.com/_nuxt/img/Logo.0b77a8a.svg", link: "https://smile.hkcmereye.com/" },
         {
           pic: "/img/index_footlogo_10.jpg",
           link: "https://www.cmervision.com/",
