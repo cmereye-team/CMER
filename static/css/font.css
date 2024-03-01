@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Elliot Pro-Regular';
+  src: url('../font/FS Elliot Pro-Regular.otf');
+}
+
+@font-face {
+  font-family: 'Elliot Pro-Bold';
+  src: url('../font/FSElliotPro-Bold.woff');
+}
+
+@font-face {
+  font-family: 'Elliot Pro-Light';
+  src: url('../font/FSElliotPro-Light.woff');
+}
+
+@font-face {
+  font-family: 'Fselliotpro';
+  src: url('../font/FSElliotPro.woff');
+}

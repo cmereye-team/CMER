@@ -131,10 +131,12 @@ export default {
 }
 </script>
 <style scoped>
+@import url('../static/css/font.css');
 @media screen and (min-width: 768px) {
   * {
     color: #034a6e;
     line-height: 1.8;
+    /* font-family: Fselliotpro, JhengHeiFix, "Microsoft JhengHei", 微軟正黑體, 微軟雅黑體, "黑体", "Arial", sans-serif; */
   }
 
   .banner_Release {
