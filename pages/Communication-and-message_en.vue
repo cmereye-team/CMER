@@ -186,7 +186,7 @@ export default {
   * {
     color: #034a6e;
     font-size: 16px;
-    /* font-family: Fselliotpro, JhengHeiFix, "Microsoft JhengHei", 微軟正黑體, 微軟雅黑體, "黑体", "Arial", sans-serif; */
+    font-family: Fselliotpro, JhengHeiFix, "Microsoft JhengHei", 微軟正黑體, 微軟雅黑體, "黑体", "Arial", sans-serif;
   }
 
   .banner_Release {
